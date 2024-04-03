@@ -10,3 +10,4 @@ result*
 .nixie
 *.yldl
 *.part
+*.llc
