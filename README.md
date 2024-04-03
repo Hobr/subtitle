@@ -2,6 +2,13 @@
 
 个人翻译的一些视频的字幕
 
+## 工具链
+
+- [Youtube资源下载 yl-dlp](https://github.com/yt-dlp/yt-dlp)
+- [字幕生成 OpenAI-Whisper](https://github.com/ggerganov/whisper.cpp)
+- [字幕轴 Aegisub](https://github.com/arch1t3cht/Aegisub)
+- [影视资源编辑 FFmpeg](https://github.com/FFmpeg/FFmpeg)
+
 ## 链接
 
 - [Youtube Watch](https://www.youtube.com/watch?v=)
