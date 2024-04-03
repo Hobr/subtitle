@@ -3,3 +3,8 @@
 *.webm
 *.m4a
 *.mkv
+.vscode
+local.md
+.direnv
+result*
+.nixie
