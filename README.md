@@ -8,6 +8,8 @@
 - [字幕生成 OpenAI-Whisper](https://github.com/ggerganov/whisper.cpp)
 - [字幕轴 Aegisub](https://github.com/arch1t3cht/Aegisub)
 - [影视资源编辑 FFmpeg](https://github.com/FFmpeg/FFmpeg)
+- [扩展分辨率 ESRGAN](https://github.com/xinntao/Real-ESRGAN/)
+- [插帧 RIFE](https://github.com/Justin62628/Squirrel-RIFE)
 
 ## 链接
 
