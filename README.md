@@ -20,7 +20,6 @@
 
 - [ ] 《吹响吧！上低音号 第三季》
   - [ ] PV Youtube Watch
-    - [ ] 特别影像 tivWtieIPOk
     - [ ] PV1 Lmjt1Jw9sbM
     - [ ] PV2 dzSh0bjmUVA BV1t1421Q7gF
 
@@ -39,7 +38,7 @@
     - [ ] 高坂麗奈 安済知佳 nLFMu_2Mp5Q BV1aD42157Hw
     - [ ] 黒江真由 戸松遥 mXrTUkqc7MA BV1eK421h7gR
     - [ ] 塚本秀一 石谷春貴 Uu_z4pXQCB0 BV1UM4m1X7bL
-    - [ ] 久石奏 雨宮天 sB3vcHwANaQ BV1zZ421q7im
+    - [ ] 久石奏 雨宮天 2l4FwDXW5bc BV1zZ421q7im
   - 其他 Youtube Watch
     - [ ] 前情回顾 hhWQLeE8L4E
     - [ ] 大赛战绩 rf0EcJkyPNg

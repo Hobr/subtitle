@@ -8,3 +8,5 @@ local.md
 .direnv
 result*
 .nixie
+*.yldl
+*.part
