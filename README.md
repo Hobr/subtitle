@@ -19,7 +19,6 @@
 
 ## 翻译作品
 
-
 - [ ] 《吹响吧！上低音号 第三季》
   - [ ] PV Youtube Watch
     - [ ] PV1 Lmjt1Jw9sbM
@@ -35,12 +34,13 @@
     - [ ] 加藤葉月 zTcfGiWVpKQ
     - [ ] 高坂麗奈 5yIEVPnovHE
     - [ ] 黄前久美子 5qe_jyf_paM
-    
+
   - [ ] 声优PV Youtube Shorts
     - [ ] 高坂麗奈 安済知佳 nLFMu_2Mp5Q BV1aD42157Hw
     - [ ] 黒江真由 戸松遥 mXrTUkqc7MA BV1eK421h7gR
     - [ ] 塚本秀一 石谷春貴 Uu_z4pXQCB0 BV1UM4m1X7bL
     - [ ] 久石奏 雨宮天 2l4FwDXW5bc BV1zZ421q7im
+    - [x] 川島緑輝 豊田萌絵 zGJza3ymgWk BV1ix421U7dX
   - 其他 Youtube Watch
     - [ ] 前情回顾 hhWQLeE8L4E
     - [ ] 大赛战绩 rf0EcJkyPNg
