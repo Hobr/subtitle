@@ -45,5 +45,9 @@
     - [ ] 前情回顾 hhWQLeE8L4E
     - [ ] 大赛战绩 rf0EcJkyPNg
 
+  - OP/ED
+    - [x] OP1 BV1dD421579R
+    - [x] ED1 BV1if421o7V8
+
 - NAVI Vlog
   - [ ] 哥本哈根冠军Vlog B0m-QqR4_bg
