@@ -44,3 +44,6 @@
   - 其他 Youtube Watch
     - [ ] 前情回顾 hhWQLeE8L4E
     - [ ] 大赛战绩 rf0EcJkyPNg
+
+- NAVI Vlog
+  - [ ] 哥本哈根冠军Vlog B0m-QqR4_bg
