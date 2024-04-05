@@ -41,7 +41,7 @@
     - [ ] 塚本秀一 石谷春貴 Uu_z4pXQCB0 BV1UM4m1X7bL
     - [ ] 久石奏 雨宮天 2l4FwDXW5bc BV1zZ421q7im
     - [x] 川島緑輝 豊田萌絵 zGJza3ymgWk BV1ix421U7dX
-    - [ ] 加藤葉月 朝井彩加 1Br_L72YgSg BV1Aj421R7Wx
+    - [x] 加藤葉月 朝井彩加 1Br_L72YgSg BV1Aj421R7Wx
   - 其他 Youtube Watch
     - [ ] 前情回顾 hhWQLeE8L4E
     - [ ] 大赛战绩 rf0EcJkyPNg
