@@ -32,7 +32,7 @@ whisper-cpp --debug-mode true -l ja -t 16 -m /mnt/data/Hobr/Downloads/WhisperDes
 # 插帧
 
 # 嵌入ass
-ffmpeg -hwaccel_output_format cuda -vf ass=lyrics.ass -c copy -crf 18 -i video.mp4 -y final.mp4
+ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 5 -c:a copy dist.mp4
 ```
 
 ## 链接
