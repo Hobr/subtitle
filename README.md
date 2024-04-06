@@ -11,6 +11,30 @@
 - [扩展分辨率 ESRGAN](https://github.com/xinntao/Real-ESRGAN/)
 - [插帧 RIFE](https://github.com/Justin62628/Squirrel-RIFE)
 
+
+## 常用操作
+
+```bash
+# 查询可用信息
+yt-dlp -F XXX
+
+# 下载
+yt-dlp -o video -fx+x XXX
+
+# 转码到16KHz
+ffmpeg -ar 16000 output.wav -i video.mkv
+
+# Whisper 识别字幕
+whisper-cpp --debug-mode true -l ja -t 16 -m /mnt/data/Hobr/Downloads/WhisperDesktop/ggml-large-v3.bin -osrt -pp  -f output.wav
+
+# 放大
+
+# 插帧
+
+# 嵌入ass
+ffmpeg -hwaccel_output_format cuda -vf ass=lyrics.ass -c copy -crf 18 -i video.mp4 -y final.mp4
+```
+
 ## 链接
 
 - [Youtube Watch](https://www.youtube.com/watch?v=)
@@ -42,6 +66,7 @@
     - [ ] 久石奏 雨宮天 2l4FwDXW5bc BV1zZ421q7im
     - [x] 川島緑輝 豊田萌絵 zGJza3ymgWk BV1ix421U7dX
     - [x] 加藤葉月 朝井彩加 1Br_L72YgSg BV1Aj421R7Wx
+    - [x] 黄前久美子 黒沢ともよ(朋世) k-7B0-M2D8o BV1hA4m1w7zg
   - 其他 Youtube Watch
     - [ ] 前情回顾 hhWQLeE8L4E
     - [ ] 大赛战绩 rf0EcJkyPNg
