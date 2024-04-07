@@ -58,6 +58,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 5 -c:a copy dist.m
     - [ ] 加藤葉月 zTcfGiWVpKQ
     - [ ] 高坂麗奈 5yIEVPnovHE
     - [ ] 黄前久美子 5qe_jyf_paM
+    - [x] 黑江真由 i4ZACWf3qiQ BV1bx4y1Y7bz
 
   - 声优PV Youtube Shorts
     - [ ] 高坂麗奈 安済知佳 nLFMu_2Mp5Q BV1aD42157Hw
