@@ -77,7 +77,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 5 -c:a copy dist.m
     - [x] ED1 BV1if421o7V8
 
   - CM
-    - [ ] BD第一卷 AE24y4fJGbA
+    - [x] BD第一卷 AE24y4fJGbA BV1p1421m7Z3
 
 - NAVI Vlog
   - [ ] 哥本哈根冠军Vlog B0m-QqR4_bg
