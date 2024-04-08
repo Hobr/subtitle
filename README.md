@@ -53,13 +53,16 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 5 -c:a copy dist.m
     - [x] 黑江真由 i4ZACWf3qiQ BV1bx4y1Y7bz
 
   - 声优PV Youtube Shorts
-    - [x] 久石奏 雨宮天 2l4FwDXW5bc BV1zZ421q7im
-    - [x] 塚本秀一 石谷春貴 Uu_z4pXQCB0 BV1UM4m1X7bL
-    - [x] 黒江真由 戸松遥 mXrTUkqc7MA BV1eK421h7gR
-    - [x] 高坂麗奈 安済知佳 nLFMu_2Mp5Q BV1aD42157Hw
-    - [x] 川島緑輝 豊田萌絵 zGJza3ymgWk BV1ix421U7dX
-    - [x] 加藤葉月 朝井彩加 1Br_L72YgSg BV1Aj421R7Wx
-    - [x] 黄前久美子 黒沢ともよ(朋世) k-7B0-M2D8o BV1hA4m1w7zg
+    - 放送前
+      - [x] 久石奏 雨宮天 2l4FwDXW5bc BV1zZ421q7im
+      - [x] 塚本秀一 石谷春貴 Uu_z4pXQCB0 BV1UM4m1X7bL
+      - [x] 黒江真由 戸松遥 mXrTUkqc7MA BV1eK421h7gR
+      - [x] 高坂麗奈 安済知佳 nLFMu_2Mp5Q BV1aD42157Hw
+      - [x] 川島緑輝 豊田萌絵 zGJza3ymgWk BV1ix421U7dX
+      - [x] 加藤葉月 朝井彩加 1Br_L72YgSg BV1Aj421R7Wx
+      - [x] 黄前久美子 黒沢ともよ(朋世) k-7B0-M2D8o BV1hA4m1w7zg
+    - 放送中
+      - [x] 第一集 黄前久美子 黒沢朋世(ともよ) NfbnEl2WmK0 BV1Gm41167x4
 
   - OP/ED
     - [x] OP1 BV1dD421579R
