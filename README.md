@@ -64,8 +64,8 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 5 -c:a copy dist.m
       - [x] 第一集 黄前久美子 黒沢朋世(ともよ) NfbnEl2WmK0 BV1Gm41167x4
 
   - OP/ED
-    - [x] OP1 BV1dD421579R
-    - [x] ED1 BV1if421o7V8
+    - [x] OP1 1ns78jyf0fw BV1cC411V7yQ BV1dD421579R
+    - [x] ED1 VBNklQKX_IU BV1kp421Q7yJ BV1if421o7V8
 
   - CM
     - [x] BD第一卷 AE24y4fJGbA BV1p1421m7Z3
