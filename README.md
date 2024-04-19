@@ -71,3 +71,4 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 5 -c:a copy dist.m
   - CM
     - [x] BD第一卷 AE24y4fJGbA BV1p1421m7Z3
     - [x] 第二集预告 _rgXNQHih_o BV16i421f7fE
+    - [x] 第三集预告 MacQeKJ95SM BV1bH4y1N7KU
