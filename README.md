@@ -75,3 +75,11 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 5 -c:a copy dist.m
     - [x] 第三集预告 MacQeKJ95SM BV1bH4y1N7KU
     - [x] 第四集预告 ksOB0iKTTDY BV1ap421S7YN
     - [x] 第五集预告 y2zLVJQ0U0o BV1qZ421779b
+
+- Linux Foundation
+  - 报告
+    - [ ] 对开源的思考-凯尔西·海托(卓越的软件工程师) NIvSgk0oV7Y
+
+- RISC-V International
+  - 采访
+    - [ ] 对话RISC-V国际首席执行官-世界嵌入式展览会 i4sbrWZPs6k
