@@ -21,10 +21,10 @@ yt-dlp -F XXX
 yt-dlp -o video -fx+x XXX
 
 # 转码到16KHz
-ffmpeg -ar 16000 output.wav -i video.mkv
+ffmpeg -ar 16000 -ac 1 -c:a pcm_s16le output.wav -i video.mkv
 
 # Whisper 识别字幕
-whisper-cpp --debug-mode true -l ja -t 16 -m /mnt/data/Hobr/Downloads/WhisperDesktop/ggml-large-v3.bin -osrt -pp  -f output.wav
+whisper-cpp --debug-mode true -l ja -t 16 -m /mnt/data/Hobr/Downloads/WhisperDesktop/ggml-large-v3.bin -osrt -pp -f output.wav
 
 # 放大
 
