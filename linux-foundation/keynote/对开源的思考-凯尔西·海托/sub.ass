@@ -15,6 +15,9 @@ Video File: video.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
+Scroll Position: 91
+Active Line: 98
+Video Position: 9542
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,179 +31,217 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,//------中文模板------
 Comment: 1,0:00:00.00,0:00:00.00,中文,,0,0,0,template char noblank,!retime("line",($si-1)*30-100,($si-1)*30+100)!{\an5\pos($center,$middle)\blur2\fad(100,100)}
 Comment: 1,0:00:00.00,0:00:00.00,英文,,0,0,0,template char noblank,!retime("line",($si-1)*30-100,($si-1)*30+100)!{\an5\pos($center,$middle)\blur2\fad(100,100)}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,//------K值------
-Dialogue: 0,0:00:00.32,0:00:03.04,英文,,0,0,0,,Today represents a first for me.
-Dialogue: 0,0:00:03.04,0:00:08.16,英文,,0,0,0,,After a 25 year career, this is the first time I've ever worn a sports jacket in a professional
-Dialogue: 0,0:00:08.16,0:00:13.56,英文,,0,0,0,,setting.
-Dialogue: 0,0:00:13.56,0:00:17.56,英文,,0,0,0,,How does it look?
-Dialogue: 0,0:00:17.56,0:00:24.60,英文,,0,0,0,,I bought this thing on Friday, and when you buy a sports coat from the store, you know,
-Dialogue: 0,0:00:24.60,0:00:28.60,英文,,0,0,0,,they sell these things to anybody, they're not made for you.
-Dialogue: 0,0:00:28.60,0:00:31.98,英文,,0,0,0,,The sleeves came all the way down to my knuckles.
-Dialogue: 0,0:00:31.98,0:00:35.78,英文,,0,0,0,,And my wife, realizing that I was not going to have enough time to get it tailored, she's
-Dialogue: 0,0:00:35.78,0:00:39.78,英文,,0,0,0,,like, "It looks fine."
-Dialogue: 0,0:00:39.78,0:00:44.46,英文,,0,0,0,,And I'm standing in the mirror, feeling like I was a seven year old wearing his father's
-Dialogue: 0,0:00:44.46,0:00:46.66,英文,,0,0,0,,jacket.
-Dialogue: 0,0:00:46.66,0:00:48.10,英文,,0,0,0,,And I got desperate.
-Dialogue: 0,0:00:48.10,0:00:55.96,英文,,0,0,0,,On Sunday, I'm Googling for someone that can do alterations, and all I see is closed, closed,
-Dialogue: 0,0:00:55.96,0:00:56.96,英文,,0,0,0,,opens on Tuesday.
-Dialogue: 0,0:00:56.96,0:00:58.54,英文,,0,0,0,,And I'm like, "I don't have a chance."
-Dialogue: 0,0:00:58.54,0:01:06.16,英文,,0,0,0,,And about 15 miles away from my home, there was a person that was open till 9:00.
-Dialogue: 0,0:01:06.16,0:01:12.16,英文,,0,0,0,,And I'm a little worried that, why are you open till 9:00 on a Sunday?
-Dialogue: 0,0:01:12.16,0:01:15.28,英文,,0,0,0,,Aren't you busy all week that you need time off?
-Dialogue: 0,0:01:15.28,0:01:20.56,英文,,0,0,0,,There's a reason why he's open when no one else is.
-Dialogue: 0,0:01:20.56,0:01:22.62,英文,,0,0,0,,But I had to take my chances.
-Dialogue: 0,0:01:22.62,0:01:24.86,英文,,0,0,0,,So I get in my car.
-Dialogue: 0,0:01:24.86,0:01:26.48,英文,,0,0,0,,Before getting in our car, I did call.
-Dialogue: 0,0:01:26.48,0:01:28.48,英文,,0,0,0,,And I said, "Hey, how much?"
-Dialogue: 0,0:01:28.48,0:01:33.68,英文,,0,0,0,,"And how long to tailor a men's suit, sports coat?"
-Dialogue: 0,0:01:33.68,0:01:34.68,英文,,0,0,0,,He was like, "A week."
-Dialogue: 0,0:01:34.68,0:01:36.98,英文,,0,0,0,,And I was like, "I need it much sooner than that."
-Dialogue: 0,0:01:36.98,0:01:37.98,英文,,0,0,0,,He said, "Two days."
-Dialogue: 0,0:01:37.98,0:01:39.04,英文,,0,0,0,,And I said, "You're getting close."
-Dialogue: 0,0:01:39.04,0:01:44.76,英文,,0,0,0,,"I need it today."
-Dialogue: 0,0:01:44.76,0:01:48.46,英文,,0,0,0,,He was like, "Ah, you got to pick it up by 4:00."
-Dialogue: 0,0:01:48.46,0:01:51.32,英文,,0,0,0,,So I drove down there, and he told me $20.
-Dialogue: 0,0:01:51.32,0:01:54.82,英文,,0,0,0,,I'm really getting nervous now.
-Dialogue: 0,0:01:54.82,0:01:58.42,英文,,0,0,0,,And I pull up, and it's a house in a normal neighborhood.
-Dialogue: 0,0:01:58.42,0:02:03.54,英文,,0,0,0,,No storefront, no fancy signage.
-Dialogue: 0,0:02:03.54,0:02:07.72,英文,,0,0,0,,And he opened the door with no shoes on.
-Dialogue: 0,0:02:07.72,0:02:13.36,英文,,0,0,0,,And I'm thinking to myself, I'm not getting this suit back if I leave it here.
-Dialogue: 0,0:02:13.36,0:02:16.72,英文,,0,0,0,,But you only live once.
-Dialogue: 0,0:02:16.72,0:02:19.72,英文,,0,0,0,,So I walk in, and I saw the sewing machines in the corner.
-Dialogue: 0,0:02:19.72,0:02:22.14,英文,,0,0,0,,So I'm like, all right, it's getting a little legit.
-Dialogue: 0,0:02:22.14,0:02:25.48,英文,,0,0,0,,I see other garments waiting to be tailored.
-Dialogue: 0,0:02:25.48,0:02:27.52,英文,,0,0,0,,Maybe I am in the right place.
-Dialogue: 0,0:02:27.52,0:02:28.36,英文,,0,0,0,,And he hung it up.
-Dialogue: 0,0:02:28.36,0:02:33.30,英文,,0,0,0,,on a string hanging from the ceiling. And it twirled around. I'm like, what are you doing?
-Dialogue: 0,0:02:33.30,0:02:38.20,英文,,0,0,0,,And he asked me to put the jacket on. And I was like, what do you think? He was like, yeah,
-Dialogue: 0,0:02:38.20,0:02:43.64,英文,,0,0,0,,you definitely need to take it down an inch or so. And so I leave the jacket with him.
-Dialogue: 0,0:02:43.64,0:02:52.44,英文,,0,0,0,,And I come back. And I put the jacket on. And here's the thing. The name of this place is
-Dialogue: 0,0:02:53.10,0:02:59.30,英文,,0,0,0,,Bethany and Linda's Alterations. That's his American name. He didn't speak English that well.
-Dialogue: 0,0:02:59.30,0:03:07.24,英文,,0,0,0,,And he did his best to make me feel comfortable. I put the jacket on. And that's when I learned
-Dialogue: 0,0:03:07.24,0:03:15.70,英文,,0,0,0,,that language is universal. Watch how I use it. Silence and a smile is the same in every language.
-Dialogue: 0,0:03:15.70,0:03:18.96,英文,,0,0,0,,And I put this jacket on. And it reminded me something.
-Dialogue: 0,0:03:18.96,0:03:22.70,英文,,0,0,0,,We live in a fairly open society.
-Dialogue: 0,0:03:22.70,0:03:26.18,英文,,0,0,0,,We live in a society where I can buy a jacket that wasn't quite made for me.
-Dialogue: 0,0:03:26.18,0:03:31.80,英文,,0,0,0,,And he possessed the skill through open knowledge to tailor it for my exact needs.
-Dialogue: 0,0:03:31.80,0:03:37.98,英文,,0,0,0,,In the software world, we call this patches or features or bug fixes. But he made it perfect
-Dialogue: 0,0:03:37.98,0:03:44.78,英文,,0,0,0,,just for me. And I smiled. And I gave him $60. And he was so happy. The first thing he said,
-Dialogue: 0,0:03:44.78,0:03:51.78,英文,,0,0,0,,this is too much money. It's only $20. I said, you can keep it. The jacket's perfect.
-Dialogue: 0,0:03:51.78,0:03:59.18,英文,,0,0,0,,And he smiled like a child. And he held the $60 close to his chest. He said, I'm taking the family
-Dialogue: 0,0:03:59.18,0:04:00.08,英文,,0,0,0,,out to dinner tonight.
-Dialogue: 0,0:04:00.08,0:04:12.50,英文,,0,0,0,,And the world is filled of these hidden maintainers. No one really knows their names.
-Dialogue: 0,0:04:12.50,0:04:18.64,英文,,0,0,0,,They don't work for a big, fancy company. But they do their best to make sure that we
-Dialogue: 0,0:04:18.64,0:04:21.02,英文,,0,0,0,,get to use the things that work for us.
-Dialogue: 0,0:04:21.02,0:04:26.76,英文,,0,0,0,,All those bug fixes, all those GitHub issues, there's a silent league of maintainers out here
-Dialogue: 0,0:04:26.76,0:04:32.22,英文,,0,0,0,,doing that kind of work, tailor-fitting our software for our own needs.
-Dialogue: 0,0:04:32.22,0:04:39.58,英文,,0,0,0,,When we think about what it takes to deliver on some of this software, I think we're in this
-Dialogue: 0,0:04:39.58,0:04:43.80,英文,,0,0,0,,really pivotal point. Because open source has been such this powerful thing that we sometimes,
-Dialogue: 0,0:04:43.80,0:04:49.34,英文,,0,0,0,,I think, take it for granted. It's tricky. I want you to go through a thought experiment.
-Dialogue: 0,0:04:49.34,0:04:51.00,英文,,0,0,0,,Imagine if you had a thought experiment. And you had a thought experiment. And you had a thought
-Dialogue: 0,0:04:51.00,0:04:51.84,英文,,0,0,0,,experiment. And you had a thought experiment. And you had a thought experiment. And you had
-Dialogue: 0,0:04:51.84,0:05:00.40,英文,,0,0,0,,been diagnosed with an untreatable disease. Not even curable, untreatable. And so you decide to
-Dialogue: 0,0:05:00.40,0:05:07.50,英文,,0,0,0,,dedicate your entire life work to this disease. And the good news is you don't have to start from
-Dialogue: 0,0:05:07.50,0:05:15.00,英文,,0,0,0,,scratch. You get to rely on previous science. You get to use very mature machines, microscopes.
-Dialogue: 0,0:05:15.00,0:05:20.10,英文,,0,0,0,,You get to read all the research papers that came before you. And then you find a solution.
-Dialogue: 0,0:05:20.10,0:05:29.42,英文,,0,0,0,,you've done it you can finally save yourself you have to make a pivotal decision do you keep this
-Dialogue: 0,0:05:29.42,0:05:37.18,英文,,0,0,0,,formula for yourself or do you decide to share with other people that there is no right answer
-Dialogue: 0,0:05:37.18,0:05:44.40,英文,,0,0,0,,here because why not capitalize on all the value that you've just now introduced to the world
-Dialogue: 0,0:05:44.40,0:05:49.46,英文,,0,0,0,,isn't it only fair that you get to capitalize from this i'm pretty sure some of you in the
-Dialogue: 0,0:05:49.46,0:05:55.24,英文,,0,0,0,,audience would be like who in their right mind would miss out on an opportunity to make billions
-Dialogue: 0,0:05:55.24,0:06:01.78,英文,,0,0,0,,of dollars from their own invention well if you look around the room here today those people are
-Dialogue: 0,0:06:01.78,0:06:08.60,英文,,0,0,0,,sitting next to you think about some of these global projects that we have that the very same
-Dialogue: 0,0:06:08.60,0:06:14.76,英文,,0,0,0,,maintainers could have easily chosen to start a company and go to proprietary route and keep it
-Dialogue: 0,0:06:14.76,0:06:18.82,英文,,0,0,0,,all for themselves but instead they chose to open source
-Dialogue: 0,0:06:18.82,0:06:25.70,英文,,0,0,0,,and stand behind those projects and make it available to all it's a very tricky place to be
-Dialogue: 0,0:06:25.70,0:06:30.82,英文,,0,0,0,,and i don't think there's a perfect answer for this so i have a lot of empathy with companies
-Dialogue: 0,0:06:30.82,0:06:38.08,英文,,0,0,0,,contributors and maintainers that are struggling with how long can i do this for we hear about
-Dialogue: 0,0:06:38.08,0:06:41.54,英文,,0,0,0,,open source sustainability but i'm not quite sure people understand what this means
-Dialogue: 0,0:06:41.54,0:06:48.18,英文,,0,0,0,,i've been an open source contributor for a while and there's this saying if you're the
-Dialogue: 0,0:06:48.18,0:06:52.22,英文,,0,0,0,,smartest person in the room then you're in the wrong room and you should leave
-Dialogue: 0,0:06:52.22,0:06:59.18,英文,,0,0,0,,but eventually if we all did that then the room would be empty and when i got into open source
-Dialogue: 0,0:06:59.18,0:07:05.22,英文,,0,0,0,,those smart people didn't leave the room they chose to collaborate instead they even made a
-Dialogue: 0,0:07:05.22,0:07:10.04,英文,,0,0,0,,seat for me i sat down didn't know what i was doing didn't know how to contribute didn't know
-Dialogue: 0,0:07:10.04,0:07:16.16,英文,,0,0,0,,the workflow process but they figured out a way to make it so the documentation the code reviews
-Dialogue: 0,0:07:16.16,0:07:17.54,英文,,0,0,0,,this is what happens
-Dialogue: 0,0:07:17.54,0:07:22.14,英文,,0,0,0,,when the smart people stay in the room
-Dialogue: 0,0:07:22.14,0:07:28.82,英文,,0,0,0,,so one day i got to return the favor i remember i open sourced my first project CompD
-Dialogue: 0,0:07:28.82,0:07:38.76,英文,,0,0,0,,wasn't super popular but it did make its way around the world i remember going to an open source conference in europe conference called FOSDEM
-Dialogue: 0,0:07:38.76,0:07:46.90,英文,,0,0,0,,and i'm standing in the back of this room and there is someone that i don't know that was given a presentation about CompD
-Dialogue: 0,0:07:46.90,0:07:52.66,英文,,0,0,0,,they had all these wonderful things to say i'm in the back just smiling my ass off
-Dialogue: 0,0:07:52.66,0:08:01.46,英文,,0,0,0,,i'm not quite famous but people know who i am or at least they're aware of the work that i do
-Dialogue: 0,0:08:01.46,0:08:06.90,英文,,0,0,0,,and they went on to tell the audience of how it was so important that i chose not only to scratch
-Dialogue: 0,0:08:06.90,0:08:14.50,英文,,0,0,0,,my own itch but i also helped them with theirs i felt really good about that project and so as a
-Dialogue: 0,0:08:14.50,0:08:21.54,英文,,0,0,0,,maintainer i went home and said let me add more features let me fix a few bugs i'm now more motivated
-Dialogue: 0,0:08:21.54,0:08:28.18,英文,,0,0,0,,than ever you got to be careful when you're a maintainer motivated to that degree because you
-Dialogue: 0,0:08:28.18,0:08:34.74,英文,,0,0,0,,can hide burnout underneath the cloth of success it's really easy to do and i remember there was a
-Dialogue: 0,0:08:34.74,0:08:42.02,英文,,0,0,0,,time when i said no for the first time see what CompD does it takes data from key value stores
-Dialogue: 0,0:08:42.02,0:08:47.70,英文,,0,0,0,,like etcd a database and there was a new company on the scene they've been around for a while
-Dialogue: 0,0:08:47.70,0:08:54.10,英文,,0,0,0,,called hashicorp i had been a contributor to hashicorp and they've contributed to my project
-Dialogue: 0,0:08:54.10,0:09:02.90,英文,,0,0,0,,CompD what's supposed to happen and one day they introduced a new product called volt and i said hey
-Dialogue: 0,0:09:02.90,0:09:09.78,英文,,0,0,0,,i have no interest as a maintainer integrating with that product but for them this is a very
-Dialogue: 0,0:09:09.78,0:09:15.38,英文,,0,0,0,,important product and they would like CompD to support it because at this point CompD had become
-Dialogue: 0,0:09:15.38,0:09:20.34,英文,,0,0,0,,somewhat popular and they were recommending it to their community but here i was saying no
-Dialogue: 0,0:09:20.34,0:09:23.70,英文,,0,0,0,,so when you say no as a maintainer something has to give
-Dialogue: 0,0:09:23.70,0:09:28.90,英文,,0,0,0,,how do we resolve issues when there's a conflict or a difference of opinion
-Dialogue: 0,0:09:28.90,0:09:37.06,英文,,0,0,0,,well in this scenario they chose to make another project a clone of mine if you're a maintainer
-Dialogue: 0,0:09:38.18,0:09:43.62,英文,,0,0,0,,you realize that at the top of that github repository there's the fork button anyone
-Dialogue: 0,0:09:43.62,0:09:51.22,英文,,0,0,0,,can click it and settle disputes without any arguments i woke up one day and they had a new
-Dialogue: 0,0:09:51.22,0:10:00.02,英文,,0,0,0,,project called console template and they posted it and it was at the top of hacker news and i'm
-Dialogue: 0,0:10:00.02,0:10:06.90,英文,,0,0,0,,sitting there smiling but the internet can't see that so in my defense
-Dialogue: 0,0:10:06.90,0:10:13.86,英文,,0,0,0,,this thing rises to the top spot on hacker news how dare big evil hashi corp
-Dialogue: 0,0:10:13.86,0:10:18.02,英文,,0,0,0,,take kelsey's work and rebrand it as their own
-Dialogue: 0,0:10:18.02,0:10:24.42,英文,,0,0,0,,they should have just contributed back there was no need for a competing project
-Dialogue: 0,0:10:24.42,0:10:28.58,英文,,0,0,0,,and i'm reading this as like oh they don't understand what has happened
-Dialogue: 0,0:10:28.58,0:10:36.42,英文,,0,0,0,,when you get to the point where you can influence someone else to produce something
-Dialogue: 0,0:10:36.42,0:10:45.06,英文,,0,0,0,,else this is also an achievement and so i replied this is open source this is what's supposed to
-Dialogue: 0,0:10:45.06,0:10:51.38,英文,,0,0,0,,happen do you think that i did all of this work by myself there were some of the largest contributors
-Dialogue: 0,0:10:51.38,0:10:57.14,英文,,0,0,0,,i didn't invent the programming language that comp d is written in i didn't invent
-Dialogue: 0,0:10:57.14,0:11:05.78,英文,,0,0,0,,the operating system that comp d is written in if you zoom out we've been in this together this whole
-Dialogue: 0,0:11:05.78,0:11:06.34,英文,,0,0,0,,time
-Dialogue: 0,0:11:06.34,0:11:12.26,英文,,0,0,0,,and so i applaud the efforts for this new project to exist and i'm quite flattered that this larger
-Dialogue: 0,0:11:12.26,0:11:20.34,英文,,0,0,0,,company decided to take inspiration from me and i will go on to speak at a number of their conferences
-Dialogue: 0,0:11:20.34,0:11:26.18,英文,,0,0,0,,because that's what good community members do even when we compete we still find rooms to collaborate
-Dialogue: 0,0:11:26.18,0:11:33.86,英文,,0,0,0,,and i remember one time i was collaborating with that particular company hashi corp and i'm doing
-Dialogue: 0,0:11:33.86,0:11:39.06,英文,,0,0,0,,this keynote and they gave me one of their hashi corp shirts my last name is hightower and their
-Dialogue: 0,0:11:39.06,0:11:45.06,英文,,0,0,0,,logo has this wonderful h and i put it on says the h stands for hightower now we're proudly on that
-Dialogue: 0,0:11:45.06,0:11:50.90,英文,,0,0,0,,keynote stage and i remember having this shirt on after the final keynote that i gave they did
-Dialogue: 0,0:11:50.90,0:11:55.86,英文,,0,0,0,,a company-wide picture at this point hashi corp grows to about i don't know three to four hundred
-Dialogue: 0,0:11:55.86,0:12:01.14,英文,,0,0,0,,people and they all line up on the stage and we take photos and they're like one of the founders
-Dialogue: 0,0:12:01.14,0:12:03.70,英文,,0,0,0,,mitchell hashimoto kelsey get in the front row kelsey get in the front row kelsey get in the front
-Dialogue: 0,0:12:03.70,0:12:09.70,英文,,0,0,0,,row you're in the photo you're like family so i get into the photo and i stand there and i pose
-Dialogue: 0,0:12:09.70,0:12:16.34,英文,,0,0,0,,with my h on and i straighten it out just so it looks perfect and we take the photo and i was like
-Dialogue: 0,0:12:16.34,0:12:21.78,英文,,0,0,0,,mitchell this is our chance to do the funniest thing ever it's like what do you have in mind
-Dialogue: 0,0:12:21.78,0:12:26.10,英文,,0,0,0,,and he posts the photo on twitter and as the ceo and founder of hashi corp
-Dialogue: 0,0:12:26.10,0:12:30.34,英文,,0,0,0,,he wrote i'm so happy that kelsey is joining hashi corp
-Dialogue: 0,0:12:30.34,0:12:38.66,英文,,0,0,0,,now as an executive myself at google this is really interesting
-Dialogue: 0,0:12:38.66,0:12:48.34,英文,,0,0,0,,and i let it bake for hours the hr department is like what's going on when did kelsey leave
-Dialogue: 0,0:12:48.34,0:12:53.62,英文,,0,0,0,,when you work with almost 200 000 people no one knows what's going on
-Dialogue: 0,0:12:53.62,0:12:57.30,英文,,0,0,0,,so people were emailing me like congratulations i think
-Dialogue: 0,0:12:57.30,0:13:00.34,英文,,0,0,0,,and you just
-Dialogue: 0,0:13:00.34,0:13:04.66,英文,,0,0,0,,start typing but never send anything so she says dot dot dot
-Dialogue: 0,0:13:04.66,0:13:11.06,英文,,0,0,0,,so after a couple of hours because it started getting really serious
-Dialogue: 0,0:13:11.06,0:13:16.58,英文,,0,0,0,,you know it's serious when your vp puts a meeting on your calendar to discuss things
-Dialogue: 0,0:13:16.58,0:13:24.58,英文,,0,0,0,,so i declined the meeting is like it's a joke and i responded but hashi corp is like family
-Dialogue: 0,0:13:24.58,0:13:29.54,英文,,0,0,0,,and i remember during that time i had this phrase different company same team
-Dialogue: 0,0:13:29.54,0:13:34.58,英文,,0,0,0,,that's how i've always thought about this open source collaboration and i've contributed to
-Dialogue: 0,0:13:34.58,0:13:39.22,英文,,0,0,0,,many of the hashi core projects and the reason why i'm bringing up hashi corp in particular because
-Dialogue: 0,0:13:39.22,0:13:44.42,英文,,0,0,0,,i have a lot of empathy for my family and what they go through i also advise lots of startups
-Dialogue: 0,0:13:44.42,0:13:51.06,英文,,0,0,0,,and they all have this sentiment that seems to be pretty new from the outsider's view the early days
-Dialogue: 0,0:13:51.06,0:13:56.98,英文,,0,0,0,,of open source seem to try to make better versions of things that existed already some of the earlier
-Dialogue: 0,0:13:56.98,0:13:58.18,英文,,0,0,0,,operating systems corn shell tobacco and other things i've always thought about this open source
-Dialogue: 0,0:13:58.18,0:14:07.14,英文,,0,0,0,,was a blueprint and a template and the goal was to turn proprietary software and make it open and of
-Dialogue: 0,0:14:07.14,0:14:11.86,英文,,0,0,0,,course they got better over time to the point where they became industry standards but imagine
-Dialogue: 0,0:14:11.86,0:14:19.62,英文,,0,0,0,,trying to build a company in this error this is an extreme amount of challenge if you're a small
-Dialogue: 0,0:14:19.62,0:14:27.86,英文,,0,0,0,,company or startup how do you sell something that you give away completely for free i don't have a
-Dialogue: 0,0:14:27.86,0:14:34.66,英文,,0,0,0,,perfect answer for that i don't think the answer is changing your license that's not going to work
-Dialogue: 0,0:14:34.66,0:14:39.94,英文,,0,0,0,,folks you're going to have to do something better than that you're going to have to do something
-Dialogue: 0,0:14:39.94,0:14:46.18,英文,,0,0,0,,just like my taylor did you're going to have to figure out how to offer value in an open ecosystem
-Dialogue: 0,0:14:46.18,0:14:52.42,英文,,0,0,0,,because if you don't someone else will figure out a way to do it instead the question i'd like
-Dialogue: 0,0:14:52.42,0:14:56.74,英文,,0,0,0,,to leave with all the founders and customers out there that are struggling with this
-Dialogue: 0,0:14:57.54,0:15:03.62,英文,,0,0,0,,we have to ask ourselves what is the moat that they need to build and my response to that is why
-Dialogue: 0,0:15:03.62,0:15:11.38,英文,,0,0,0,,are you trying to build a moat in the age of flight that is not a sustainable path we're going to have
-Dialogue: 0,0:15:11.38,0:15:17.14,英文,,0,0,0,,to figure out how to collaborate on equal terms now a lot of you are going to go out and enjoy
-Dialogue: 0,0:15:17.14,0:15:20.82,英文,,0,0,0,,the next two days of this conference and i want to leave you with one more phrase when you're
-Dialogue: 0,0:15:20.82,0:15:25.62,英文,,0,0,0,,thinking about whether you should contribute or not whether you should try that new idea and make
-Dialogue: 0,0:15:25.62,0:15:26.02,英文,,0,0,0,,it open you're going to have to figure out how to collaborate on equal terms now a lot of you are going to go out and enjoy the next two days of this conference and i want to leave you with one more phrase when you're thinking about whether you should contribute or not whether you should try that new idea and make it open
-Dialogue: 0,0:15:26.02,0:15:33.06,英文,,0,0,0,,one phrase that i always return to in moments like this is there are some people that have ideas
-Dialogue: 0,0:15:33.06,0:15:42.82,英文,,0,0,0,,and there are some ideas that have people and don't forget that last part thank you
+Dialogue: 0,0:00:00.19,0:00:02.08,英文,,0,0,0,,Today represents a first for me.
+Dialogue: 0,0:00:02.97,0:00:08.84,英文,,0,0,0,,After a 25 year career, this is the first time I've ever worn a sports jacket in a professional setting.
+Dialogue: 0,0:00:13.43,0:00:14.31,英文,,0,0,0,,How does it look?
+Dialogue: 0,0:00:17.52,0:00:24.25,英文,,0,0,0,,I bought this thing on Friday, and when you buy a sports coat from the store,
+Dialogue: 0,0:00:24.25,0:00:27.63,英文,,0,0,0,,you know, they sell these things to anybody, they're not made for you.
+Dialogue: 0,0:00:28.36,0:00:31.17,英文,,0,0,0,,And the sleeves came all the way down to my knuckles.
+Dialogue: 0,0:00:31.69,0:00:35.41,英文,,0,0,0,,And my wife, realizing that I was not going to have enough time to get it tailored,
+Dialogue: 0,0:00:35.64,0:00:36.83,英文,,0,0,0,,she's like, "It looks fine."
+Dialogue: 0,0:00:39.69,0:00:45.27,英文,,0,0,0,,And I'm standing in the mirror, feeling like I was a seven year old wearing his father's jacket.
+Dialogue: 0,0:00:46.28,0:00:47.83,英文,,0,0,0,,And I got desperate.
+Dialogue: 0,0:00:47.95,0:00:57.12,英文,,0,0,0,,On Sunday, I'm googling for someone that can do alterations, and all I see is closed, closed, opens on Tuesday.
+Dialogue: 0,0:00:57.65,0:00:59.29,英文,,0,0,0,,And I'm like, "I don't have a chance."
+Dialogue: 0,0:00:59.81,0:01:05.17,英文,,0,0,0,,And about 15 miles away from my home, there was a person that was open till 9:00.
+Dialogue: 0,0:01:06.01,0:01:11.17,英文,,0,0,0,,And I'm a little worried that, why are you open till 9:00 on a Sunday?
+Dialogue: 0,0:01:11.97,0:01:14.59,英文,,0,0,0,,Aren't you busy all week that you need time off?
+Dialogue: 0,0:01:14.98,0:01:19.25,英文,,0,0,0,,There's a reason why he's open when no one else is.
+Dialogue: 0,0:01:20.41,0:01:22.04,英文,,0,0,0,,But I had to take my chances.
+Dialogue: 0,0:01:22.62,0:01:23.79,英文,,0,0,0,,So I get in my car.
+Dialogue: 0,0:01:24.55,0:01:26.31,英文,,0,0,0,,Before getting in our car, I did call.
+Dialogue: 0,0:01:26.31,0:01:28.48,英文,,0,0,0,,And I said, "Hey, how much?
+Dialogue: 0,0:01:28.81,0:01:33.39,英文,,0,0,0,,And how long to tailor a men's suit, sports coat."
+Dialogue: 0,0:01:33.56,0:01:34.84,英文,,0,0,0,,He was like, "A week."
+Dialogue: 0,0:01:35.25,0:01:36.98,英文,,0,0,0,,And I was like, "I need it much sooner than that."
+Dialogue: 0,0:01:36.98,0:01:38.12,英文,,0,0,0,,He said, "Two days."
+Dialogue: 0,0:01:38.12,0:01:39.46,英文,,0,0,0,,And I said, "You're getting close."
+Dialogue: 0,0:01:42.04,0:01:43.67,英文,,0,0,0,,"I need it today."
+Dialogue: 0,0:01:44.68,0:01:48.05,英文,,0,0,0,,He was like, "Ah, you got to pick it up by 4:00."
+Dialogue: 0,0:01:48.40,0:01:51.00,英文,,0,0,0,,So I drove down there, and he told me $20.
+Dialogue: 0,0:01:51.25,0:01:52.79,英文,,0,0,0,,I'm really getting nervous now.
+Dialogue: 0,0:01:54.69,0:01:58.73,英文,,0,0,0,,And I pull up, and it's a house in a normal neighborhood.
+Dialogue: 0,0:01:59.45,0:02:02.92,英文,,0,0,0,,No storefront, no fancy signage.
+Dialogue: 0,0:02:03.39,0:02:06.08,英文,,0,0,0,,And he opened the door with no shoes on.
+Dialogue: 0,0:02:07.63,0:02:13.36,英文,,0,0,0,,And I'm thinking to myself, I'm not getting this suit back if I leave it here.
+Dialogue: 0,0:02:14.65,0:02:15.91,英文,,0,0,0,,But you only live once.
+Dialogue: 0,0:02:16.64,0:02:19.96,英文,,0,0,0,,So I walk in, and I saw the sewing machines in the corner.
+Dialogue: 0,0:02:19.96,0:02:21.65,英文,,0,0,0,,So I'm like, all right, it's getting a little legit.
+Dialogue: 0,0:02:22.14,0:02:24.71,英文,,0,0,0,,I see other garments waiting to be tailored.
+Dialogue: 0,0:02:25.17,0:02:26.73,英文,,0,0,0,,Maybe I am in the right place.
+Dialogue: 0,0:02:27.40,0:02:30.67,英文,,0,0,0,,And he hung it up on a string hanging from the ceiling.
+Dialogue: 0,0:02:31.16,0:02:33.65,英文,,0,0,0,,And it twirled around. I'm like, what are you doing?
+Dialogue: 0,0:02:34.63,0:02:36.67,英文,,0,0,0,,And he asked me to put the jacket on.
+Dialogue: 0,0:02:36.89,0:02:37.79,英文,,0,0,0,,And I was like, what do you think?
+Dialogue: 0,0:02:37.79,0:02:41.54,英文,,0,0,0,,He was like, yeah, you definitely need to take it down an inch or so.
+Dialogue: 0,0:02:42.32,0:02:43.95,英文,,0,0,0,,And so I leave the jacket with him.
+Dialogue: 0,0:02:44.60,0:02:48.92,英文,,0,0,0,,And I come back. And I put the jacket on.
+Dialogue: 0,0:02:49.67,0:02:57.01,英文,,0,0,0,,And here's the thing. The name of this place is Bethany and Linda's Alterations. That's his American name.
+Dialogue: 0,0:02:57.92,0:02:59.67,英文,,0,0,0,,He didn't speak English that well.
+Dialogue: 0,0:03:00.42,0:03:02.87,英文,,0,0,0,,And he did his best to make me feel comfortable.
+Dialogue: 0,0:03:03.77,0:03:09.20,英文,,0,0,0,,I put the jacket on. And that's when I learned that language is universal.
+Dialogue: 0,0:03:09.20,0:03:16.00,英文,,0,0,0,,Watch how I use it. Silence and a smile is the same in every language.
+Dialogue: 0,0:03:16.63,0:03:19.36,英文,,0,0,0,,And I put this jacket on. And it reminded me something.
+Dialogue: 0,0:03:21.16,0:03:26.36,英文,,0,0,0,,We live in a fairly open society where I can buy a jacket that wasn't quite made for me.
+Dialogue: 0,0:03:26.67,0:03:32.04,英文,,0,0,0,,And he possessed the skill through open knowledge to tailor it for my exact needs.
+Dialogue: 0,0:03:32.33,0:03:36.71,英文,,0,0,0,,In the software world, we call this patches or features or bug fixes.
+Dialogue: 0,0:03:36.99,0:03:38.73,英文,,0,0,0,,But he made it perfect just for me.
+Dialogue: 0,0:03:39.33,0:03:43.67,英文,,0,0,0,,And I smiled. And I gave him $60. And he was so happy.
+Dialogue: 0,0:03:43.83,0:03:48.54,英文,,0,0,0,,The first thing he said, this is too much money. It's only $20.
+Dialogue: 0,0:03:48.92,0:03:52.08,英文,,0,0,0,,I said, you can keep it. The jacket's perfect.
+Dialogue: 0,0:03:53.04,0:03:57.68,英文,,0,0,0,,And he smiled like a child. And he held the $60 close to his chest.
+Dialogue: 0,0:03:58.08,0:04:00.33,英文,,0,0,0,,He said, I'm taking the family out to dinner tonight.
+Dialogue: 0,0:04:07.96,0:04:12.88,英文,,0,0,0,,And the world is filled of these hidden maintainers. No one really knows their names.
+Dialogue: 0,0:04:13.37,0:04:15.81,英文,,0,0,0,,They don't work for a big, fancy company.
+Dialogue: 0,0:04:15.99,0:04:21.25,英文,,0,0,0,,But they do their best to make sure that we get to use the things that work for us.
+Dialogue: 0,0:04:21.45,0:04:26.95,英文,,0,0,0,,All those bug fixes, all those GitHub issues, there's a silent league of maintainers out here
+Dialogue: 0,0:04:27.25,0:04:32.63,英文,,0,0,0,,doing that kind of work, tailor-fitting our software for our own needs.
+Dialogue: 0,0:04:34.71,0:04:40.96,英文,,0,0,0,,When we think about what it takes to deliver on some of this software, I think we're in this really pivotal point.
+Dialogue: 0,0:04:40.96,0:04:43.81,英文,,0,0,0,,Because open source has been such this powerful thing that we sometimes,
+Dialogue: 0,0:04:43.81,0:04:46.64,英文,,0,0,0,,I think, take it for granted. It's tricky.
+Dialogue: 0,0:04:47.79,0:04:49.67,英文,,0,0,0,,I want you to go through a thought experiment.
+Dialogue: 0,0:04:50.17,0:04:56.07,英文,,0,0,0,,Imagine if you had been diagnosed with an untreatable disease.
+Dialogue: 0,0:04:56.32,0:04:58.25,英文,,0,0,0,,Not even curable, untreatable.
+Dialogue: 0,0:04:59.21,0:05:04.46,英文,,0,0,0,,And so you decide to dedicate your entire life work to this disease.
+Dialogue: 0,0:05:05.69,0:05:08.20,英文,,0,0,0,,And the good news is you don't have to start from scratch.
+Dialogue: 0,0:05:08.63,0:05:15.25,英文,,0,0,0,,You get to rely on previous science. You get to use very mature machines, microscopes.
+Dialogue: 0,0:05:15.38,0:05:18.38,英文,,0,0,0,,You get to read all the research papers that came before you.
+Dialogue: 0,0:05:18.97,0:05:20.41,英文,,0,0,0,,And then you find a solution.
+Dialogue: 0,0:05:21.21,0:05:22.01,英文,,0,0,0,,You've done it.
+Dialogue: 0,0:05:22.72,0:05:25.59,英文,,0,0,0,,You can finally save yourself.
+Dialogue: 0,0:05:26.11,0:05:27.88,英文,,0,0,0,,You have to make a pivotal decision.
+Dialogue: 0,0:05:28.68,0:05:30.85,英文,,0,0,0,,Do you keep this formula for yourself?
+Dialogue: 0,0:05:32.27,0:05:37.73,英文,,0,0,0,,Or do you decide to share with other people that there is no right answer here?
+Dialogue: 0,0:05:38.88,0:05:44.59,英文,,0,0,0,,Because why not capitalize on all the value that you've just now introduced to the world.
+Dialogue: 0,0:05:45.39,0:05:47.84,英文,,0,0,0,,Isn't it only fair that you get to capitalize from this?
+Dialogue: 0,0:05:48.41,0:05:51.45,英文,,0,0,0,,I'm pretty sure some of you in the audience would be like who in their right mind
+Dialogue: 0,0:05:52.00,0:05:57.79,英文,,0,0,0,,would miss out on an opportunity to make billions of dollars from their own invention.
+Dialogue: 0,0:05:58.56,0:06:02.72,英文,,0,0,0,,Well if you look around the room here today those people are sitting next to you,
+Dialogue: 0,0:06:03.60,0:06:07.13,英文,,0,0,0,,think about some of these global projects that we have,
+Dialogue: 0,0:06:07.71,0:06:11.13,英文,,0,0,0,,that the very same maintainers could have easily chosen
+Dialogue: 0,0:06:11.48,0:06:15.88,英文,,0,0,0,,to start a company and go to proprietary route and keep it all for themselves.
+Dialogue: 0,0:06:16.42,0:06:23.24,英文,,0,0,0,,But instead they chose to open source and stand behind those projects and make it available to all.
+Dialogue: 0,0:06:24.07,0:06:28.17,英文,,0,0,0,,It's a very tricky place to be and I don't think there's a perfect answer for this.
+Dialogue: 0,0:06:29.04,0:06:30.95,英文,,0,0,0,,So I have a lot of empathy with companies,
+Dialogue: 0,0:06:31.76,0:06:34.42,英文,,0,0,0,,contributors and maintainers that are struggling with
+Dialogue: 0,0:06:35.11,0:06:37.13,英文,,0,0,0,,how long can I do this for.
+Dialogue: 0,0:06:37.55,0:06:41.71,英文,,0,0,0,,We hear about open source sustainability but I'm not quite sure people understand what this means.
+Dialogue: 0,0:06:43.15,0:06:46.95,英文,,0,0,0,,I've been an open source contributor for a while and there's this saying:
+Dialogue: 0,0:06:47.25,0:06:52.48,英文,,0,0,0,,"If you're the smartest person in the room then you're in the wrong room and you should leave."
+Dialogue: 0,0:06:54.23,0:06:57.00,英文,,0,0,0,,But eventually if we all did that then the room would be empty.
+Dialogue: 0,0:06:57.84,0:07:01.54,英文,,0,0,0,,And when I got into open source those smart people didn't leave the room,
+Dialogue: 0,0:07:02.64,0:07:05.84,英文,,0,0,0,,they chose to collaborate instead they even made a seat for me.
+Dialogue: 0,0:07:06.69,0:07:11.23,英文,,0,0,0,,I sat down didn't know what I was doing didn't know how to contribute didn't know the workflow process.
+Dialogue: 0,0:07:12.24,0:07:16.35,英文,,0,0,0,,But they figured out a way to make it so the documentation the code reviews.
+Dialogue: 0,0:07:16.79,0:07:20.00,英文,,0,0,0,,Yhis is what happens when the smart people stay in the room.
+Dialogue: 0,0:07:22.14,0:07:28.00,英文,,0,0,0,,So one day I got to return the favor I remember I open sourced my first project CompD
+Dialogue: 0,0:07:28.82,0:07:33.42,英文,,0,0,0,,wasn't super popular but it did make its way around the world.
+Dialogue: 0,0:07:33.67,0:07:38.09,英文,,0,0,0,,I remember going to an open source conference in europe conference called FOSDEM,
+Dialogue: 0,0:07:38.76,0:07:41.33,英文,,0,0,0,,and I'm standing in the back of this room.
+Dialogue: 0,0:07:41.65,0:07:46.40,英文,,0,0,0,,And there is someone that I don't know that was given a presentation about CompD.
+Dialogue: 0,0:07:47.71,0:07:52.85,英文,,0,0,0,,They had all these wonderful things to say I'm in the back just smiling my ass off.
+Dialogue: 0,0:07:54.98,0:08:01.67,英文,,0,0,0,,I'm not quite famous but people know who I am or at least they're aware of the work that I do.
+Dialogue: 0,0:08:02.69,0:08:08.05,英文,,0,0,0,,And they went on to tell the audience of how it was so important that I chose not only to scratch my own itch.
+Dialogue: 0,0:08:08.97,0:08:13.52,英文,,0,0,0,,But I also helped them with theirs I felt really good about that project.
+Dialogue: 0,0:08:13.73,0:08:17.97,英文,,0,0,0,,And so as a maintainer I went home and said let me add more features,
+Dialogue: 0,0:08:18.51,0:08:21.54,英文,,0,0,0,,let me fix a few bugs I'm now more motivated
+Dialogue: 0,0:08:21.54,0:08:27.53,英文,,0,0,0,,than ever you got to be careful when you're a maintainer motivated to that degree.
+Dialogue: 0,0:08:27.85,0:08:31.19,英文,,0,0,0,,Because you can hide burnout underneath the cloth of success,
+Dialogue: 0,0:08:31.59,0:08:32.96,英文,,0,0,0,,it's really easy to do.
+Dialogue: 0,0:08:33.81,0:08:37.67,英文,,0,0,0,,And I remember there was a time when I said no for the first time.
+Dialogue: 0,0:08:38.07,0:08:44.64,英文,,0,0,0,,See what CompD does it takes data from key value stores like etcd a database.
+Dialogue: 0,0:08:44.98,0:08:49.55,英文,,0,0,0,,And there was a new company on the scene they've been around for a while called hashicorp.
+Dialogue: 0,0:08:50.55,0:08:54.85,英文,,0,0,0,,I had been a contributor to hashicorp and they've contributed to my project CompD
+Dialogue: 0,0:08:55.32,0:09:01.12,英文,,0,0,0,,what's supposed to happen and one day they introduced a new product called volt.
+Dialogue: 0,0:09:02.25,0:09:07.79,英文,,0,0,0,,And I said hey I have no interest as a maintainer integrating with that product.
+Dialogue: 0,0:09:08.55,0:09:10.83,英文,,0,0,0,,But for them this is a very important product.
+Dialogue: 0,0:09:11.83,0:09:16.58,英文,,0,0,0,,And they would like CompD to support it because at this point CompD had become somewhat popular.
+Dialogue: 0,0:09:16.75,0:09:18.89,英文,,0,0,0,,And they were recommending it to their community.
+Dialogue: 0,0:09:19.16,0:09:20.75,英文,,0,0,0,,But here I was saying no.
+Dialogue: 0,0:09:21.31,0:09:24.13,英文,,0,0,0,,So when you say no as a maintainer something has to give.
+Dialogue: 0,0:09:24.92,0:09:29.09,英文,,0,0,0,,How do we resolve issues when there's a conflict or a difference of opinion.
+Dialogue: 0,0:09:29.91,0:09:35.42,英文,,0,0,0,,Well in this scenario they chose to make another project a clone of mine.
+Dialogue: 0,0:09:36.09,0:09:41.45,英文,,0,0,0,,If you're a maintainer you realize that at the top of that github repository,
+Dialogue: 0,0:09:41.73,0:09:44.67,英文,,0,0,0,,there's the fork button anyone can click it,
+Dialogue: 0,0:09:45.24,0:09:48.64,英文,,0,0,0,,and settle disputes without any arguments.
+Dialogue: 0,0:09:49.04,0:09:54.45,英文,,0,0,0,,I woke up one day and they had a new project called console template.
+Dialogue: 0,0:09:55.39,0:09:59.25,英文,,0,0,0,,And they posted it and it was at the top of hacker news.
+Dialogue: 0,0:09:59.77,0:10:02.33,英文,,0,0,0,,And I'm sitting there smiling.
+Dialogue: 0,0:10:03.12,0:10:05.47,英文,,0,0,0,,But the internet can't see that.
+Dialogue: 0,0:10:06.00,0:10:11.13,英文,,0,0,0,,So in my defense this thing rises to the top spot on hacker news,
+Dialogue: 0,0:10:11.72,0:10:19.21,英文,,0,0,0,,"How dare big evil hashi corp take Kelsey's work and rebrand it as their own."
+Dialogue: 0,0:10:21.53,0:10:25.49,英文,,0,0,0,,"They should have just contributed back there was no need for a competing project."
+Dialogue: 0,0:10:26.59,0:10:29.76,英文,,0,0,0,,And I'm reading this as like oh they don't understand what has happened.
+Dialogue: 0,0:10:31.61,0:10:38.04,英文,,0,0,0,,When you get to the point where you can influence someone else to produce something else.
+Dialogue: 0,0:10:38.72,0:10:44.29,英文,,0,0,0,,This is also an achievement and so I replied this is open source,
+Dialogue: 0,0:10:44.59,0:10:49.50,英文,,0,0,0,,this is what's supposed to happen do you think that I did all of this work by myself?
+Dialogue: 0,0:10:49.98,0:10:52.13,英文,,0,0,0,,There were some of the largest contributors.
+Dialogue: 0,0:10:52.55,0:10:56.49,英文,,0,0,0,,I didn't invent the programming language that comp d is written in.
+Dialogue: 0,0:10:57.01,0:11:02.48,英文,,0,0,0,,I didn't invent the operating system that compd is written in.
+Dialogue: 0,0:11:02.95,0:11:06.84,英文,,0,0,0,,If you zoom out we've been in this together this whole time.
+Dialogue: 0,0:11:07.53,0:11:12.26,英文,,0,0,0,,And so I applaud the efforts for this new project to exist and I'm quite flattered
+Dialogue: 0,0:11:12.56,0:11:17.35,英文,,0,0,0,,that this larger company decided to take inspiration from me.
+Dialogue: 0,0:11:18.28,0:11:21.40,英文,,0,0,0,,And I will go on to speak at a number of their conferences.
+Dialogue: 0,0:11:21.40,0:11:24.67,英文,,0,0,0,,Because that's what good community members do even when we compete.
+Dialogue: 0,0:11:25.19,0:11:27.36,英文,,0,0,0,,We still find rooms to collaborate.
+Dialogue: 0,0:11:28.43,0:11:34.05,英文,,0,0,0,,And I remember one time I was collaborating with that particular company hashi corp.
+Dialogue: 0,0:11:34.25,0:11:39.46,英文,,0,0,0,,And I'm doing this keynote and they gave me one of their hashi corp shirts my last name is Hightower.
+Dialogue: 0,0:11:39.73,0:11:41.72,英文,,0,0,0,,And their logo has this wonderful H.
+Dialogue: 0,0:11:42.01,0:11:44.51,英文,,0,0,0,,And I put it on says the H stands for Hightower.
+Dialogue: 0,0:11:44.87,0:11:46.76,英文,,0,0,0,,Now we're proudly on that keynote stage.
+Dialogue: 0,0:11:47.29,0:11:49.46,英文,,0,0,0,,And I remember having this shirt on.
+Dialogue: 0,0:11:49.46,0:11:53.00,英文,,0,0,0,,After the final keynote that I gave they did a company-wide picture.
+Dialogue: 0,0:11:53.00,0:11:57.08,英文,,0,0,0,,At this point hashi corp grows to about I don't know three to four hundred people.
+Dialogue: 0,0:11:57.40,0:12:00.53,英文,,0,0,0,,And they all line up on the stage and we take photos and they're like
+Dialogue: 0,0:12:00.91,0:12:04.32,英文,,0,0,0,,one of the founders Mitchell Hashimoto Kelsey get in the front row.
+Dialogue: 0,0:12:04.56,0:12:07.44,英文,,0,0,0,,You're like family so I get into the photo.
+Dialogue: 0,0:12:08.27,0:12:10.88,英文,,0,0,0,,And I stand there and I pose with my H on.
+Dialogue: 0,0:12:11.12,0:12:13.40,英文,,0,0,0,,And I straighten it out just so it looks perfect.
+Dialogue: 0,0:12:13.85,0:12:14.96,英文,,0,0,0,,And we take the photo.
+Dialogue: 0,0:12:15.92,0:12:19.77,英文,,0,0,0,,And I was like Mitchell this is our chance to do the funniest thing ever.
+Dialogue: 0,0:12:20.24,0:12:21.63,英文,,0,0,0,,It's like what do you have in mind.
+Dialogue: 0,0:12:21.92,0:12:26.40,英文,,0,0,0,,And he posts the photo on twitter and as the ceo and founder of hashi corp.
+Dialogue: 0,0:12:26.73,0:12:30.57,英文,,0,0,0,,He wrote I'm so happy that Kelsey is joining hashi corp.
+Dialogue: 0,0:12:34.65,0:12:39.04,英文,,0,0,0,,Now as an executive myself at google this is really interesting.
+Dialogue: 0,0:12:42.48,0:12:47.04,英文,,0,0,0,,And I let it bake for hours the HR department is like what's going on,
+Dialogue: 0,0:12:47.44,0:12:48.73,英文,,0,0,0,,when did Kelsey leave?
+Dialogue: 0,0:12:50.43,0:12:53.89,英文,,0,0,0,,When you work with almost 200,000 people no one knows what's going on.
+Dialogue: 0,0:12:54.67,0:12:57.71,英文,,0,0,0,,So people were emailing me like congratulations I think.
+Dialogue: 0,0:12:59.73,0:13:05.25,英文,,0,0,0,,And you just start typing but never send anything so she says dot dot dot.
+Dialogue: 0,0:13:08.40,0:13:11.43,英文,,0,0,0,,So after a couple of hours because it started getting really serious.
+Dialogue: 0,0:13:11.88,0:13:17.00,英文,,0,0,0,,You know it's serious when your VP puts a meeting on your calendar to discuss things.
+Dialogue: 0,0:13:18.36,0:13:20.67,英文,,0,0,0,,So I declined the meeting is like it's a joke.
+Dialogue: 0,0:13:21.42,0:13:24.39,英文,,0,0,0,,And I responded but hashi corp is like family.
+Dialogue: 0,0:13:24.76,0:13:29.84,英文,,0,0,0,,And I remember during that time I had this phrase different company same team.
+Dialogue: 0,0:13:30.59,0:13:33.28,英文,,0,0,0,,That's how I've always thought about this open source collaboration.
+Dialogue: 0,0:13:33.85,0:13:36.04,英文,,0,0,0,,And I've contributed to many of the hashi core projects.
+Dialogue: 0,0:13:36.04,0:13:39.04,英文,,0,0,0,,And the reason why I'm bringing up hashi corp in particular.
+Dialogue: 0,0:13:39.22,0:13:42.63,英文,,0,0,0,,Because I have a lot of empathy for my family and what they go through.
+Dialogue: 0,0:13:43.17,0:13:48.37,英文,,0,0,0,,I also advise lots of startups and they all have this sentiment that seems to be pretty new.
+Dialogue: 0,0:13:49.20,0:13:52.42,英文,,0,0,0,,From the outsider's view the early days of open source
+Dialogue: 0,0:13:52.85,0:13:56.07,英文,,0,0,0,,seem to try to make better versions of things that existed already.
+Dialogue: 0,0:13:56.47,0:14:00.38,英文,,0,0,0,,Some of the earlier operating systems corn shell tobacco.
+Dialogue: 0,0:14:00.67,0:14:06.79,英文,,0,0,0,,There was a blueprint and a template and the goal was to turn proprietary software and make it open.
+Dialogue: 0,0:14:07.05,0:14:10.63,英文,,0,0,0,,And of course they got better over time to the point where they became industry standards.
+Dialogue: 0,0:14:11.15,0:14:14.21,英文,,0,0,0,,But imagine trying to build a company in this error.
+Dialogue: 0,0:14:15.75,0:14:17.75,英文,,0,0,0,,This is an extreme amount of challenge.
+Dialogue: 0,0:14:18.93,0:14:26.50,英文,,0,0,0,,If you're a small company or startup how do you sell something that you give away completely for free.
+Dialogue: 0,0:14:27.57,0:14:32.67,英文,,0,0,0,,I don't have a perfect answer for that I don't think the answer is changing your license.
+Dialogue: 0,0:14:33.65,0:14:38.31,英文,,0,0,0,,That's not going to work folks you're going to have to do something better than that
+Dialogue: 0,0:14:38.88,0:14:41.23,英文,,0,0,0,,you're going to have to do something just like my taylor did,
+Dialogue: 0,0:14:41.84,0:14:46.37,英文,,0,0,0,,you're going to have to figure out how to offer value in an open ecosystem.
+Dialogue: 0,0:14:46.92,0:14:51.08,英文,,0,0,0,,Because if you don't someone else will figure out a way to do it instead.
+Dialogue: 0,0:14:51.73,0:14:57.04,英文,,0,0,0,,The question I'd like to leave with all the founders and customers out there that are struggling with this.
+Dialogue: 0,0:14:57.57,0:15:03.15,英文,,0,0,0,,We have to ask ourselves what is the moat that they need to build and my response to that
+Dialogue: 0,0:15:03.40,0:15:07.61,英文,,0,0,0,,is why are you trying to build a moat in the age of flight
+Dialogue: 0,0:15:08.56,0:15:10.61,英文,,0,0,0,,that is not a sustainable path.
+Dialogue: 0,0:15:11.15,0:15:14.60,英文,,0,0,0,,We're going to have to figure out how to collaborate on equal terms.
+Dialogue: 0,0:15:15.23,0:15:18.73,英文,,0,0,0,,Now a lot of you are going to go out and enjoy the next two days of this conference.
+Dialogue: 0,0:15:18.73,0:15:20.23,英文,,0,0,0,,And I want to leave you with one more phrase.
+Dialogue: 0,0:15:20.72,0:15:23.50,英文,,0,0,0,,When you're thinking about whether you should contribute or not.
+Dialogue: 0,0:15:23.79,0:15:26.39,英文,,0,0,0,,Whether you should try that new idea and make it open.
+Dialogue: 0,0:15:27.41,0:15:30.50,英文,,0,0,0,,One phrase that I always return to in moments like this is
+Dialogue: 0,0:15:31.39,0:15:33.42,英文,,0,0,0,,there are some people that have ideas
+Dialogue: 0,0:15:33.73,0:15:37.75,英文,,0,0,0,,and there are some ideas that have people and don't forget that last part.
+Dialogue: 0,0:15:38.37,0:15:38.96,英文,,0,0,0,,Thank You.
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,//------K值------
