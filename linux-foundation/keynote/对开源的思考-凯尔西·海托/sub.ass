@@ -14,10 +14,10 @@ Audio File: video.mp4
 Video File: video.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.125000
-Scroll Position: 91
-Active Line: 98
-Video Position: 9542
+Video Zoom Percent: 1.000000
+Scroll Position: 184
+Active Line: 193
+Video Position: 20076
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -150,8 +150,8 @@ Dialogue: 0,0:08:27.85,0:08:31.19,英文,,0,0,0,,Because you can hide burnout un
 Dialogue: 0,0:08:31.59,0:08:32.96,英文,,0,0,0,,it's really easy to do.
 Dialogue: 0,0:08:33.81,0:08:37.67,英文,,0,0,0,,And I remember there was a time when I said no for the first time.
 Dialogue: 0,0:08:38.07,0:08:44.64,英文,,0,0,0,,See what CompD does it takes data from key value stores like etcd a database.
-Dialogue: 0,0:08:44.98,0:08:49.55,英文,,0,0,0,,And there was a new company on the scene they've been around for a while called hashicorp.
-Dialogue: 0,0:08:50.55,0:08:54.85,英文,,0,0,0,,I had been a contributor to hashicorp and they've contributed to my project CompD
+Dialogue: 0,0:08:44.98,0:08:49.55,英文,,0,0,0,,And there was a new company on the scene they've been around for a while called HashiCorp.
+Dialogue: 0,0:08:50.55,0:08:54.85,英文,,0,0,0,,I had been a contributor to HashiCorp and they've contributed to my project CompD
 Dialogue: 0,0:08:55.32,0:09:01.12,英文,,0,0,0,,what's supposed to happen and one day they introduced a new product called volt.
 Dialogue: 0,0:09:02.25,0:09:07.79,英文,,0,0,0,,And I said hey I have no interest as a maintainer integrating with that product.
 Dialogue: 0,0:09:08.55,0:09:10.83,英文,,0,0,0,,But for them this is a very important product.
@@ -169,7 +169,7 @@ Dialogue: 0,0:09:55.39,0:09:59.25,英文,,0,0,0,,And they posted it and it was a
 Dialogue: 0,0:09:59.77,0:10:02.33,英文,,0,0,0,,And I'm sitting there smiling.
 Dialogue: 0,0:10:03.12,0:10:05.47,英文,,0,0,0,,But the internet can't see that.
 Dialogue: 0,0:10:06.00,0:10:11.13,英文,,0,0,0,,So in my defense this thing rises to the top spot on hacker news,
-Dialogue: 0,0:10:11.72,0:10:19.21,英文,,0,0,0,,"How dare big evil hashi corp take Kelsey's work and rebrand it as their own."
+Dialogue: 0,0:10:11.72,0:10:19.21,英文,,0,0,0,,"How dare big evil HashiCorp take Kelsey's work and rebrand it as their own."
 Dialogue: 0,0:10:21.53,0:10:25.49,英文,,0,0,0,,"They should have just contributed back there was no need for a competing project."
 Dialogue: 0,0:10:26.59,0:10:29.76,英文,,0,0,0,,And I'm reading this as like oh they don't understand what has happened.
 Dialogue: 0,0:10:31.61,0:10:38.04,英文,,0,0,0,,When you get to the point where you can influence someone else to produce something else.
@@ -184,24 +184,24 @@ Dialogue: 0,0:11:12.56,0:11:17.35,英文,,0,0,0,,that this larger company decide
 Dialogue: 0,0:11:18.28,0:11:21.40,英文,,0,0,0,,And I will go on to speak at a number of their conferences.
 Dialogue: 0,0:11:21.40,0:11:24.67,英文,,0,0,0,,Because that's what good community members do even when we compete.
 Dialogue: 0,0:11:25.19,0:11:27.36,英文,,0,0,0,,We still find rooms to collaborate.
-Dialogue: 0,0:11:28.43,0:11:34.05,英文,,0,0,0,,And I remember one time I was collaborating with that particular company hashi corp.
-Dialogue: 0,0:11:34.25,0:11:39.46,英文,,0,0,0,,And I'm doing this keynote and they gave me one of their hashi corp shirts my last name is Hightower.
+Dialogue: 0,0:11:28.43,0:11:34.05,英文,,0,0,0,,And I remember one time I was collaborating with that particular company HashiCorp.
+Dialogue: 0,0:11:34.25,0:11:39.46,英文,,0,0,0,,And I'm doing this keynote and they gave me one of their HashiCorp shirts my last name is Hightower.
 Dialogue: 0,0:11:39.73,0:11:41.72,英文,,0,0,0,,And their logo has this wonderful H.
 Dialogue: 0,0:11:42.01,0:11:44.51,英文,,0,0,0,,And I put it on says the H stands for Hightower.
 Dialogue: 0,0:11:44.87,0:11:46.76,英文,,0,0,0,,Now we're proudly on that keynote stage.
 Dialogue: 0,0:11:47.29,0:11:49.46,英文,,0,0,0,,And I remember having this shirt on.
 Dialogue: 0,0:11:49.46,0:11:53.00,英文,,0,0,0,,After the final keynote that I gave they did a company-wide picture.
-Dialogue: 0,0:11:53.00,0:11:57.08,英文,,0,0,0,,At this point hashi corp grows to about I don't know three to four hundred people.
+Dialogue: 0,0:11:53.00,0:11:57.08,英文,,0,0,0,,At this point HashiCorp grows to about I don't know three to four hundred people.
 Dialogue: 0,0:11:57.40,0:12:00.53,英文,,0,0,0,,And they all line up on the stage and we take photos and they're like
-Dialogue: 0,0:12:00.91,0:12:04.32,英文,,0,0,0,,one of the founders Mitchell Hashimoto Kelsey get in the front row.
-Dialogue: 0,0:12:04.56,0:12:07.44,英文,,0,0,0,,You're like family so I get into the photo.
-Dialogue: 0,0:12:08.27,0:12:10.88,英文,,0,0,0,,And I stand there and I pose with my H on.
+Dialogue: 0,0:12:00.91,0:12:03.00,英文,,0,0,0,,one of the founders Mitchell Hashimoto:
+Dialogue: 0,0:12:03.00,0:12:05.79,英文,,0,0,0,,"Kelsey get in the front row, you're like family."
+Dialogue: 0,0:12:05.99,0:12:10.88,英文,,0,0,0,,So I get into the photo and I stand there and I pose with my H on.
 Dialogue: 0,0:12:11.12,0:12:13.40,英文,,0,0,0,,And I straighten it out just so it looks perfect.
 Dialogue: 0,0:12:13.85,0:12:14.96,英文,,0,0,0,,And we take the photo.
 Dialogue: 0,0:12:15.92,0:12:19.77,英文,,0,0,0,,And I was like Mitchell this is our chance to do the funniest thing ever.
 Dialogue: 0,0:12:20.24,0:12:21.63,英文,,0,0,0,,It's like what do you have in mind.
-Dialogue: 0,0:12:21.92,0:12:26.40,英文,,0,0,0,,And he posts the photo on twitter and as the ceo and founder of hashi corp.
-Dialogue: 0,0:12:26.73,0:12:30.57,英文,,0,0,0,,He wrote I'm so happy that Kelsey is joining hashi corp.
+Dialogue: 0,0:12:21.92,0:12:26.40,英文,,0,0,0,,And he posts the photo on twitter and as the ceo and founder of HashiCorp.
+Dialogue: 0,0:12:26.73,0:12:30.57,英文,,0,0,0,,He wrote I'm so happy that Kelsey is joining HashiCorp.
 Dialogue: 0,0:12:34.65,0:12:39.04,英文,,0,0,0,,Now as an executive myself at google this is really interesting.
 Dialogue: 0,0:12:42.48,0:12:47.04,英文,,0,0,0,,And I let it bake for hours the HR department is like what's going on,
 Dialogue: 0,0:12:47.44,0:12:48.73,英文,,0,0,0,,when did Kelsey leave?
@@ -211,17 +211,17 @@ Dialogue: 0,0:12:59.73,0:13:05.25,英文,,0,0,0,,And you just start typing but n
 Dialogue: 0,0:13:08.40,0:13:11.43,英文,,0,0,0,,So after a couple of hours because it started getting really serious.
 Dialogue: 0,0:13:11.88,0:13:17.00,英文,,0,0,0,,You know it's serious when your VP puts a meeting on your calendar to discuss things.
 Dialogue: 0,0:13:18.36,0:13:20.67,英文,,0,0,0,,So I declined the meeting is like it's a joke.
-Dialogue: 0,0:13:21.42,0:13:24.39,英文,,0,0,0,,And I responded but hashi corp is like family.
+Dialogue: 0,0:13:21.42,0:13:24.39,英文,,0,0,0,,And I responded but HashiCorp is like family.
 Dialogue: 0,0:13:24.76,0:13:29.84,英文,,0,0,0,,And I remember during that time I had this phrase different company same team.
 Dialogue: 0,0:13:30.59,0:13:33.28,英文,,0,0,0,,That's how I've always thought about this open source collaboration.
 Dialogue: 0,0:13:33.85,0:13:36.04,英文,,0,0,0,,And I've contributed to many of the hashi core projects.
-Dialogue: 0,0:13:36.04,0:13:39.04,英文,,0,0,0,,And the reason why I'm bringing up hashi corp in particular.
+Dialogue: 0,0:13:36.04,0:13:39.04,英文,,0,0,0,,And the reason why I'm bringing up HashiCorp in particular.
 Dialogue: 0,0:13:39.22,0:13:42.63,英文,,0,0,0,,Because I have a lot of empathy for my family and what they go through.
 Dialogue: 0,0:13:43.17,0:13:48.37,英文,,0,0,0,,I also advise lots of startups and they all have this sentiment that seems to be pretty new.
 Dialogue: 0,0:13:49.20,0:13:52.42,英文,,0,0,0,,From the outsider's view the early days of open source
 Dialogue: 0,0:13:52.85,0:13:56.07,英文,,0,0,0,,seem to try to make better versions of things that existed already.
-Dialogue: 0,0:13:56.47,0:14:00.38,英文,,0,0,0,,Some of the earlier operating systems corn shell tobacco.
-Dialogue: 0,0:14:00.67,0:14:06.79,英文,,0,0,0,,There was a blueprint and a template and the goal was to turn proprietary software and make it open.
+Dialogue: 0,0:13:56.47,0:14:00.38,英文,,0,0,0,,Some of the earlier operating systems Korn Shell to Bash.
+Dialogue: 0,0:14:00.67,0:14:06.79,英文,,0,0,0,,There was a blueprint in a template and the goal was to turn proprietary software and make it open.
 Dialogue: 0,0:14:07.05,0:14:10.63,英文,,0,0,0,,And of course they got better over time to the point where they became industry standards.
 Dialogue: 0,0:14:11.15,0:14:14.21,英文,,0,0,0,,But imagine trying to build a company in this error.
 Dialogue: 0,0:14:15.75,0:14:17.75,英文,,0,0,0,,This is an extreme amount of challenge.

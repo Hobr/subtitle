@@ -78,8 +78,8 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 5 -c:a copy dist.m
 
 - Linux Foundation
   - 报告
-    - [ ] 对开源的思考-凯尔西·海托(卓越的软件工程师) NIvSgk0oV7Y
+    - [ ] 对开源的思考 - Thoughts on Open Source - Kelsey Hightower NIvSgk0oV7Y
 
 - RISC-V International
-  - 采访
-    - [ ] 对话RISC-V国际首席执行官-世界嵌入式展览会 i4sbrWZPs6k
+  - 报告
+    - [ ] 创新和采纳推动着开放计算的未来 - Innovation and Adoption Driving the Open Compute Future - RISC-V 国际首席执行官 Calista Redmond - 世界嵌入式展览会 OPAnLVpVJeQ
