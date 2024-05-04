@@ -64,6 +64,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
       - [x] 第一集 黄前久美子 黒沢朋世(ともよ) NfbnEl2WmK0 BV1Gm41167x4
       - [x] 第二集 釜屋燕 大橋彩香 N350Yl24zJs BV1Xt42177ym
       - [x] 第三集 釜屋雀 夏川椎菜 fXGGSA8-QL0 BV1kt421w7KR
+      - [x] 第四集 月永求 土屋神葉  <https://twitter.com/anime_eupho/status/1786698956938125566>
 
   - OP/ED
     - [x] OP1 1ns78jyf0fw BV1cC411V7yQ BV1dD421579R
@@ -71,6 +72,8 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
 
   - CM
     - [x] BD第一卷 AE24y4fJGbA BV1p1421m7Z3
+      - [x] 特典-未使用画面集1  CGH_Tf8wot4
+
     - [x] 第二集预告 _rgXNQHih_o BV16i421f7fE
     - [x] 第三集预告 MacQeKJ95SM BV1bH4y1N7KU
     - [x] 第四集预告 ksOB0iKTTDY BV1ap421S7YN
