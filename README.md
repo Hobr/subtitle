@@ -31,7 +31,7 @@ whisper-cpp -m /mnt/data/Hobr/Downloads/WhisperDesktop/ggml-large-v3.bin -osrt -
 # 插帧
 
 # 嵌入ass
-ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 5 -c:a copy dist.mp4
+ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.mp4
 ```
 
 ## 链接
@@ -78,7 +78,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 5 -c:a copy dist.m
 
 - Linux Foundation
   - 报告
-    - [ ] 对开源的思考 - Thoughts on Open Source - Kelsey Hightower NIvSgk0oV7Y
+    - [x] 对开源的思考 - Thoughts on Open Source - Kelsey Hightower BV1Fs421T726 NIvSgk0oV7Y
 
 - RISC-V International
   - 报告
