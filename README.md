@@ -86,10 +86,8 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
       - 然后，命运之日——A编选拔的那一天到了。
     - [ ] 第七集预告 - 夏色延音符(なついろフェルマータ)
 
-- Linux Foundation
-  - 报告
-    - [x] 对开源的思考 - Thoughts on Open Source - Kelsey Hightower BV1Fs421T726 NIvSgk0oV7Y
-
-- RISC-V International
-  - 报告
-    - [ ] 创新和采纳推动着开放计算的未来 - Innovation and Adoption Driving the Open Compute Future - RISC-V 国际首席执行官 Calista Redmond - 世界嵌入式展览会 OPAnLVpVJeQ
+- 演讲/报告
+  - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 BV1Fs421T726 NIvSgk0oV7Y
+  - [ ] 创新和采纳推动着开放计算的未来 - RISC-V 国际首席执行官 Calista Redmond - 世界嵌入式展览会 OPAnLVpVJeQ
+  - [ ] Linus Torvalds对话Dirk Hohndel cPvRIWXNgaM
+  - [ ] LinuxFest Northwest 2024: 5 Reasons to Love NixOS  IDFuOCHXdzI
