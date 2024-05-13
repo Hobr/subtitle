@@ -66,7 +66,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
       - [x] 第三集 釜屋雀 夏川椎菜 fXGGSA8-QL0 BV1kt421w7KR
       - [x] 第四集 月永求 土屋神葉 BV1KJ4m1K7Yn Tr4XIXCcPz8
       - [x] 第五集 高坂丽奈 安済知佳 BV1ai421k7br 6L4bZXC3SCs
-      - [x] 第六集 加藤叶月 朝井彩加 1a7sZCaAIPQ
+      - [x] 第六集 加藤叶月 朝井彩加 BV1Nr421j7cu 1a7sZCaAIPQ
 
   - OP/ED
     - [x] OP1 1ns78jyf0fw BV1cC411V7yQ BV1dD421579R
