@@ -15,8 +15,9 @@ Audio File: video.mkv
 Video File: video.mkv
 Video AR Mode: 4
 Video AR Value: 0.562500
-Video Zoom Percent: 0.625000
-Video Position: 13
+Video Zoom Percent: 0.750000
+Active Line: 4
+Video Position: 252
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,23 +26,23 @@ Style: 汉语,更纱黑体 UI SC,84,&H0000F3FF,&H000000FF,&H00EFA200,&H00EFA200,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.43,0:00:01.53,Default,,0,0,0,,大家好
-Dialogue: 0,0:00:01.57,0:00:03.87,Default,,0,0,0,,我是京吹3中
-Dialogue: 0,0:00:03.87,0:00:05.87,Default,,0,0,0,,黑江真由的配音户松遥
-Dialogue: 0,0:00:06.53,0:00:08.33,Default,,0,0,0,,第7話ということで
-Dialogue: 0,0:00:08.37,0:00:11.07,Default,,0,0,0,,いやーもう高校3年生 ということについて
-Dialogue: 0,0:00:11.07,0:00:13.77,Default,,0,0,0,,本当に色々懐かしくもあり
-Dialogue: 0,0:00:14.80,0:00:16.47,Default,,0,0,0,,高校3年生とはこういうことで
-Dialogue: 0,0:00:16.50,0:00:18.00,Default,,0,0,0,,色々と色々と ということをね
-Dialogue: 0,0:00:18.03,0:00:20.87,Default,,0,0,0,,本当に考えさせられる展開になっております
-Dialogue: 0,0:00:20.90,0:00:22.47,Default,,0,0,0,,そしていよいよ真由ちゃんも
-Dialogue: 0,0:00:23.00,0:00:25.57,Default,,0,0,0,,まだまだどんな風になっていくのか
-Dialogue: 0,0:00:25.60,0:00:26.77,Default,,0,0,0,,後半ですね
-Dialogue: 0,0:00:27.17,0:00:27.97,Default,,0,0,0,,今後の展開も
-Dialogue: 0,0:00:27.97,0:00:29.17,Default,,0,0,0,,楽しみにしていただけたら
-Dialogue: 0,0:00:29.17,0:00:30.17,Default,,0,0,0,,嬉しいです
-Dialogue: 0,0:00:30.20,0:00:30.70,Default,,0,0,0,,ということで
-Dialogue: 0,0:00:30.73,0:00:33.00,Default,,0,0,0,,TVアニメ「響け!ユーフォニアム 3」
-Dialogue: 0,0:00:33.03,0:00:35.13,Default,,0,0,0,,毎週日曜午後5時から
-Dialogue: 0,0:00:35.17,0:00:38.07,Default,,0,0,0,,NHK Eテレにて好評放送中です
-Dialogue: 0,0:00:38.07,0:00:40.33,Default,,0,0,0,,ぜひご覧ください
+Dialogue: 0,0:00:00.43,0:00:01.53,汉语,,0,0,0,,大家好
+Dialogue: 0,0:00:01.57,0:00:03.87,汉语,,0,0,0,,我是京吹3中
+Dialogue: 0,0:00:03.87,0:00:05.87,汉语,,0,0,0,,黑江真由的配音户松遥
+Dialogue: 0,0:00:06.53,0:00:08.33,汉语,,0,0,0,,第七集呢
+Dialogue: 0,0:00:08.37,0:00:11.07,汉语,,0,0,0,,啊 已经高三了 关于高三呢
+Dialogue: 0,0:00:11.07,0:00:13.77,汉语,,0,0,0,,真的有很多怀念的东西呢
+Dialogue: 0,0:00:14.80,0:00:16.47,汉语,,0,0,0,,高校3年生とはこういうことで
+Dialogue: 0,0:00:16.50,0:00:18.00,汉语,,0,0,0,,色々と色々と ということをね
+Dialogue: 0,0:00:18.03,0:00:20.87,汉语,,0,0,0,,本当に考えさせられる展開になっております
+Dialogue: 0,0:00:20.90,0:00:22.47,汉语,,0,0,0,,そしていよいよ真由ちゃんも
+Dialogue: 0,0:00:23.00,0:00:25.57,汉语,,0,0,0,,まだまだどんな風になっていくのか
+Dialogue: 0,0:00:25.60,0:00:26.77,汉语,,0,0,0,,後半ですね
+Dialogue: 0,0:00:27.17,0:00:27.97,汉语,,0,0,0,,今後の展開も
+Dialogue: 0,0:00:27.97,0:00:29.17,汉语,,0,0,0,,楽しみにしていただけたら
+Dialogue: 0,0:00:29.17,0:00:30.17,汉语,,0,0,0,,嬉しいです
+Dialogue: 0,0:00:30.20,0:00:30.70,汉语,,0,0,0,,总而言之
+Dialogue: 0,0:00:30.73,0:00:33.00,汉语,,0,0,0,,TV动画《吹响吧！上低音号 第三季》
+Dialogue: 0,0:00:33.03,0:00:35.13,汉语,,0,0,0,,每周日下午5时
+Dialogue: 0,0:00:35.17,0:00:38.07,汉语,,0,0,0,,于NHK E台好评播出中
+Dialogue: 0,0:00:38.07,0:00:40.33,汉语,,0,0,0,,请务必收看哦
