@@ -91,7 +91,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
       - 【第九集 简介】
 
     - [ ] 第十集预告 - ()
-      - 分镜/演出: 作画监督:
+      - 脚本:花田十辉 分镜:太田稔 演出:北之原孝将 作画监督:
       - 【第十集 简介】
 
     - [ ] 第十一集预告 - ()
