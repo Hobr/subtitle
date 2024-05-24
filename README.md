@@ -86,7 +86,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
     - [x] 第七集预告 - 夏色延音符(なついろフェルマータ) pk3UfbwP92s BV1mD421A7aT
     - [x] 第八集预告 - 烦恼的回奏(なやめるオスティナート) BV1Kf421d7xH VSzCREjjAVY
 
-    - [ ] 第九集预告 - (ちぐはぐチューニング)
+    - [ ] 第九集预告 - 不一致的调音(ちぐはぐチューニング)
       - 分镜/演出:石立太一 作画监督:引山佳代
       - 【第九集 简介】
 
