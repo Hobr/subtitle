@@ -116,3 +116,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
   - [ ] 创新和采纳推动着开放计算的未来 - RISC-V 国际首席执行官 Calista Redmond - 世界嵌入式展览会 OPAnLVpVJeQ
   - [ ] Linus Torvalds对话Dirk Hohndel cPvRIWXNgaM
   - [ ] LinuxFest Northwest 2024: 5 Reasons to Love NixOS  IDFuOCHXdzI
+
+- 9-nine-
+  - PV
+    - [x] 制作决定 BV16s42137r6 BN1fu_E2xKk
