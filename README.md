@@ -76,7 +76,8 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
 
   - CM
     - [x] BD第一卷 AE24y4fJGbA BV1p1421m7Z3
-      - [x] 特典-未使用画面集1  CGH_Tf8wot4
+      - [x] 特典-未使用画面集1 BV18i421k7RL CGH_Tf8wot4
+      - [x] 特典-番外剧集1 BV1Yr421c7PR lfMfCU7M09g
 
     - <https://www.nhk.jp/p/ts/E4G43PV3QX/>
     - [x] 第二集预告 - 三角切分音(さんかくシンコペーション) _rgXNQHih_o BV16i421f7fE
