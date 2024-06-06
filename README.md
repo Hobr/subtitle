@@ -111,9 +111,6 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
 
 - 演讲/报告
   - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 BV1Fs421T726 NIvSgk0oV7Y
-  - [ ] 创新和采纳推动着开放计算的未来 - RISC-V 国际首席执行官 Calista Redmond - 世界嵌入式展览会 OPAnLVpVJeQ
-  - [ ] Linus Torvalds对话Dirk Hohndel cPvRIWXNgaM
-  - [ ] LinuxFest Northwest 2024: 5 Reasons to Love NixOS  IDFuOCHXdzI
 
 - 9-nine-
   - PV
