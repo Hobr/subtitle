@@ -71,6 +71,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
       - [x] 第七集 黒江真由 戸松遥 BV1Uf421Q7VN wfz8tkG9AD8
       - [x] 第八集 川島緑輝 豊田萌絵 BV1Wm42157sz hRrPRgJbUsQ
       - [x] 第九集 久石奏 雨宮天 BV12x4y1E7Cm XF0TXpsOono
+      - [x] 第十集 石谷春貴 冢本秀一 BV1jw4m1i7Xv IO5eNA-hDW8
 
   - OP/ED
     - [x] OP1 1ns78jyf0fw BV1cC411V7yQ BV1dD421579R
