@@ -51,6 +51,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
     - [x] 塚本秀一＆月永求 i2mVTtt7Hig BV19u4m1T7JP
     - [x] 黑江真由 i4ZACWf3qiQ BV1bx4y1Y7bz
     - [x] 田中明日香&中世古香织 uFT18jOVw-A BV1Dw4m1v7dt
+    - [x] 中川夏紀＆吉川優子 BV1RJ4m1u7Eb xg7w5SnGZxc
 
   - 声优PV Youtube Shorts
     - 放送前
@@ -92,7 +93,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
     - [x] 第八集预告 - 烦恼的回奏(なやめるオスティナート) BV1Kf421d7xH VSzCREjjAVY
     - [x] 第九集预告 - 不协调的调音(ちぐはぐチューニング) BV1a1421y7LW sKsDvMtCyFw
     - [x] 第十集预告 - 传递的琶音(つたえるアルペジオ) BV1qn4y1Q7hs vetvahfKUOU
-    - [x] 第十一集预告 - 向未来而行的乐团 djzufq6xkuU BV1rJ4m1g7qR
+    - [x] 第十一集预告 - 向未来前行的乐团 djzufq6xkuU BV1rJ4m1g7qR
 
     - [ ] 第十二集预告 - 最终的Soli人选(さいごのソリスト)
       脚本:花田十辉 分镜:小川太一 演出:山村卓也 作画监督:引山佳代,高桥真梨子
