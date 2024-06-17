@@ -52,6 +52,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
     - [x] 黑江真由 i4ZACWf3qiQ BV1bx4y1Y7bz
     - [x] 田中明日香&中世古香织 uFT18jOVw-A BV1Dw4m1v7dt
     - [x] 中川夏紀＆吉川優子 BV1RJ4m1u7Eb xg7w5SnGZxc
+    - [x] 铠冢霙&伞木希美 BV1sH4y1w7qy jJpcRvZRpmw
 
   - 声优PV Youtube Shorts
     - 放送前
