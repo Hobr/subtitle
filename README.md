@@ -51,8 +51,8 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
     - [x] 塚本秀一＆月永求 i2mVTtt7Hig BV19u4m1T7JP
     - [x] 黑江真由 i4ZACWf3qiQ BV1bx4y1Y7bz
     - [x] 田中明日香&中世古香织 uFT18jOVw-A BV1Dw4m1v7dt
-    - [x] 中川夏紀＆吉川優子 BV1RJ4m1u7Eb xg7w5SnGZxc
-    - [x] 铠冢霙&伞木希美 BV1sH4y1w7qy jJpcRvZRpmw
+    - [x] 中川夏紀＆吉川優子 xg7w5SnGZxc BV1RJ4m1u7Eb
+    - [x] 铠冢霙&伞木希美 jJpcRvZRpmw BV1sH4y1w7qy
 
   - 声优PV Youtube Shorts
     - 放送前
@@ -67,14 +67,14 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
       - [x] 第一集 黄前久美子 黒沢朋世(ともよ) NfbnEl2WmK0 BV1Gm41167x4
       - [x] 第二集 釜屋燕 大橋彩香 N350Yl24zJs BV1Xt42177ym
       - [x] 第三集 釜屋雀 夏川椎菜 fXGGSA8-QL0 BV1kt421w7KR
-      - [x] 第四集 月永求 土屋神葉 BV1KJ4m1K7Yn Tr4XIXCcPz8
-      - [x] 第五集 高坂丽奈 安済知佳 BV1ai421k7br 6L4bZXC3SCs
-      - [x] 第六集 加藤叶月 朝井彩加 BV1Nr421j7cu 1a7sZCaAIPQ
-      - [x] 第七集 黒江真由 戸松遥 BV1Uf421Q7VN wfz8tkG9AD8
-      - [x] 第八集 川島緑輝 豊田萌絵 BV1Wm42157sz hRrPRgJbUsQ
-      - [x] 第九集 久石奏 雨宮天 BV12x4y1E7Cm XF0TXpsOono
-      - [x] 第十集 冢本秀一 石谷春貴 BV1jw4m1i7Xv IO5eNA-hDW8
-      - [ ] 第十一集 黒江真由 戸松遥 gTTEKq0W410
+      - [x] 第四集 月永求 土屋神葉 Tr4XIXCcPz8 BV1KJ4m1K7Yn
+      - [x] 第五集 高坂丽奈 安済知佳 6L4bZXC3SCs BV1ai421k7br
+      - [x] 第六集 加藤叶月 朝井彩加 1a7sZCaAIPQ BV1Nr421j7cu
+      - [x] 第七集 黒江真由 戸松遥 wfz8tkG9AD8 BV1Uf421Q7VN
+      - [x] 第八集 川島緑輝 豊田萌絵 hRrPRgJbUsQ BV1Wm42157sz
+      - [x] 第九集 久石奏 雨宮天 XF0TXpsOono BV12x4y1E7Cm
+      - [x] 第十集 冢本秀一 石谷春貴 IO5eNA-hDW8 BV1jw4m1i7Xv
+      - [x] 第十一集 黒江真由 戸松遥 gTTEKq0W410 BV1Gx4y1t78B
 
   - OP/ED
     - [x] OP1 1ns78jyf0fw BV1cC411V7yQ BV1dD421579R
@@ -82,8 +82,8 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
 
   - CM
     - [x] BD第一卷 AE24y4fJGbA BV1p1421m7Z3
-      - [x] 特典-未使用画面集1 BV18i421k7RL CGH_Tf8wot4
-      - [x] 特典-番外剧集1 BV1Yr421c7PR lfMfCU7M09g
+      - [x] 特典-未使用画面集1 CGH_Tf8wot4 BV18i421k7RL
+      - [x] 特典-番外剧集1 lfMfCU7M09g BV1Yr421c7PR
 
     - <https://www.nhk.jp/p/ts/E4G43PV3QX/>
     - [x] 第二集预告 - 三角切分音(さんかくシンコペーション) _rgXNQHih_o BV16i421f7fE
@@ -92,29 +92,27 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
     - [x] 第五集预告 - 二人的黄昏(ふたりでトワイライト) y2zLVJQ0U0o BV1qZ421779b
     - [x] 第六集预告 - 波动的不协和音(ゆらぎのディゾナンス) Kl4cZ0Vx820 BV1Ar42177W8
     - [x] 第七集预告 - 夏色延音符(なついろフェルマータ) pk3UfbwP92s BV1mD421A7aT
-    - [x] 第八集预告 - 烦恼的回奏(なやめるオスティナート) BV1Kf421d7xH VSzCREjjAVY
-    - [x] 第九集预告 - 不协调的调音(ちぐはぐチューニング) BV1a1421y7LW sKsDvMtCyFw
-    - [x] 第十集预告 - 传递的琶音(つたえるアルペジオ) BV1qn4y1Q7hs vetvahfKUOU
+    - [x] 第八集预告 - 烦恼的回奏(なやめるオスティナート) VSzCREjjAVY BV1Kf421d7xH
+    - [x] 第九集预告 - 不协调的调音(ちぐはぐチューニング) sKsDvMtCyFw BV1a1421y7LW
+    - [x] 第十集预告 - 传递的琶音(つたえるアルペジオ) vetvahfKUOU BV1qn4y1Q7hs
     - [x] 第十一集预告 - 向未来前行的乐团 djzufq6xkuU BV1rJ4m1g7qR
 
     - [ ] 第十二集预告 - 最终的Soli人选(さいごのソリスト)
       脚本:花田十辉 分镜:小川太一 演出:山村卓也 作画监督:引山佳代,高桥真梨子
       【第十二集 简介】
       全国大赛成员选拔结果公布了。对此，久美子向顾问泷老师提出了一个建议。
-      北宇治吹奏部奉行实力主义。
-      久美子为了最后的演奏登上了场台。
+      北宇治吹奏部奉行实力主义。久美子为了最后的演奏登上了舞台。
 
     - [ ] 第十三集预告 - 相连的旋律(つながるメロディ)
       脚本:花田十辉 分镜:石原立也 演出:未公开 作画监督:未公开
       【第十三集 简介】
-      全日本吹奏乐大赛。自那次奇迹发生已经过去了2年......
-      这次，久美子以部长的身份登上了全国大赛的舞台。
-      在灯光照耀闪闪发光的舞台上，她回想起了在北宇治吹奏部的往昔峥嵘岁月。
+      全日本吹奏乐大赛。那次奇迹已经过去了2年......这次，久美子以部长的身份登上了全国大赛的舞台。
+      在璀璨夺目的舞台上，她回想起了在北宇治吹奏部的往昔峥嵘岁月。
       北宇治吹奏部能否实现夺得「全国大赛金奖」这一夙愿呢？
 
 - 演讲/报告
-  - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 BV1Fs421T726 NIvSgk0oV7Y
+  - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
 
 - 9-nine-
   - PV
-    - [x] 制作决定 BV16s42137r6 BN1fu_E2xKk
+    - [x] 制作决定 BN1fu_E2xKk BV16s42137r6
