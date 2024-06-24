@@ -75,7 +75,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
       - [x] 第九集 久石奏 雨宮天 XF0TXpsOono BV12x4y1E7Cm
       - [x] 第十集 冢本秀一 石谷春貴 IO5eNA-hDW8 BV1jw4m1i7Xv
       - [x] 第十一集 黒江真由 戸松遥 gTTEKq0W410 BV1Gx4y1t78B
-      - [ ] 第十二集 高坂麗奈 安済知佳 Z8GJM-1my8A
+      - [x] 第十二集 高坂麗奈 安済知佳 Z8GJM-1my8A BV1V6421Z7J5
 
   - OP/ED
     - [x] OP1 1ns78jyf0fw BV1cC411V7yQ BV1dD421579R
