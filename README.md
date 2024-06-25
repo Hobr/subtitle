@@ -110,6 +110,9 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
   - Ferbri
     - 黒沢ともよ
       - [x] 前 <https://febri.jp/topics/anime-eupho3_kurosawatomoyo_01/> cv35768310
+    - 戸松遥
+      - [ ] 前 <https://febri.jp/topics/anime-eupho3_tomatsuharuka_01/>
+      - [ ] 后 <https://febri.jp/topics/anime-eupho3_tomatsuharuka_02/>
 
 - 演讲/报告
   - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
