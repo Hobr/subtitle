@@ -107,6 +107,10 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
       《吹响吧！上低音号 3》正式迎来最后一集!
       【STAFF】脚本:花田十辉 分镜:石原立也 演出:未公开 作画监督:未公开
 
+  - Ferbri
+    - 黒沢ともよ
+      - [ ] 前 <https://febri.jp/topics/anime-eupho3_kurosawatomoyo_01/>
+
 - 演讲/报告
   - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
 
