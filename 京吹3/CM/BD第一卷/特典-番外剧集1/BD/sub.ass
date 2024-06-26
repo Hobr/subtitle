@@ -15,7 +15,7 @@ Audio File: video.mkv
 Video File: video.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
+Video Zoom Percent: 0.250000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -62,9 +62,9 @@ Dialogue: 0,0:01:06.71,0:01:07.29,底部-汉语,,0,0,0,,是
 Dialogue: 0,0:01:07.83,0:01:10.76,头部-日语,,0,0,0,,だから よく分からないけど
 Dialogue: 0,0:01:07.83,0:01:10.76,底部-汉语,,0,0,0,,所以 我不是很明白
 Dialogue: 0,0:01:11.16,0:01:14.18,头部-日语,,0,0,0,,幹部だから 大変でも しかたないってなるの
-Dialogue: 0,0:01:11.16,0:01:14.18,底部-汉语,,0,0,0,,我想即使是干部 因为困难就觉得没办法
+Dialogue: 0,0:01:11.16,0:01:14.18,底部-汉语,,0,0,0,,“因为是干部，所以即使很辛苦也只能接受”
 Dialogue: 0,0:01:14.55,0:01:16.76,头部-日语,,0,0,0,,減るといいな〜と思ってさ
-Dialogue: 0,0:01:14.55,0:01:16.76,底部-汉语,,0,0,0,,我觉得不要这样想就好了
+Dialogue: 0,0:01:14.55,0:01:16.76,底部-汉语,,0,0,0,,我想这种情况能少点就好了
 Dialogue: 0,0:01:17.18,0:01:18.18,头部-日语,,0,0,0,,葉月ちゃん
 Dialogue: 0,0:01:17.18,0:01:18.18,底部-汉语,,0,0,0,,叶月
 Dialogue: 0,0:01:21.50,0:01:27.31,头部-日语,,0,0,0,,葉月ちゃんの言葉で「しかたない」を最近よく耳にしていたのに気づきました
