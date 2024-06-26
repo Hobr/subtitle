@@ -8,8 +8,6 @@
 - [字幕生成 OpenAI-Whisper](https://github.com/ggerganov/whisper.cpp)
 - [字幕轴 Aegisub](https://github.com/arch1t3cht/Aegisub)
 - [影视资源编辑 FFmpeg](https://github.com/FFmpeg/FFmpeg)
-- [扩展分辨率 ESRGAN](https://github.com/xinntao/Real-ESRGAN/)
-- [插帧 RIFE](https://github.com/Justin62628/Squirrel-RIFE)
 
 ## 常用操作
 
@@ -25,10 +23,6 @@ ffmpeg -ar 16000 -ac 1 -c:a pcm_s16le output.wav -i video.mkv
 
 # Whisper 识别字幕
 whisper-cpp -m /mnt/data/Hobr/Downloads/WhisperDesktop/ggml-large-v3.bin -osrt --debug-mode true -t 16 --print-colors -pp -l ja -f output.wav
-
-# 放大
-
-# 插帧
 
 # 嵌入ass
 ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.mp4
@@ -85,7 +79,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
     - [x] BD第一卷 AE24y4fJGbA BV1p1421m7Z3
       - [x] 特典-未使用画面集1
         - [x] 社交媒体 CGH_Tf8wot4 BV18i421k7RL
-        - [ ] 蓝光
+        - [x] 蓝光 BV1PT421Y7ME
 
       - [x] 特典-番外剧集1
         - [x] 社交媒体 lfMfCU7M09g BV1Yr421c7PR
