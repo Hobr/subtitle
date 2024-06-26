@@ -110,6 +110,7 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
   - Ferbri
     - 黒沢ともよ
       - [x] 前 <https://febri.jp/topics/anime-eupho3_kurosawatomoyo_01/> cv35768310
+      - [ ] 后　<https://febri.jp/topics/anime-eupho3_kurosawatomoyo_02/>
     - 戸松遥
       - [ ] 前 <https://febri.jp/topics/anime-eupho3_tomatsuharuka_01/>
       - [ ] 后 <https://febri.jp/topics/anime-eupho3_tomatsuharuka_02/>
