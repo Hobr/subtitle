@@ -118,9 +118,9 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f tee "[f=flv]推流地址|[f=m
       - [ ] 前 <https://febri.jp/topics/anime-eupho3_tomatsuharuka_01/>
       - [ ] 后 <https://febri.jp/topics/anime-eupho3_tomatsuharuka_02/>
 
-- 演讲/报告
-  - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
-
 - 9-nine-
   - PV
     - [x] 制作决定 BN1fu_E2xKk BV16s42137r6
+
+- 演讲/报告
+  - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
