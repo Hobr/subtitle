@@ -113,7 +113,7 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f tee "[f=flv]推流地址|[f=m
   - Ferbri
     - 黒沢ともよ
       - [x] 前 <https://febri.jp/topics/anime-eupho3_kurosawatomoyo_01/> cv35768310
-      - [ ] 后　<https://febri.jp/topics/anime-eupho3_kurosawatomoyo_02/>
+      - [x] 后　<https://febri.jp/topics/anime-eupho3_kurosawatomoyo_02/> cv35801270
     - 戸松遥
       - [ ] 前 <https://febri.jp/topics/anime-eupho3_tomatsuharuka_01/>
       - [ ] 后 <https://febri.jp/topics/anime-eupho3_tomatsuharuka_02/>
