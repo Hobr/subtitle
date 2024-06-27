@@ -77,13 +77,13 @@ ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
 
   - CM
     - [x] BD第一卷 AE24y4fJGbA BV1p1421m7Z3
-      - [x] 特典-未使用画面集1
-        - [x] 社交媒体 CGH_Tf8wot4 BV18i421k7RL
-        - [x] 蓝光 BV1PT421Y7ME
-
       - [x] 特典-番外剧集1
         - [x] 社交媒体 lfMfCU7M09g BV1Yr421c7PR
-        - [ ] 蓝光
+        - [x] 蓝光 BV1PT421Y7ME
+
+      - [x] 特典-未使用画面集1
+        - [x] 社交媒体 CGH_Tf8wot4 BV18i421k7RL
+        - [x] 蓝光 BV1a4421S7R5
 
     - <https://www.nhk.jp/p/ts/E4G43PV3QX/>
     - [x] 第二集预告 - 三角切分音(さんかくシンコペーション) _rgXNQHih_o BV16i421f7fE
