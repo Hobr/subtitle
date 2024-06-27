@@ -26,6 +26,10 @@ whisper-cpp -m /mnt/data/Hobr/Downloads/WhisperDesktop/ggml-large-v3.bin -osrt -
 
 # 嵌入ass
 ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.mp4
+
+# 直播
+yt-dlp -g 'https://www.youtube.com/watch?v=XXX'
+ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f tee "[f=flv]推流地址|[f=mp4]record.mp4"
 ```
 
 ## 链接
