@@ -80,28 +80,28 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
     - [x] ED1 VBNklQKX_IU BV1kp421Q7yJ BV1if421o7V8
 
   - CM
-    - [x] BD第一卷 AE24y4fJGbA BV1p1421m7Z3
+    - BD第一卷 AE24y4fJGbA BV1p1421m7Z3
       - [x] 特典-番外剧集1
         - [x] 社交媒体 lfMfCU7M09g BV1Yr421c7PR
         - [x] 蓝光 BV1PT421Y7ME
 
-      - [x] 特典-未使用画面集1
+      - 特典-未使用画面集1
         - [x] 社交媒体 CGH_Tf8wot4 BV18i421k7RL
         - [x] 蓝光 BV1a4421S7R5
 
-    - <https://www.nhk.jp/p/ts/E4G43PV3QX/>
-    - [x] 第二集预告 - 三角切分音(さんかくシンコペーション) _rgXNQHih_o BV16i421f7fE
-    - [x] 第三集预告 - 水蓝序曲(みずいろプレリュード) MacQeKJ95SM BV1bH4y1N7KU
-    - [x] 第四集预告 - 和你一起的练习曲(きみとのエチュード) ksOB0iKTTDY BV1ap421S7YN
-    - [x] 第五集预告 - 二人的黄昏(ふたりでトワイライト) y2zLVJQ0U0o BV1qZ421779b
-    - [x] 第六集预告 - 波动的不协和音(ゆらぎのディゾナンス) Kl4cZ0Vx820 BV1Ar42177W8
-    - [x] 第七集预告 - 夏色延音符(なついろフェルマータ) pk3UfbwP92s BV1mD421A7aT
-    - [x] 第八集预告 - 烦恼的回奏(なやめるオスティナート) VSzCREjjAVY BV1Kf421d7xH
-    - [x] 第九集预告 - 不协调的调音(ちぐはぐチューニング) sKsDvMtCyFw BV1a1421y7LW
-    - [x] 第十集预告 - 传递的琶音(つたえるアルペジオ) vetvahfKUOU BV1qn4y1Q7hs
-    - [x] 第十一集预告 - 向未来前行的乐团 djzufq6xkuU BV1rJ4m1g7qR
-    - [x] 第十二集预告 - 最终的Soli人选(さいごのソリスト) ZLDt12jmY6c BV1RT421a7JF
-    - [x] 第十三集预告 - 相连的旋律(つながるメロディ) l8FGeYk1DbQ BV1PS421o7G6
+    - 预告
+      - [x] 第二集 - 三角切分音(さんかくシンコペーション) _rgXNQHih_o BV16i421f7fE
+      - [x] 第三集 - 水蓝序曲(みずいろプレリュード) MacQeKJ95SM BV1bH4y1N7KU
+      - [x] 第四集 - 和你一起的练习曲(きみとのエチュード) ksOB0iKTTDY BV1ap421S7YN
+      - [x] 第五集 - 二人的黄昏(ふたりでトワイライト) y2zLVJQ0U0o BV1qZ421779b
+      - [x] 第六集 - 波动的不协和音(ゆらぎのディゾナンス) Kl4cZ0Vx820 BV1Ar42177W8
+      - [x] 第七集 - 夏色延音符(なついろフェルマータ) pk3UfbwP92s BV1mD421A7aT
+      - [x] 第八集 - 烦恼的回奏(なやめるオスティナート) VSzCREjjAVY BV1Kf421d7xH
+      - [x] 第九集 - 不协调的调音(ちぐはぐチューニング) sKsDvMtCyFw BV1a1421y7LW
+      - [x] 第十集 - 传递的琶音(つたえるアルペジオ) vetvahfKUOU BV1qn4y1Q7hs
+      - [x] 第十一集 - 向未来前行的乐团 djzufq6xkuU BV1rJ4m1g7qR
+      - [x] 第十二集 - 最终的Soli人选(さいごのソリスト) ZLDt12jmY6c BV1RT421a7JF
+      - [x] 第十三集 - 相连的旋律(つながるメロディ) l8FGeYk1DbQ BV1PS421o7G6
 
   - Ferbri
     - 黒沢ともよ
