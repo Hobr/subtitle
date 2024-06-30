@@ -43,7 +43,7 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
 - 《吹响吧！上低音号 第三季》
   - PV Youtube Watch
     - [x] PV2 dzSh0bjmUVA BV1t1421Q7gF
-    - [ ] 最終回直前PV m6HBe_ewMbc
+
   - 角色PV Youtube Shorts
     - [x] 針谷佳穂＆上石弥生＆義井沙里 m6XlDMOqPIc BV1AK421i7fg
     - [x] 塚本秀一＆月永求 i2mVTtt7Hig BV19u4m1T7JP
@@ -107,9 +107,6 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
     - 黒沢ともよ
       - [x] 前 <https://febri.jp/topics/anime-eupho3_kurosawatomoyo_01/> cv35768310
       - [x] 后　<https://febri.jp/topics/anime-eupho3_kurosawatomoyo_02/> cv35801270
-    - 戸松遥
-      - [ ] 前 <https://febri.jp/topics/anime-eupho3_tomatsuharuka_01/>
-      - [ ] 后 <https://febri.jp/topics/anime-eupho3_tomatsuharuka_02/>
 
 - Summer Pockets
   - PV
