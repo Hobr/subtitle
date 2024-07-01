@@ -74,7 +74,7 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
       - [x] 第十集 冢本秀一 石谷春貴 IO5eNA-hDW8 BV1jw4m1i7Xv
       - [x] 第十一集 黒江真由 戸松遥 gTTEKq0W410 BV1Gx4y1t78B
       - [x] 第十二集 高坂麗奈 安済知佳 Z8GJM-1my8A BV1V6421Z7J5
-      - [ ] 第十三集 黄前久美子 黒沢ともよ(朋世) SJHCymvikIw
+      - [x] 第十三集 黄前久美子 黒沢ともよ(朋世) SJHCymvikIw BV1nn4y1X79q
 
   - OP/ED
     - [x] OP1 1ns78jyf0fw BV1cC411V7yQ BV1dD421579R
