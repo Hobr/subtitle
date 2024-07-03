@@ -51,7 +51,7 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
     - [x] 田中明日香&中世古香织 uFT18jOVw-A BV1Dw4m1v7dt
     - [x] 中川夏紀＆吉川優子 xg7w5SnGZxc BV1RJ4m1u7Eb
     - [x] 铠冢霙&伞木希美 jJpcRvZRpmw BV1sH4y1w7qy
-    - [ ] 91名部员 X3rb5NEdOKU
+    - [x] 91名部员 X3rb5NEdOKU BV1jJ4m1M7Ro
 
   - 声优PV Youtube Shorts
     - 放送前
