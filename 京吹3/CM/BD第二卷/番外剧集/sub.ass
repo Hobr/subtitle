@@ -14,7 +14,8 @@ Audio File: video.mp4
 Video File: video.mp4
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
+Video Zoom Percent: 0.375000
+Video Position: 78
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22,30 +23,27 @@ Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:03.00,0:00:05.00,Default,,0,0,0,,またやさぐれてる
-Dialogue: 0,0:00:05.00,0:00:08.00,Default,,0,0,0,,やさぐれてない
-Dialogue: 0,0:00:08.00,0:00:09.00,Default,,0,0,0,,はぁ…
-Dialogue: 0,0:00:09.00,0:00:12.00,Default,,0,0,0,,三皿目だよ
-Dialogue: 0,0:00:12.00,0:00:14.00,Default,,0,0,0,,だって
-Dialogue: 0,0:00:14.00,0:00:15.00,Default,,0,0,0,,だって?
-Dialogue: 0,0:00:15.00,0:00:17.00,Default,,0,0,0,,部活がつまんない
-Dialogue: 0,0:00:17.00,0:00:18.00,Default,,0,0,0,,は?
-Dialogue: 0,0:00:18.00,0:00:21.00,Default,,0,0,0,,低音パートが仲良しでつまんない
-Dialogue: 0,0:00:21.00,0:00:22.00,Default,,0,0,0,,ん?
-Dialogue: 0,0:00:22.00,0:00:25.00,Default,,0,0,0,,いいことじゃん、仲良しなのは
-Dialogue: 0,0:00:25.00,0:00:27.00,Default,,0,0,0,,つまんないものはつまんないの
-Dialogue: 0,0:00:27.00,0:00:29.00,Default,,0,0,0,,この前なんて
-Dialogue: 0,0:00:29.00,0:00:32.00,Default,,0,0,0,,絶対にくみこ先輩とつかもと先輩は
-Dialogue: 0,0:00:32.00,0:00:34.00,Default,,0,0,0,,付き合ってると思わない?
-Dialogue: 0,0:00:34.00,0:00:36.00,Default,,0,0,0,,それ一年の時に聞いたけど
-Dialogue: 0,0:00:36.00,0:00:38.00,Default,,0,0,0,,一応否定された
-Dialogue: 0,0:00:38.00,0:00:40.00,Default,,0,0,0,,え、聞いたんだ
-Dialogue: 0,0:00:40.00,0:00:41.00,Default,,0,0,0,,まぁね
-Dialogue: 0,0:00:41.00,0:00:42.00,Default,,0,0,0,,つかもと先輩
-Dialogue: 0,0:00:42.00,0:00:45.00,Default,,0,0,0,,最近は部長としか呼んでない気がする
-Dialogue: 0,0:00:45.00,0:00:48.00,Default,,0,0,0,,前は名前で呼んでたのに
-Dialogue: 0,0:00:48.00,0:00:51.00,Default,,0,0,0,,講師を分けるタイプなのかな
-Dialogue: 0,0:00:51.00,0:00:53.00,Default,,0,0,0,,あっ、もともくん
-Dialogue: 0,0:00:53.00,0:00:56.00,Default,,0,0,0,,ちょうどよかった
-Dialogue: 0,0:00:56.00,0:00:58.00,Default,,0,0,0,,あのさ、今度
-Dialogue: 0,0:00:58.00,0:01:01.14,Default,,0,0,0,,流星の演奏会があるんだけどチケットいる?
+Dialogue: 0,0:00:03.23,0:00:04.75,Default,,0,0,0,,まだやさぐれてる
+Dialogue: 0,0:00:05.58,0:00:06.99,Default,,0,0,0,,やさぐれてない
+Dialogue: 0,0:00:09.74,0:00:10.93,Default,,0,0,0,,三皿目だよ
+Dialogue: 0,0:00:12.82,0:00:13.50,Default,,0,0,0,,だって
+Dialogue: 0,0:00:14.00,0:00:14.66,Default,,0,0,0,,だって?
+Dialogue: 0,0:00:15.34,0:00:16.86,Default,,0,0,0,,部活がつまんない
+Dialogue: 0,0:00:17.29,0:00:17.75,Default,,0,0,0,,は?
+Dialogue: 0,0:00:18.47,0:00:21.00,Default,,0,0,0,,低音パートが仲良しでつまんない
+Dialogue: 0,0:00:21.23,0:00:21.82,Default,,0,0,0,,ん?
+Dialogue: 0,0:00:22.55,0:00:24.90,Default,,0,0,0,,いいことじゃん、仲良しなのは
+Dialogue: 0,0:00:25.03,0:00:27.15,Default,,0,0,0,,つまんないものはつまんないの
+Dialogue: 0,0:00:27.76,0:00:29.10,Default,,0,0,0,,この前なんて
+Dialogue: 0,0:00:30.00,0:00:34.24,Default,,0,0,0,,絶対に久美子先輩と塚本先輩は付き合ってると思わない?
+Dialogue: 0,0:00:34.83,0:00:36.80,Default,,0,0,0,,それ一年の時に聞いたけど
+Dialogue: 0,0:00:36.80,0:00:38.31,Default,,0,0,0,,一応否定された
+Dialogue: 0,0:00:38.46,0:00:40.00,Default,,0,0,0,,え、聞いたんだ
+Dialogue: 0,0:00:40.33,0:00:40.83,Default,,0,0,0,,まぁね
+Dialogue: 0,0:00:41.50,0:00:45.34,Default,,0,0,0,,塚本先輩最近は部長としか呼んでない気がする
+Dialogue: 0,0:00:45.91,0:00:48.00,Default,,0,0,0,,まえは名前で呼んでたのに
+Dialogue: 0,0:00:48.34,0:00:50.90,Default,,0,0,0,,公私を分けるタイプなのかな
+Dialogue: 0,0:00:51.62,0:00:52.78,Default,,0,0,0,,あっ、求くん
+Dialogue: 0,0:00:53.46,0:00:54.86,Default,,0,0,0,,ちょうどよかった
+Dialogue: 0,0:00:56.29,0:00:59.91,Default,,0,0,0,,あのさ、今度龍聖の演奏会があるんだけど
+Dialogue: 0,0:01:00.32,0:01:01.77,Default,,0,0,0,,チケットいる?
