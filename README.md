@@ -92,8 +92,8 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
         - [x] 蓝光 BV1a4421S7R5
 
     - BD第二卷
-      - [ ] 特典-番外剧集2
-        - [ ] 社交媒体 _41emF1g5mE
+      - 特典-番外剧集2
+        - [x] 社交媒体 _41emF1g5mE BV1xS421R7Nj
 
     - 预告
       - [x] 第二集 - 三角切分音(さんかくシンコペーション) _rgXNQHih_o BV16i421f7fE
@@ -113,6 +113,9 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
     - 黒沢ともよ
       - [x] 前 <https://febri.jp/topics/anime-eupho3_kurosawatomoyo_01/> cv35768310
       - [x] 后　<https://febri.jp/topics/anime-eupho3_kurosawatomoyo_02/> cv35801270
+
+    - 石原立也
+      - [ ] <https://febri.jp/topics/anime-eupho3_ishiharatatsuya_01/>
 
 - Summer Pockets
   - PV
