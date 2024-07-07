@@ -116,7 +116,7 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
 
     - 石原立也
       - [x] 前 <https://febri.jp/topics/anime-eupho3_ishiharatatsuya_01/> cv35948758
-      - [ ] 下 <https://febri.jp/topics/anime-eupho3_ishiharatatsuya_02/>
+      - [x] 下 <https://febri.jp/topics/anime-eupho3_ishiharatatsuya_02/> cv35969171
 
 - Summer Pockets
   - PV
