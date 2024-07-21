@@ -109,6 +109,19 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
       - [x] 第十二集 - 最终的Soli人选(さいごのソリスト) ZLDt12jmY6c BV1RT421a7JF
       - [x] 第十三集 - 相连的旋律(つながるメロディ) l8FGeYk1DbQ BV1PS421o7G6
 
+  - 副音轨
+    - 第一集
+      - [ ] CV
+      - [ ] STAFF
+
+    - 第二集
+      - [ ] CV
+      - [ ] STAFF
+
+    - 第三集
+      - [ ] CV
+      - [ ] STAFF
+
   - 访谈
     - 黒沢ともよ
       - [x] 前 <https://febri.jp/topics/anime-eupho3_kurosawatomoyo_01/> cv35768310
