@@ -25,7 +25,7 @@ ffmpeg -ar 16000 -ac 1 -c:a pcm_s16le output.wav -i video.mkv
 whisper-cpp -m /mnt/data/Hobr/Downloads/WhisperDesktop/ggml-large-v3.bin -osrt --debug-mode true -t 16 --print-colors -pp -l ja -f output.wav
 
 # 嵌入ass
-ffmpeg -i video.mp4 -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.mp4
+ffmpeg -i video.mkv -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.mkv
 
 # 直播
 yt-dlp -g 'https://www.youtube.com/watch?v=XXX'
