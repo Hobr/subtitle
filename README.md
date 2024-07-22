@@ -18,6 +18,13 @@ yt-dlp -F XXX
 # 下载
 yt-dlp -o video -fx+x XXX
 
+# m2ts转mkv
+mkvmerge -i video.m2ts video.mkv
+
+# 分离音轨
+ffmpeg -map 0:a:1 -c copy CV.wav -i ep.mkv
+ffmpeg -map 0:a:2 -c copy STAFF.wav -i ep.mkv
+
 # 转码到16KHz
 ffmpeg -ar 16000 -ac 1 -c:a pcm_s16le output.wav -i video.mkv
 
