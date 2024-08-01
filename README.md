@@ -101,6 +101,10 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
     - BD第二卷
       - 特典-番外剧集2
         - [x] 社交媒体 _41emF1g5mE BV1xS421R7Nj
+        - [x] 蓝光 BV14jvee9Exb
+
+      - [ ] 特典-未使用画面集2
+      - [ ] 特典-愚人节动画
 
     - 预告
       - [x] 第二集 - 三角切分音(さんかくシンコペーション) _rgXNQHih_o BV16i421f7fE
