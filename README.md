@@ -104,7 +104,6 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
         - [x] 蓝光 BV14jvee9Exb
 
       - [ ] 特典-未使用画面集2
-      - [ ] 特典-愚人节动画
 
     - 预告
       - [x] 第二集 - 三角切分音(さんかくシンコペーション) _rgXNQHih_o BV16i421f7fE
