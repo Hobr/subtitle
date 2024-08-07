@@ -105,6 +105,11 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
 
       - [ ] 特典-未使用画面集2
 
+    - BD第三卷
+      - 特典-番外剧集３
+        - [ ] 社交媒体 3a_OrI49nck
+        - [ ] 蓝光
+
     - 预告
       - [x] 第二集 - 三角切分音(さんかくシンコペーション) _rgXNQHih_o BV16i421f7fE
       - [x] 第三集 - 水蓝序曲(みずいろプレリュード) MacQeKJ95SM BV1bH4y1N7KU
