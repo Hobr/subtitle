@@ -15,7 +15,7 @@ Audio File: old.mkv
 Video File: old.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
+Video Zoom Percent: 0.375000
 Video Position: 12
 
 [V4+ Styles]
@@ -28,7 +28,7 @@ Style: 字幕,更纱黑体 UI SC,70,&H00FFFFFF,&H000000FF,&H003951D6,&H00FFFBF7,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.50,0:00:08.68,标题,,0,0,0,,{\b1\bord5\fade(1300,2000)\pos(429.34,746)}　正片未使用片段集 第二卷{\b0}\N\N\N\N\N{\fs72\bord0}~介绍剪辑过程中未被采用的影视素材~
 Dialogue: 0,0:00:08.76,0:00:13.72,标题,,0,0,0,,{\fade(2000,0)\pos(340,517.33)}第四集\N\N\N\N\N\N{\fs120}　　 和你一起的练习曲
-Dialogue: 0,0:00:13.72,0:00:18.69,介绍,,0,0,0,,久美子一行在回家的路上讨论求的情况的场景\N\N\N{\fs80}以及连接第二天午餐时间的场景
+Dialogue: 0,0:00:13.72,0:00:18.69,介绍,,0,0,0,,连接久美子一行回家路上讨论求的情况的场景\N\N\N{\fs80}和第二天午餐时间的场景
 Dialogue: 0,0:00:32.97,0:00:37.93,介绍,,0,0,0,,久美子来办公室还钥匙时\N\N\N和泷的对话的未使用场景
 Dialogue: 0,0:00:37.93,0:00:38.94,字幕,,0,0,0,,{\bord0}音效 (敲门声)
 Dialogue: 0,0:00:40.38,0:00:41.83,字幕,,0,0,0,,(久美子) 打扰了
