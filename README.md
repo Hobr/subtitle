@@ -173,3 +173,8 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
 
 - 演讲/报告
   - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
+
+- 技术
+  - Rust
+    - Bevy
+      - [ ] Bevy: A quick introduction HGhQuebcHL4
