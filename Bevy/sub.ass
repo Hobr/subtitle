@@ -15,8 +15,7 @@ Audio File: video.mkv
 Video File: video.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Video Position: 3
+Video Zoom Percent: 0.250000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,19 +28,25 @@ Style: 英文-furigana,Sarasa Gothic K,21,&H00FFFFFF,&H000000FF,&H00000000,&H000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.12,0:00:04.29,英文,,0,0,0,,Morning everyone! I'm Isaac, and I'm a software developer who can never decide what to focus on.
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,//------模板------
+Comment: 1,0:00:00.00,0:00:00.00,英文,,0,0,0,template char noblank,!retime("line",($si-1)*30-100,($si-1)*30+100)!{\an5\pos($center,$middle)\blur2\fad(100,100)}
+Comment: 2,0:00:00.00,0:00:00.00,中文,,0,0,0,template char noblank,!retime("line",($si-1)*30-100,($si-1)*30+100)!{\an5\pos($center,$middle)\blur2\fad(100,100)}
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,//------K值------
+Dialogue: 0,0:00:00.12,0:00:00.83,英文,,0,0,0,,Morning everyone!
+Dialogue: 0,0:00:01.04,0:00:04.22,英文,,0,0,0,,I'm Isaac, and I'm a software developer who can never decide what to focus on.
 Dialogue: 0,0:00:04.56,0:00:06.35,英文,,0,0,0,,Today I'd like to introduce you to Bevy,
 Dialogue: 0,0:00:06.56,0:00:09.98,英文,,0,0,0,,a game engine written in Rust that I've really come to enjoy working with.
-Dialogue: 0,0:00:10.48,0:00:14.14,英文,,0,0,0,,If you haven't heard of Rust and want to learn, I highly recommend looking at
-Dialogue: 0,0:00:14.14,0:00:18.62,英文,,0,0,0,,No Boilerplate's videos on this subject who was also my inspiration on making videos in the first place.
+Dialogue: 0,0:00:10.48,0:00:12.74,英文,,0,0,0,,If you haven't heard of Rust and want to learn,
+Dialogue: 0,0:00:12.93,0:00:15.92,英文,,0,0,0,,I highly recommend looking at No Boilerplate's videos on this subject
+Dialogue: 0,0:00:15.92,0:00:18.62,英文,,0,0,0,,who was also my inspiration on making videos in the first place.
 Dialogue: 0,0:00:19.12,0:00:21.24,英文,,0,0,0,,Bevy is a lovely game engine to work in,
 Dialogue: 0,0:00:21.24,0:00:24.82,英文,,0,0,0,,and that comes without any catches when it comes to performance or ability.
-Dialogue: 0,0:00:25.14,0:00:27.20,英文,,0,0,0,,There's no proprietary framework you must work within 
+Dialogue: 0,0:00:25.14,0:00:27.20,英文,,0,0,0,,There's no proprietary framework you must work within
 Dialogue: 0,0:00:27.20,0:00:30.22,英文,,0,0,0,,and there's no strange domain-specific language you need to learn to get started.
 Dialogue: 0,0:00:30.72,0:00:33.36,英文,,0,0,0,,Simple structs and functions do all the work for you.
 Dialogue: 0,0:00:34.04,0:00:37.89,英文,,0,0,0,,Additionally, Bevy is completely open source and funded by the community,
 Dialogue: 0,0:00:37.89,0:00:41.76,英文,,0,0,0,,which means you don't need to fret about how your game will pay for it or if it'll go under any time soon.
-Dialogue: 0,0:00:42.08,0:00:45.58,英文,,0,0,0,,If you're dreaming of going big, Bevy will be there for you every step of the way.
+Dialogue: 0,0:00:42.17,0:00:45.58,英文,,0,0,0,,If you're dreaming of going big, Bevy will be there for you every step of the way.
 Dialogue: 0,0:00:45.96,0:00:50.99,英文,,0,0,0,,To get started, we'll go ahead and make a new Rust project using Cargo, Rust's amazing package manager.
 Dialogue: 0,0:00:51.24,0:00:55.06,英文,,0,0,0,,If you've never used Cargo, don't be afraid, as it's pretty much best in class.
 Dialogue: 0,0:00:55.54,0:00:59.18,英文,,0,0,0,,Run this command in the terminal in whatever folder you want the project to live in,
@@ -50,7 +55,7 @@ Dialogue: 0,0:01:02.02,0:01:03.20,英文,,0,0,0,,For folks new to programming,
 Dialogue: 0,0:01:03.20,0:01:06.50,英文,,0,0,0,,I recommend Visual Studio Code with the rust-analyzer extension installed.
 Dialogue: 0,0:01:07.10,0:01:09.81,英文,,0,0,0,,Next, we'll add these changes to your Cargo.toml.
 Dialogue: 0,0:01:10.12,0:01:14.74,英文,,0,0,0,,This imports Bevy and enables dynamic linking, which makes your compiles much faster.
-Dialogue: 0,0:01:15.04,0:01:17.98,英文,,0,0,0,,It also applies a small amount of optimization to your code 
+Dialogue: 0,0:01:15.04,0:01:17.98,英文,,0,0,0,,It also applies a small amount of optimization to your code
 Dialogue: 0,0:01:18.16,0:01:20.58,英文,,0,0,0,,and a large amount of optimization to your dependencies,
 Dialogue: 0,0:01:20.74,0:01:22.88,英文,,0,0,0,,making your dev build much more performant.
 Dialogue: 0,0:01:23.60,0:01:26.26,英文,,0,0,0,,Finally, let's rewrite our main.rs.
@@ -72,14 +77,15 @@ Dialogue: 0,0:02:13.28,0:02:17.14,英文,,0,0,0,,This is a super fast way of sto
 Dialogue: 0,0:02:17.64,0:02:18.98,英文,,0,0,0,,Let's go over what those terms mean.
 Dialogue: 0,0:02:19.76,0:02:23.98,英文,,0,0,0,,Components are basic pieces of data with no behavior, that part's important!
 Dialogue: 0,0:02:24.84,0:02:27.57,英文,,0,0,0,,This can be things like an Inventory or Health component.
-Dialogue: 0,0:02:28.16,0:02:32.25,英文,,0,0,0,,Components can be made up of any number of fields, but they all come as a single package.
-Dialogue: 0,0:02:32.25,0:02:33.86,英文,,0,0,0,,You can't have half a component.
-Dialogue: 0,0:02:34.80,0:02:38.43,英文,,0,0,0,,Entities are collections of components which represent a game object.
+Dialogue: 0,0:02:28.16,0:02:30.53,英文,,0,0,0,,Components can be made up of any number of fields,
+Dialogue: 0,0:02:30.63,0:02:33.86,英文,,0,0,0,,but they all come as a single package, you can't have half a component.
+Dialogue: 0,0:02:34.75,0:02:38.43,英文,,0,0,0,,Entities are collections of components which represent a game object.
 Dialogue: 0,0:02:38.76,0:02:40.50,英文,,0,0,0,,This can be any number of things in your game,
 Dialogue: 0,0:02:40.50,0:02:46.26,英文,,0,0,0,,including the player, enemies, the camera, terrain, a chest, particle systems, etc.
 Dialogue: 0,0:02:46.60,0:02:51.41,英文,,0,0,0,,The only thing that determines what kind of thing an entity is is what components it contains.
-Dialogue: 0,0:02:52.24,0:03:00.24,英文,,0,0,0,,Put another way, you can think of entities and components as a big table with entities as rows and components as columns.
-Dialogue: 0,0:03:00.76,0:03:03.08,英文,,0,0,0,,Each entity must have at least one component,
+Dialogue: 0,0:02:52.24,0:02:53.04,英文,,0,0,0,,Put another way,
+Dialogue: 0,0:02:53.13,0:03:00.22,英文,,0,0,0,,you can think of entities and components as a big table with entities as rows and components as columns.
+Dialogue: 0,0:03:00.67,0:03:03.08,英文,,0,0,0,,Each entity must have at least one component,
 Dialogue: 0,0:03:03.08,0:03:07.01,英文,,0,0,0,,but there's no limit to the number or the combination of components an entity can have.
 Dialogue: 0,0:03:07.63,0:03:12.19,英文,,0,0,0,,Systems are stateless functions that operate on entities and components.
 Dialogue: 0,0:03:12.58,0:03:15.08,英文,,0,0,0,,Systems don't have any state, instead,
@@ -137,7 +143,7 @@ Dialogue: 0,0:06:08.33,0:06:12.14,英文,,0,0,0,,This may or may not be how you 
 Dialogue: 0,0:06:12.74,0:06:17.36,英文,,0,0,0,,Let's add our new system to our game, this time running under the "Update" system.
 Dialogue: 0,0:06:17.58,0:06:20.14,英文,,0,0,0,,The Update system will run on every frame.
 Dialogue: 0,0:06:20.56,0:06:22.54,英文,,0,0,0,,Let us witness the fruits of our labor!
-Dialogue: 0,0:06:23.02,0:06:23.79,英文,,0,0,0,,Success! 
+Dialogue: 0,0:06:23.02,0:06:23.79,英文,,0,0,0,,Success!
 Dialogue: 0,0:06:23.98,0:06:27.49,英文,,0,0,0,,We're now able to move our circle around on the screen and even off it!
 Dialogue: 0,0:06:28.00,0:06:30.82,英文,,0,0,0,,Obviously there's more to game design than knowing how to move a circle around,
 Dialogue: 0,0:06:30.82,0:06:35.12,英文,,0,0,0,,but sometimes the technical side is the hardest part to break into, so hopefully this helped you out.
@@ -152,3 +158,5 @@ Dialogue: 0,0:07:02.40,0:07:06.64,英文,,0,0,0,,If you'd like to support me, yo
 Dialogue: 0,0:07:06.64,0:07:11.15,英文,,0,0,0,,This money will go towards funding various projects and generally making sure I can keep putting food on the table.
 Dialogue: 0,0:07:11.52,0:07:15.95,英文,,0,0,0,,The code for this video as well as clickable links for everything I've shown will be in the description.
 Dialogue: 0,0:07:16.28,0:07:18.58,英文,,0,0,0,,I've been Isaac, and have a great rest of your day!
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,//------注释------
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,//------其他------
