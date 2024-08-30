@@ -104,7 +104,7 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
       - 特典-番外剧集３
         - [x] 社交媒体 3a_OrI49nck BV1m6aDe8EAr
         - [x] 蓝光 BV1cGHEePEx5
-      - [ ] 特典-未使用画面集3
+      - [x] 特典-未使用画面集3 BV1AuHEeTEu8
 
     - 预告
       - [x] 第二集 - 三角切分音(さんかくシンコペーション) _rgXNQHih_o BV16i421f7fE
