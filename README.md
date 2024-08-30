@@ -103,7 +103,7 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
     - BD第三卷
       - 特典-番外剧集３
         - [x] 社交媒体 3a_OrI49nck BV1m6aDe8EAr
-        - [ ] 蓝光
+        - [x] 蓝光 BV1cGHEePEx5
       - [ ] 特典-未使用画面集3
 
     - 预告
