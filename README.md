@@ -25,12 +25,8 @@ mkvmerge -i video.m2ts video.mkv
 ffmpeg -map 0:a:1 -c copy CV.wav -i ep.mkv
 ffmpeg -map 0:a:2 -c copy STAFF.wav -i ep.mkv
 
-# 转码到16KHz
-ffmpeg -ar 16000 -ac 1 -c:a pcm_s16le output.wav -i video.mkv
-
 # Whisper 识别字幕
-whisper-cpp -m /mnt/data/Hobr/Downloads/WhisperDesktop/ggml-large-v3.bin -osrt --debug-mode true -t 16 --print-colors -pp -l ja -f output.wav
-whisper-ctranslate2 --vad_filter True --print_colors True --output_format srt --verbose True --language ja output.wav
+whisper-ctranslate2 --device cuda --vad_filter True --print_colors True --output_format srt --verbose True --language ja video.mkv
 
 # 嵌入ass
 ffmpeg -i video.mkv -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.mkv
