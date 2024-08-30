@@ -5,7 +5,7 @@
 ## 工具链
 
 - [Youtube资源下载 yl-dlp](https://github.com/yt-dlp/yt-dlp)
-- [字幕生成 OpenAI-Whisper](https://github.com/ggerganov/whisper.cpp)
+- [字幕生成 Whisper Ctranslate2](https://github.com/Softcatala/whisper-ctranslate2)
 - [字幕轴 Aegisub](https://github.com/arch1t3cht/Aegisub)
 - [影视资源编辑 FFmpeg](https://github.com/FFmpeg/FFmpeg)
 
@@ -30,6 +30,7 @@ ffmpeg -ar 16000 -ac 1 -c:a pcm_s16le output.wav -i video.mkv
 
 # Whisper 识别字幕
 whisper-cpp -m /mnt/data/Hobr/Downloads/WhisperDesktop/ggml-large-v3.bin -osrt --debug-mode true -t 16 --print-colors -pp -l ja -f output.wav
+whisper-ctranslate2 --vad_filter True --print_colors True --output_format srt --verbose True --language ja output.wav
 
 # 嵌入ass
 ffmpeg -i video.mkv -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.mkv
@@ -93,7 +94,6 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
       - [x] 特典-番外剧集1
         - [x] 社交媒体 lfMfCU7M09g BV1Yr421c7PR
         - [x] 蓝光 BV1PT421Y7ME
-
       - 特典-未使用画面集1
         - [x] 社交媒体 CGH_Tf8wot4 BV18i421k7RL
         - [x] 蓝光 BV1a4421S7R5
@@ -102,12 +102,13 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
       - 特典-番外剧集2
         - [x] 社交媒体 _41emF1g5mE BV1xS421R7Nj
         - [x] 蓝光 BV14jvee9Exb
-
       - [x] 特典-未使用画面集2 BV1UqaDeaECw
 
     - BD第三卷
       - 特典-番外剧集３
         - [x] 社交媒体 3a_OrI49nck BV1m6aDe8EAr
+        - [ ] 蓝光
+      - [ ] 特典-未使用画面集3
 
     - 预告
       - [x] 第二集 - 三角切分音(さんかくシンコペーション) _rgXNQHih_o BV16i421f7fE
@@ -122,37 +123,6 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
       - [x] 第十一集 - 向未来前行的乐团 djzufq6xkuU BV1rJ4m1g7qR
       - [x] 第十二集 - 最终的Soli人选(さいごのソリスト) ZLDt12jmY6c BV1RT421a7JF
       - [x] 第十三集 - 相连的旋律(つながるメロディ) l8FGeYk1DbQ BV1PS421o7G6
-
-  - 副音轨
-    - 第一集
-      - [ ] 【京吹3/BD1/生肉】第一集CV副音轨: 黄前久美子&加藤叶月&川岛绿辉&高坂丽奈
-        - 黑泽朋世(黄前久美子)×朝井彩加(加藤叶月)×丰田萌绘(川岛绿辉)×安济知佳(高坂丽奈)
-      - [ ] 【京吹3/BD1/生肉】第一集STAFF副音轨: 石原立也&小川太一&池田和美
-        - 石原立也(监督)×小川太一(副监督)×池田和美(角色设计&总作画监督)
-
-    - 第二集
-      - [ ] 【京吹3/BD1/生肉】第二集CV副音轨: 黄前久美子&加藤叶月&川岛绿辉&高坂丽奈
-        - 黑泽朋世(黄前久美子)×朝井彩加(加藤叶月)×丰田萌绘(川岛绿辉)×安济知佳(高坂丽奈)
-      - [ ] STAFF 【京吹3/BD1/生肉】第二集STAFF副音轨: 石原立也&小川太一&池田和美
-        - 石原立也(监督)×小川太一(副监督)×池田和美(角色设计&总作画监督)
-
-    - 第三集
-      - [ ] 【京吹3/BD1/生肉】第三集CV副音轨: 釜屋雀&上石弥生&针谷佳穂&义井沙里
-        - 夏川椎菜(釜屋雀)×松田彩音(上石弥生)×寺澤百花(针谷佳穂)×陶山恵実里(义井沙里)
-      - [ ] 【京吹3/BD1/生肉】第三集STAFF副音轨: 石原立也&小川太一&佐藤知美
-        - 石原立也(监督)×小川太一(副监督)×佐藤知美(原画)
-
-    - 第四集
-      - [ ] 【京吹3/BD2/生肉】第四集CV副音轨: 川岛绿辉&久石奏&月永求
-        - 豊田萌絵(川島緑輝 役)×雨宮 天(久石 奏 役)×土屋神葉(月永 求 役)
-      - [ ] 【京吹3/BD2/生肉】第四集STAFF副音轨: 小川太一&髙尾一也&上野和树
-        - 小川太一(副監督)×髙尾一也(撮影監督)×上野和樹(撮影監督補佐)
-
-    - 第五集
-      - [ ] 【京吹3/BD2/生肉】第五集CV副音轨: 黄前久美子&加藤叶月&川岛绿辉&高坂丽奈
-        - 黒沢ともよ(黄前久美子 役)×朝井彩加(加藤葉月 役)×豊田萌絵(川島緑輝 役)×安済知佳(高坂麗奈 役)
-      - [ ] 【京吹3/BD2/生肉】第五集STAFF副音轨: 石原立也&竹田明代&大塚芙由紀
-        - 石原立也(監督)×竹田明代(色彩設計)×大塚芙由紀(色彩設計補佐)
 
   - 访谈
     - 黒沢ともよ
@@ -170,6 +140,10 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
 - 9-nine-
   - PV
     - [x] 制作决定 BN1fu_E2xKk BV16s42137r6
+
+- 你的颜色
+  - 访谈
+    - [ ] 山田尚子x新海诚 <https://eiga.com/news/20240830/11/>
 
 - 演讲/报告
   - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
