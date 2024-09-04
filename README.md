@@ -85,40 +85,19 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
     - [x] OP1 1ns78jyf0fw BV1cC411V7yQ BV1dD421579R
     - [x] ED1 VBNklQKX_IU BV1kp421Q7yJ BV1if421o7V8
 
-  - CM
-    - BD第一卷 AE24y4fJGbA BV1p1421m7Z3
-      - [x] 特典-番外剧集1
-        - [x] 社交媒体 lfMfCU7M09g BV1Yr421c7PR
-        - [x] 蓝光 BV1PT421Y7ME
-      - 特典-未使用画面集1
-        - [x] 社交媒体 CGH_Tf8wot4 BV18i421k7RL
-        - [x] 蓝光 BV1a4421S7R5
-
-    - BD第二卷
-      - 特典-番外剧集2
-        - [x] 社交媒体 _41emF1g5mE BV1xS421R7Nj
-        - [x] 蓝光 BV14jvee9Exb
-      - [x] 特典-未使用画面集2 BV1UqaDeaECw
-
-    - BD第三卷
-      - 特典-番外剧集３
-        - [x] 社交媒体 3a_OrI49nck BV1m6aDe8EAr
-        - [x] 蓝光 BV1cGHEePEx5
-      - [x] 特典-未使用画面集3 BV1AuHEeTEu8
-
-    - 预告
-      - [x] 第二集 - 三角切分音(さんかくシンコペーション) _rgXNQHih_o BV16i421f7fE
-      - [x] 第三集 - 水蓝序曲(みずいろプレリュード) MacQeKJ95SM BV1bH4y1N7KU
-      - [x] 第四集 - 和你一起的练习曲(きみとのエチュード) ksOB0iKTTDY BV1ap421S7YN
-      - [x] 第五集 - 二人的黄昏(ふたりでトワイライト) y2zLVJQ0U0o BV1qZ421779b
-      - [x] 第六集 - 波动的不协和音(ゆらぎのディゾナンス) Kl4cZ0Vx820 BV1Ar42177W8
-      - [x] 第七集 - 夏色延音符(なついろフェルマータ) pk3UfbwP92s BV1mD421A7aT
-      - [x] 第八集 - 烦恼的回奏(なやめるオスティナート) VSzCREjjAVY BV1Kf421d7xH
-      - [x] 第九集 - 不协调的调音(ちぐはぐチューニング) sKsDvMtCyFw BV1a1421y7LW
-      - [x] 第十集 - 传递的琶音(つたえるアルペジオ) vetvahfKUOU BV1qn4y1Q7hs
-      - [x] 第十一集 - 向未来前行的乐团 djzufq6xkuU BV1rJ4m1g7qR
-      - [x] 第十二集 - 最终的Soli人选(さいごのソリスト) ZLDt12jmY6c BV1RT421a7JF
-      - [x] 第十三集 - 相连的旋律(つながるメロディ) l8FGeYk1DbQ BV1PS421o7G6
+  - 预告
+    - [x] 第二集 - 三角切分音(さんかくシンコペーション) _rgXNQHih_o BV16i421f7fE
+    - [x] 第三集 - 水蓝序曲(みずいろプレリュード) MacQeKJ95SM BV1bH4y1N7KU
+    - [x] 第四集 - 和你一起的练习曲(きみとのエチュード) ksOB0iKTTDY BV1ap421S7YN
+    - [x] 第五集 - 二人的黄昏(ふたりでトワイライト) y2zLVJQ0U0o BV1qZ421779b
+    - [x] 第六集 - 波动的不协和音(ゆらぎのディゾナンス) Kl4cZ0Vx820 BV1Ar42177W8
+    - [x] 第七集 - 夏色延音符(なついろフェルマータ) pk3UfbwP92s BV1mD421A7aT
+    - [x] 第八集 - 烦恼的回奏(なやめるオスティナート) VSzCREjjAVY BV1Kf421d7xH
+    - [x] 第九集 - 不协调的调音(ちぐはぐチューニング) sKsDvMtCyFw BV1a1421y7LW
+    - [x] 第十集 - 传递的琶音(つたえるアルペジオ) vetvahfKUOU BV1qn4y1Q7hs
+    - [x] 第十一集 - 向未来前行的乐团 djzufq6xkuU BV1rJ4m1g7qR
+    - [x] 第十二集 - 最终的Soli人选(さいごのソリスト) ZLDt12jmY6c BV1RT421a7JF
+    - [x] 第十三集 - 相连的旋律(つながるメロディ) l8FGeYk1DbQ BV1PS421o7G6
 
   - 访谈
     - 黒沢ともよ
@@ -128,6 +107,33 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
     - 石原立也
       - [x] 前 <https://febri.jp/topics/anime-eupho3_ishiharatatsuya_01/> cv35948758
       - [x] 下 <https://febri.jp/topics/anime-eupho3_ishiharatatsuya_02/> cv35969171
+
+  - BD
+    - 第一卷 AE24y4fJGbA BV1p1421m7Z3
+      - [x] 番外剧集
+        - [x] 社交媒体 lfMfCU7M09g BV1Yr421c7PR
+        - [x] 蓝光 BV1PT421Y7ME
+      - 未使用画面集
+        - [x] 社交媒体 CGH_Tf8wot4 BV18i421k7RL
+        - [x] 蓝光 BV1a4421S7R5
+
+    - 第二卷
+      - 番外剧集
+        - [x] 社交媒体 _41emF1g5mE BV1xS421R7Nj
+        - [x] 蓝光 BV14jvee9Exb
+      - [x] 未使用画面集2 BV1UqaDeaECw
+
+    - 第三卷
+      - 番外剧集
+        - [x] 社交媒体 3a_OrI49nck BV1m6aDe8EAr
+        - [x] 蓝光 BV1cGHEePEx5
+      - [x] 未使用画面集3 BV1AuHEeTEu8
+
+    - 第四卷
+      - 番外剧集
+        - [ ] 社交媒体 tw_AKh27lik
+        - [ ] 蓝光
+      - [ ] 未使用画面集4
 
 - Summer Pockets
   - PV
