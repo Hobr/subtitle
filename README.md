@@ -26,7 +26,7 @@ ffmpeg -map 0:a:1 -c copy CV.wav -i ep.mkv
 ffmpeg -map 0:a:2 -c copy STAFF.wav -i ep.mkv
 
 # Whisper 识别字幕
-whisper-ctranslate2 --device cuda --vad_filter True --print_colors True --output_format srt --verbose True --language ja video.mkv
+whisper-ctranslate2 --device cuda --vad_filter True --print_colors True --output_format srt --verbose True --model large-v3 --language ja video.mkv
 
 # 嵌入ass
 ffmpeg -i video.mkv -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.mkv
