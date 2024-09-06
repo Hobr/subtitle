@@ -131,7 +131,7 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
 
     - 第四卷
       - 番外剧集
-        - [ ] 社交媒体 tw_AKh27lik
+        - [x] 社交媒体 tw_AKh27lik BV1HhHQeFECB
         - [ ] 蓝光
       - [ ] 未使用画面集4
 
