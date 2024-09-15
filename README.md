@@ -137,7 +137,6 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
 
 - Summer Pockets
   - PV
-    - [ ] 先导PV xbaOnPiKofE
     - [x] PV1 x3_Pcru8SS8 BV1oL4meHEEs
 
 - 9-nine-
