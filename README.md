@@ -13,7 +13,7 @@
 
 ```bash
 # 查询可用信息
-yt-dlp -F XXX
+yt-dlp --cookies-from-browser firefox -F XXX
 
 # 下载
 yt-dlp --cookies-from-browser firefox -o video -fx+x XXX
@@ -50,10 +50,15 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
   - [x] 2024.9.21新作发布会 oTCPgSP6SUQ BV19ztrevEzc
 
   - CITY THE ANIMATION
-    - [x] PV 4uOl1vpOjAg BV1eBtreKEUt
+    - PV
+      - [x] 预告PV 4uOl1vpOjAg BV1eBtreKEUt
+      - [ ] 原作者贺词 YhMvoX3ZiXo
+      - [ ] 监督贺词 YDoDk8RNvG0
 
   - 小林家的龙女仆剧场版
-    - [x] PV wiOTWEKzy08 BV1kptrejEkf
+    - PV
+      - [x] 公开PV wiOTWEKzy08 BV1kptrejEkf
+      - [ ] 声优贺词 8WrKwM90UqE
 
 - 《吹响吧！上低音号 第三季》
   - PV Youtube Watch
