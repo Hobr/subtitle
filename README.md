@@ -56,7 +56,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
   - 小林家的龙女仆剧场版
     - PV
       - [x] 公开PV wiOTWEKzy08 BV1kptrejEkf
-      - [ ] 声优贺词 8WrKwM90UqE
+      - [x] 声优寄语 8WrKwM90UqE BV1gMtCevEd6
 
 - 《吹响吧！上低音号 第三季》
   - PV Youtube Watch
