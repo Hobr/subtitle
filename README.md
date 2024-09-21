@@ -46,6 +46,15 @@ yt-dlp -o "record.mkv" 'https://www.youtube.com/watch?v=XXX' --cookies-from-brow
 
 ## 翻译作品
 
+- 京都动画
+  - [x] 2024.9.21新作发布会 oTCPgSP6SUQ BV19ztrevEzc
+
+  - CITY THE ANIMATION
+    - [x] PV 4uOl1vpOjAg BV1eBtreKEUt
+
+  - 小林家的龙女仆剧场版
+    - [x] PV wiOTWEKzy08 BV1kptrejEkf
+
 - 《吹响吧！上低音号 第三季》
   - PV Youtube Watch
     - [x] PV2 dzSh0bjmUVA BV1t1421Q7gF
