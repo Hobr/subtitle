@@ -16,7 +16,7 @@
 yt-dlp -F XXX
 
 # 下载
-yt-dlp -o video -fx+x XXX
+yt-dlp --cookies-from-browser firefox -o video -fx+x XXX
 
 # m2ts转mkv
 mkvmerge -i video.m2ts video.mkv
@@ -32,10 +32,10 @@ whisper-ctranslate2 --device cuda --vad_filter True --print_colors True --output
 ffmpeg -i video.mkv -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.mkv
 
 # 直播
-yt-dlp -g 'https://www.youtube.com/watch?v=XXX'
+yt-dlp --cookies-from-browser firefox -g 'https://www.youtube.com/watch?v=XXX'
 ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persistent 0 -o "record.mkv"
 # 实时录制
-yt-dlp -o "record.mkv" 'https://www.youtube.com/watch?v=XXX' --cookies-from-browser firefox --live-from-start
+yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/watch?v=XXX' --live-from-start
 ```
 
 ## 链接
