@@ -52,8 +52,6 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
   - CITY THE ANIMATION
     - PV
       - [x] 预告PV 4uOl1vpOjAg BV1eBtreKEUt
-      - [ ] 原作者贺词 YhMvoX3ZiXo
-      - [ ] 监督贺词 YDoDk8RNvG0
 
   - 小林家的龙女仆剧场版
     - PV
