@@ -146,7 +146,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - 第四卷
       - 番外剧集
         - [x] 社交媒体 tw_AKh27lik BV1HhHQeFECB
-        - [ ] 蓝光
+        - [x] 蓝光 BV1bvsZeaECk
       - [ ] 未使用画面集4
 
 - Summer Pockets
