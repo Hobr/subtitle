@@ -147,7 +147,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
       - 番外剧集
         - [x] 社交媒体 tw_AKh27lik BV1HhHQeFECB
         - [x] 蓝光 BV1bvsZeaECk
-      - [ ] 未使用画面集4
+      - [x] 未使用画面集4 BV1mWxceiEHp
 
 - Summer Pockets
   - PV
