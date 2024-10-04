@@ -151,7 +151,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 
     - 第五卷
       - 番外剧集
-        - [ ] 社交媒体 LgH9Bw-aWX4
+        - [x] 社交媒体 LgH9Bw-aWX4 BV1xU1UYeEnZ
         - [ ] 蓝光
       - [ ] 未使用画面集5
 
