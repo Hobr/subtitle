@@ -149,6 +149,12 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
         - [x] 蓝光 BV1bvsZeaECk
       - [x] 未使用画面集4 BV1mWxceiEHp
 
+    - 第五卷
+      - 番外剧集
+        - [ ] 社交媒体 LgH9Bw-aWX4
+        - [ ] 蓝光
+      - [ ] 未使用画面集5
+
 - Summer Pockets
   - PV
     - [x] PV1 x3_Pcru8SS8 BV1oL4meHEEs
