@@ -157,7 +157,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 
     - 第六卷
       - 番外剧集
-        - [ ] 社交媒体
+        - [ ] 社交媒体 o2rl01E0l2E
         - [ ] 蓝光
       - [ ] 未使用画面集6
 
