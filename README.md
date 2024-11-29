@@ -160,6 +160,9 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
         - [x] 社交媒体 o2rl01E0l2E BV1KdUTYbEYj
         - [ ] 蓝光
       - [ ] 未使用画面集6
+      - [ ] 音轨
+        - [ ] EP12
+        - [ ] EP13
 
 - Summer Pockets
   - PV
