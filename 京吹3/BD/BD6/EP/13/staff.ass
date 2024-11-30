@@ -18,16 +18,16 @@ Video Zoom Percent: 0.250000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,48,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,1
+Style: Default,更纱黑体 UI SC,60,&H0000F3FF,&H000000FF,&H00EFA200,&H0000F3FF,-1,0,0,0,100,100,7.5,0,1,2.5,1.5,2,0,0,35,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.14,0:00:03.62,Default,,0,0,0,,はい、いよいよ最終回です。
-Dialogue: 0,0:00:05.16,0:00:09.98,Default,,0,0,0,,私、イオフニアム監督の京都アニメーション石原達也です。よろしくお願いします。
+Dialogue: 0,0:00:05.16,0:00:09.98,Default,,0,0,0,,私、イオフニアム監督の京都アニメーション石原立也です。よろしくお願いします。
 Dialogue: 0,0:00:10.40,0:00:11.06,Default,,0,0,0,,よろしくお願いします。
-Dialogue: 0,0:00:12.26,0:00:16.46,Default,,0,0,0,,シリーズ構成担当した花田十鬼です。引き続きよろしくお願いします。
+Dialogue: 0,0:00:12.26,0:00:16.46,Default,,0,0,0,,シリーズ構成担当した花田十輝です。引き続きよろしくお願いします。
 Dialogue: 0,0:00:16.62,0:00:17.38,Default,,0,0,0,,よろしくお願いします。
-Dialogue: 0,0:00:17.86,0:00:21.76,Default,,0,0,0,,プロデュース担当しております、瀬波さとりです。よろしくお願いします。
+Dialogue: 0,0:00:17.86,0:00:21.76,Default,,0,0,0,,プロデュース担当しております、瀬波里梨です。よろしくお願いします。
 Dialogue: 0,0:00:21.90,0:00:22.70,Default,,0,0,0,,よろしくお願いします。
 Dialogue: 0,0:00:24.20,0:00:26.56,Default,,0,0,0,,さっきお仕事シリーズやった方がいいのかしら?
 Dialogue: 0,0:00:27.74,0:00:28.10,Default,,0,0,0,,はい。
@@ -486,7 +486,7 @@ Dialogue: 0,0:24:18.81,0:24:22.87,Default,,0,0,0,,はいじゃあいよいよヨ
 Dialogue: 0,0:24:22.87,0:24:27.29,Default,,0,0,0,,最後でございます本当にこの10年間 ご覧いただきありがとうございました
 Dialogue: 0,0:24:28.77,0:24:32.03,Default,,0,0,0,,はいではいいんじゃないですかどうぞ
 Dialogue: 0,0:24:32.03,0:24:36.61,Default,,0,0,0,,あはいプロデュース担当してます 瀬波でしたありがとうございました
-Dialogue: 0,0:24:37.09,0:24:40.79,Default,,0,0,0,,はい私立光星担当してました花田 十輝でしたありがとうございました
-Dialogue: 0,0:24:41.63,0:24:45.51,Default,,0,0,0,,ありがとうございますはい監督の石原達也 でしたどうもありがとうございました
+Dialogue: 0,0:24:37.09,0:24:40.79,Default,,0,0,0,,はい私立光星担当してました花田十輝でしたありがとうございました
+Dialogue: 0,0:24:41.63,0:24:45.51,Default,,0,0,0,,ありがとうございますはい監督の石原立也 でしたどうもありがとうございました
 Dialogue: 0,0:24:46.31,0:24:46.75,Default,,0,0,0,,ありがとうございました
 Dialogue: 0,0:24:48.17,0:24:48.97,Default,,0,0,0,,ようこそ
