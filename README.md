@@ -56,7 +56,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
   - PV Youtube Watch
     - [x] PV2 dzSh0bjmUVA BV1t1421Q7gF
 
-  - 角色PV Youtube Shorts
+  - 角色PV
     - [x] 針谷佳穂＆上石弥生＆義井沙里 m6XlDMOqPIc BV1AK421i7fg
     - [x] 塚本秀一＆月永求 i2mVTtt7Hig BV19u4m1T7JP
     - [x] 黑江真由 i4ZACWf3qiQ BV1bx4y1Y7bz
@@ -65,7 +65,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - [x] 铠冢霙&伞木希美 jJpcRvZRpmw BV1sH4y1w7qy
     - [x] 91名部员 X3rb5NEdOKU BV1jJ4m1M7Ro
 
-  - 声优PV Youtube Shorts
+  - 声优PV
     - 放送前
       - [x] 久石奏 雨宮天 2l4FwDXW5bc BV1zZ421q7im
       - [x] 塚本秀一 石谷春貴 Uu_z4pXQCB0 BV1UM4m1X7bL
