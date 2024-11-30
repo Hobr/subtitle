@@ -10,8 +10,8 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Audio File: video.mkv
-Video File: video.mkv
+Audio File: cv.mkv
+Video File: cv.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
