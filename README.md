@@ -38,13 +38,7 @@ ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persis
 yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/watch?v=XXX' --live-from-start
 ```
 
-## 链接
-
-- [Youtube Watch](https://www.youtube.com/watch?v=)
-- [Youtube Shorts](https://www.youtube.com/shorts/)
-- [Bilibili](https://www.bilibili.com/video/)
-
-## 翻译作品
+## 目录
 
 - 京都动画
   - [x] 2024.9.21新作发布会 oTCPgSP6SUQ BV19ztrevEzc
@@ -122,6 +116,47 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
       - [x] 前 <https://febri.jp/topics/anime-eupho3_ishiharatatsuya_01/> cv35948758
       - [x] 下 <https://febri.jp/topics/anime-eupho3_ishiharatatsuya_02/> cv35969171
 
+  - 音轨
+    - 1
+      - [x] CV BV1EtzsYuE8Q
+      - [x] STAFF BV1BtzsYuE9g
+    - 2
+      - [x] CV BV1ftzsYMEtc
+      - [x] STAFF BV1BtzsYuEZ4
+    - 3
+      - [x] CV BV1ftzsYME4X
+      - [x] STAFF BV1EtzsYuEb7
+    - 4
+      - [x] CV BV1EtzsYuEbW
+      - [x] STAFF BV1EtzsYuEbH
+    - 5
+      - [x] CV BV1ZtzsYMERS
+      - [x] STAFF BV1EtzsYuEpp
+    - 6
+      - [x] CV BV1AEzsYLE1d
+      - [x] STAFF BV1AEzsYLE1x
+    - 7
+      - [x] CV BV1HpzsYkEKx
+      - [x] STAFF BV1HpzsYkEAX
+    - 8
+      - [x] CV BV1wHzsYVEJd
+      - [x] STAFF BV1jSzWYNEfb
+    - 9
+      - [x] CV BV17SzWYNEp1
+      - [x] STAFF BV1EmzWYiETz
+    - 10
+      - [x] CV BV1LXzWYAEf2
+      - [x] STAFF BV1iDzWYeEz1
+    - 11
+      - [x] CV BV1dDzWYaE32
+      - [x] STAFF BV16CzWYuEG9
+    - 12
+      - [x] CV BV1nrzWY6EtX
+      - [x] STAFF BV1nrzWY6ExD
+    - 13
+      - [x] CV BV1z2zWYTEEd
+      - [x] STAFF BV1JyzWYBEAP
+
   - BD
     - 第一卷 AE24y4fJGbA BV1p1421m7Z3
       - [x] 番外剧集
@@ -160,13 +195,6 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
         - [x] 社交媒体 o2rl01E0l2E BV1KdUTYbEYj
         - [x] 蓝光 BV1GKz6YzEop
       - [x] 未使用画面集6 BV1KozLYtEBz
-      - [x] 音轨
-        - EP12
-          - [x] CV BV1VXzHYsEba
-          - [x] STAFF BV19XzHYsEf5
-        - EP13
-          - [x] CV BV1VXzHYsEbf
-          - [x] STAFF BV1VXzHYsE8R
 
 - Summer Pockets
   - PV
