@@ -23,7 +23,7 @@ Style: Default,更纱黑体 UI SC,56,&H0000F3FF,&H000000FF,&H00EFA200,&H0000F3FF
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:01.00,Default,,0,0,0,,字幕及翻译由AI生成 仅供参考
+Dialogue: 0,0:00:00.00,0:00:01.00,Default,,0,0,0,,【声明】可能有漏听、错听、不当翻译的地方，UP水平有限，仅供参考\N粗翻：GPT
 Dialogue: 0,0:00:01.42,0:00:09.44,Default,,0,0,0,,はい始まりました私ユーフォニアム3監督京都アニメーションの石原立也ですよろしくお願いします
 Dialogue: 0,0:00:10.90,0:00:13.16,Default,,0,0,0,,副監督の小川太一ですよろしくお願いします
 Dialogue: 0,0:00:14.18,0:00:17.52,Default,,0,0,0,,シリーズ構成を務めました花田十輝ですよろしくお願いします
