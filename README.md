@@ -40,6 +40,20 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 
 ## 目录
 
+- Summer Pockets
+  - PV
+    - [x] PV1 x3_Pcru8SS8 BV1oL4meHEEs
+    - [ ] NCOP REuUOArc0W4
+
+- 9-nine-
+  - PV
+    - [x] 制作决定 BN1fu_E2xKk BV16s42137r6
+
+- 技术
+  - Rust
+    - Bevy
+      - [ ] Bevy: A quick introduction HGhQuebcHL4
+
 - 京都动画
   - [x] 2024.9.21新作发布会 oTCPgSP6SUQ BV19ztrevEzc
 
@@ -155,18 +169,5 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
         - [x] 蓝光 BV1GKz6YzEop
       - [x] 未使用画面集6 BV1KozLYtEBz
 
-- Summer Pockets
-  - PV
-    - [x] PV1 x3_Pcru8SS8 BV1oL4meHEEs
-
-- 9-nine-
-  - PV
-    - [x] 制作决定 BN1fu_E2xKk BV16s42137r6
-
 - 演讲/报告
   - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
-
-- 技术
-  - Rust
-    - Bevy
-      - [ ] Bevy: A quick introduction HGhQuebcHL4
