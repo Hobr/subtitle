@@ -54,6 +54,21 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - Bevy
       - [ ] Bevy: A quick introduction HGhQuebcHL4
 
+      - Tutorial for triple A game in bevy
+        - [ ] 1 - How to make a triple A game in Rust Bevy? sJL4ClWfioE
+        - [ ] 2 - Network infrastructure LINKS BELOW USE IT ABUSE THEM etRhb0zMeOA
+        - [ ] 2.1 - Folder division and shared config y5FE1ko2rLQ
+        - [ ] 2.2 - Server and Client config 40ZpMpZrjcY
+        - [ ] 2.3 - Spawning multiple clients 40ZpMpZrjcY
+        - [ ] 3 - Understand egui, abuse it 40ZpMpZrjcY
+        - [ ] 3.1 - Egui independent from game mechanics AND panels 40ZpMpZrjcY
+        - [ ] 4 - Efficient way of loading assets in bevy, bevy_asset_loader 40ZpMpZrjcY
+        - [ ] 5 - Orbit camera with input maps with leafwing #GLORY TO ALICE 40ZpMpZrjcY
+        - [ ] 6 - How to save in networked games? 40ZpMpZrjcY
+        - [ ] 7 - How to replicate entities in lightyear/ create our player? 40ZpMpZrjcY
+        - [ ] 8 - How to make a multiplayer validated character customizer? 40ZpMpZrjcY
+        - [ ] 8.1 - MMO character customizer, egui + customizer + transfer anim 40ZpMpZrjcY
+
 - 京都动画
   - [x] 2024.9.21新作发布会 oTCPgSP6SUQ BV19ztrevEzc
 
@@ -66,7 +81,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
       - [x] 公开PV wiOTWEKzy08 BV1kptrejEkf
       - [x] 声优寄语 8WrKwM90UqE BV1gMtCevEd6
 
-- 《吹响吧！上低音号 第三季》
+- 吹响吧！上低音号 第三季
   - PV Youtube Watch
     - [x] PV2 dzSh0bjmUVA BV1t1421Q7gF
 
