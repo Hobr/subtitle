@@ -43,11 +43,17 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 - Summer Pockets
   - PV
     - [x] PV1 x3_Pcru8SS8 BV1oL4meHEEs
-    - [ ] NCOP REuUOArc0W4
+  - OP/ED
+    - [ ] OP1 REuUOArc0W4
 
 - 9-nine-
   - PV
     - [x] 制作决定 BN1fu_E2xKk BV16s42137r6
+
+- 蓝箱
+  - OP/ED
+    - [ ] OP1
+    - [ ] ED2
 
 - 技术
   - Rust
