@@ -52,8 +52,8 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 
 - 蓝箱
   - OP/ED
-    - [ ] OP1
-    - [ ] ED2
+    - [ ] OP1 d0jg9hNHqn8
+    - [ ] ED2 pAjs2GWEZvI
 
 - 技术
   - Rust
