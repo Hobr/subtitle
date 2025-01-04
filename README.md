@@ -12,11 +12,8 @@
 ## 常用操作
 
 ```bash
-# 查询可用信息
-yt-dlp --cookies-from-browser firefox -F XXX
-
 # 下载
-yt-dlp --cookies-from-browser firefox -o video -fx+x XXX
+yt-dlp --cookies-from-browser firefox -o video -f "bv*+ba/b" --format-sort "vbr,abr" XXX
 
 # m2ts转mkv
 mkvmerge -i video.m2ts video.mkv
@@ -60,20 +57,21 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - Bevy
       - [ ] Bevy: A quick introduction HGhQuebcHL4
 
-      - Tutorial for triple A game in bevy
-        - [ ] 1 - How to make a triple A game in Rust Bevy? sJL4ClWfioE
-        - [ ] 2 - Network infrastructure LINKS BELOW USE IT ABUSE THEM etRhb0zMeOA
-        - [ ] 2.1 - Folder division and shared config y5FE1ko2rLQ
-        - [ ] 2.2 - Server and Client config 40ZpMpZrjcY
-        - [ ] 2.3 - Spawning multiple clients 40ZpMpZrjcY
-        - [ ] 3 - Understand egui, abuse it 40ZpMpZrjcY
-        - [ ] 3.1 - Egui independent from game mechanics AND panels 40ZpMpZrjcY
-        - [ ] 4 - Efficient way of loading assets in bevy, bevy_asset_loader 40ZpMpZrjcY
-        - [ ] 5 - Orbit camera with input maps with leafwing #GLORY TO ALICE 40ZpMpZrjcY
-        - [ ] 6 - How to save in networked games? 40ZpMpZrjcY
-        - [ ] 7 - How to replicate entities in lightyear/ create our player? 40ZpMpZrjcY
-        - [ ] 8 - How to make a multiplayer validated character customizer? 40ZpMpZrjcY
-        - [ ] 8.1 - MMO character customizer, egui + customizer + transfer anim 40ZpMpZrjcY
+      - [Tutorial for triple A game in bevy](https://www.youtube.com/playlist?list=PLFot1XOQhtHsSIcALnQKrZtfqeWrAa-zh)
+        - [ ] 1 - How to make a triple A game in Rust Bevy?
+        - [ ] 2 - Network infrastructure LINKS BELOW USE IT ABUSE THEM
+        - [ ] 2.1 - Folder division and shared config
+        - [ ] 2.2 - Server and Client config
+        - [ ] 2.3 - Spawning multiple clients
+        - [ ] 3 - Understand egui, abuse it
+        - [ ] 3.1 - Egui independent from game mechanics AND panels
+        - [ ] 4 - Efficient way of loading assets in bevy, bevy_asset_loader
+        - [ ] 5 - Orbit camera with input maps with leafwing #GLORY TO ALICE
+        - [ ] 6 - How to save in networked games?
+        - [ ] 7 - How to replicate entities in lightyear/ create our player?
+        - [ ] 8 - How to make a multiplayer validated character customizer?
+        - [ ] 8.1 - MMO character customizer, egui + customizer + transfer anim
+        - [ ] 8.2 - MMO character customizer, make it happen for other clients
 
 - 京都动画
   - [x] 2024.9.21新作发布会 oTCPgSP6SUQ BV19ztrevEzc
