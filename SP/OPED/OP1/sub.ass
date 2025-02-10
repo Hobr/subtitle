@@ -17,15 +17,15 @@ Video Zoom Percent: 0.875000
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: 日文,Noto Serif CJK JP,64,&H60F6F4F5,&H60D28E45,&H90C9B0BA,&H90C9B0BA,0,0,0,0,100,100,5,0,1,5,0.5,8,0,0,35,128
-Style: 中文,Noto Serif CJK SC,72,&H60F6F4F5,&H60D28E45,&H90C9B0BA,&H90C9B0BA,-1,0,0,0,100,100,15,0,1,5,0.5,2,0,0,35,1
+Style: 日文,Noto Serif CJK JP,56,&H60F6F4F5,&H60D28E45,&H90C9B0BA,&H90C9B0BA,0,0,0,0,100,100,7.5,0,1,5,0.5,8,0,0,35,128
+Style: 中文,Noto Serif CJK SC,64,&H60F6F4F5,&H60D28E45,&H90C9B0BA,&H90C9B0BA,-1,0,0,0,100,100,15,0,1,5,0.5,2,0,0,35,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,日文,,0,0,0,,//------模板------
 Comment: 0,0:00:00.00,0:00:00.00,日文,,0,0,0,,//------歌词------
-Dialogue: 1,0:00:15.08,0:00:18.35,日文,白幕,0,0,0,,{\K59}伝{\K33}え{\K76}る{\K61}言{\K31}葉{\K67}は
-Dialogue: 1,0:00:18.35,0:00:21.65,日文,白幕->羽依里,0,0,0,,{\K21}決{\K14}め{\K30}て{\K26}い{\K40}た{\K24}は{\K46}ず{\K33}な{\K33}の{\K63}に
+Dialogue: 1,0:00:15.08,0:00:18.35,日文,白幕,0,0,0,,{\blur5}{\K59}伝{\K33}え{\K76}る{\K61}言{\K31}葉{\K67}は
+Dialogue: 1,0:00:18.35,0:00:21.65,日文,白幕->羽依里,0,0,0,,{\blur5}{\K21}決{\K14}め{\K30}て{\K26}い{\K40}た{\K24}は{\K46}ず{\K33}な{\K33}の{\K63}に
 Dialogue: 2,0:00:15.08,0:00:21.65,中文,,0,0,0,,{\blur5\K30}明明早已将千言万语 细细推敲成句
 Dialogue: 1,0:00:21.65,0:00:25.30,日文,羽依里->白羽,0,0,0,,{\K31}変{\K45}わ{\K24}る{\K46}こ{\K21}と{\K19}の{\K20}な{\K30}い{\K24}景{\K68}色{\K37}に
 Dialogue: 1,0:00:25.30,0:00:28.00,日文,白羽,0,0,0,,{\K36}目{\K25}を{\K49}そ{\K16}ら{\K24}し{\K19}て{\K101}た
