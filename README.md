@@ -43,6 +43,12 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
   - OP/ED
     - [ ] OP1 REuUOArc0W4
 
+- CITY THE ANIMATION
+  - PV
+    - [x] 预告PV 4uOl1vpOjAg BV1eBtreKEUt
+  - OP/ED
+  - 预告
+
 - 9-nine-
   - PV
     - [x] 制作决定 BN1fu_E2xKk BV16s42137r6
@@ -75,10 +81,6 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 
 - 京都动画
   - [x] 2024.9.21新作发布会 oTCPgSP6SUQ BV19ztrevEzc
-
-  - CITY THE ANIMATION
-    - PV
-      - [x] 预告PV 4uOl1vpOjAg BV1eBtreKEUt
 
   - 小林家的龙女仆剧场版
     - PV
