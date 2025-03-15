@@ -15,8 +15,8 @@ Audio File: video.mkv
 Video File: video.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.125000
-Video Position: 134
+Video Zoom Percent: 0.625000
+Video Position: 102
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,11 +28,11 @@ Style: 日文,Noto Serif CJK JP,64,&H0027A347,&H000000FF,&H00944EFF,&H00944EFF,-
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 1,0:00:04.21,0:00:06.65,字,,0,0,0,,{\pos(961.33,614.67)}京都アニメーション最新作
-Dialogue: 1,0:00:06.65,0:00:08.27,黑底字,,0,0,0,,{\pos(979.2,655.2)}人間とドラゴン
-Dialogue: 1,0:00:10.44,0:00:12.10,黑底字,,0,0,0,,{\fs108\fsp25\pos(969.6,636)}続くはずだった幸せな家族
-Dialogue: 1,0:00:14.90,0:00:16.02,黑底字,,0,0,0,,{\fs110\fsp25\pos(977.6,631.2)}そこに現れたのはー
-Dialogue: 1,0:00:19.23,0:00:20.69,黑底字,,0,0,0,,{\fsp50\pos(990.4,664.8)}本当の父
-Dialogue: 1,0:00:28.69,0:00:31.69,黑底字,,0,0,0,,{\fs112\fsp5\c&H88624E&\pos(966.4,624.8)}この手を離したくない
-Dialogue: 2,0:00:26.88,0:00:29.08,中文,,0,0,0,,バイばい、小林
+Dialogue: 1,0:00:04.21,0:00:06.58,字,,0,0,0,,{\pos(983.04,612.38)\fad(800,200)\fsp45\fs80\t(0,2440,\fs98)}京都动画最新作品
+Dialogue: 1,0:00:06.67,0:00:08.27,黑底字,,0,0,0,,{\pos(1089.5,667.21)\fad(250,0)\fsp300\t(0,1660,\fsp280)}人与龙
+Dialogue: 1,0:00:10.50,0:00:12.10,黑底字,,0,0,0,,{\pos(969.6,636)\fad(250,0)\fs100\fsp25\t(0,1660,\fsp30)}原本应该一直幸福下去的家
+Dialogue: 1,0:00:14.90,0:00:16.02,黑底字,,0,0,0,,{\pos(969.6,636)\fs100\fsp25\t(0,1660,\fsp30)}然而出现在那里的是—
+Dialogue: 1,0:00:19.23,0:00:20.69,黑底字,,0,0,0,,{\pos(969.07,662.13)\fsp20\t(0,1660,\fsp15)}真正的父亲
+Dialogue: 1,0:00:28.69,0:00:30.11,黑底字,,0,0,0,,{\pos(987.73,627.47)\fad(400,0)\fs112\fsp35\t(0,1660,\fsp60)\c&H88624E&}不愿撒开那双手
+Dialogue: 2,0:00:26.88,0:00:29.08,中文,,0,0,0,,小林 再见了
 Dialogue: 2,0:00:26.88,0:00:29.08,日文,,0,0,0,,バイばい、小林

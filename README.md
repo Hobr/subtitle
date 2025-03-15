@@ -49,6 +49,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 - CITY THE ANIMATION
   - PV
     - [x] 预告PV 4uOl1vpOjAg BV1eBtreKEUt
+
   - OP/ED
   - 预告
 
@@ -89,7 +90,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - PV
       - [x] 公开PV wiOTWEKzy08 BV1kptrejEkf
       - [x] 声优寄语 8WrKwM90UqE BV1gMtCevEd6
-      - [ ] 特报 lnFSbMkOP44
+      - [x] 特报 lnFSbMkOP44 BV1AbQXYxEbr
 
 - 吹响吧！上低音号 第三季
   - PV Youtube Watch
@@ -195,7 +196,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
       - [x] 未使用画面集6 BV1KozLYtEBz
 
   - 10周年
-    - [ ] 久一年
+    - [ ] 久一年 BV175QSYMEWw
     - [ ] 久二年
     - [ ] 久三年
 
