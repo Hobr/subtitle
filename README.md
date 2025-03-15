@@ -40,9 +40,10 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 - Summer Pockets
   - PV
     - [x] PV1 x3_Pcru8SS8 BV1oL4meHEEs
-    - [ ] PV2 2u-RIQst_N4
+    - [x] PV2 2u-RIQst_N4 BV1UEQXYwEwP
+
   - OP/ED
-    - [ ] OP1 REuUOArc0W4
+    - [x] OP1 REuUOArc0W4 BV1UEQXYwEJ2
     - [ ] ED1
 
 - CITY THE ANIMATION
