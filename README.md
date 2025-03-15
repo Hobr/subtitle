@@ -40,8 +40,10 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 - Summer Pockets
   - PV
     - [x] PV1 x3_Pcru8SS8 BV1oL4meHEEs
+    - [ ] PV2 2u-RIQst_N4
   - OP/ED
     - [ ] OP1 REuUOArc0W4
+    - [ ] ED1
 
 - CITY THE ANIMATION
   - PV
@@ -190,6 +192,11 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
         - [x] 社交媒体 o2rl01E0l2E BV1KdUTYbEYj
         - [x] 蓝光 BV1GKz6YzEop
       - [x] 未使用画面集6 BV1KozLYtEBz
+
+  - 10周年
+    - [ ] 久一年
+    - [ ] 久二年
+    - [ ] 久三年
 
 - 演讲/报告
   - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
