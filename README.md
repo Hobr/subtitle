@@ -26,7 +26,11 @@ ffmpeg -map 0:a:1 -c copy CV.wav -i ep.mkv
 ffmpeg -map 0:a:2 -c copy STAFF.wav -i ep.mkv
 
 # Whisper 识别字幕
-whisper-ctranslate2 --device cuda --vad_filter True --print_colors True --output_format srt --verbose True --model large-v3 --word_timestamps true --max_line_width 35 --max_line_count 1 --compute_type float16 --model_directory ~/.cache/huggingface --language ja video.mkv
+pip install cython
+pip install -c constraints.txt -r requirements.txt
+python diarize.py --language ja --suppress_numerals --whisper-model large-v3 --audio ../x/video.mkv
+
+whisper-ctranslate2 --device cuda --vad_filter True --batched True --print_colors True --output_format srt --verbose True --model large-v3 --word_timestamps true --max_line_width 35 --max_line_count 1 --compute_type float16 --model_directory ~/.cache/huggingface --hf_token xx --language ja video.mkv
 
 # 嵌入ass
 ffmpeg -i video.mkv -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.mkv
@@ -98,6 +102,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 - 吹响吧！上低音号 第三季
   - PV Youtube Watch
     - [x] PV2 dzSh0bjmUVA BV1t1421Q7gF
+    - [x] 剧场版 Knw9Cv_BVqk BV1qfQbY2Epj
 
   - 角色PV
     - [x] 針谷佳穂＆上石弥生＆義井沙里 m6XlDMOqPIc BV1AK421i7fg
