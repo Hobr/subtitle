@@ -18,6 +18,9 @@ yt-dlp --cookies-from-browser firefox -o video -f "bv*+ba/b" --format-sort "vbr,
 # m2ts转mkv
 mkvmerge -i video.m2ts video.mkv
 
+# 切割
+ffmpeg -i video.mkv -ss 00:xx:xx -to 00:xx:xx -c copy new.mkv
+
 # 分离音轨
 ffmpeg -map 0:a:1 -c copy CV.wav -i ep.mkv
 ffmpeg -map 0:a:2 -c copy STAFF.wav -i ep.mkv
@@ -197,7 +200,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 
   - 10周年
     - [ ] 久一年 BV175QSYMEWw
-    - [ ] 久二年
+    - [ ] 久二年 BV1bGQtYFENt
     - [ ] 久三年
 
 - 演讲/报告
