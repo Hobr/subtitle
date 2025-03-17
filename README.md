@@ -161,8 +161,6 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
       - [x] 前 <https://febri.jp/topics/anime-eupho3_ishiharatatsuya_01/> cv35948758
       - [x] 下 <https://febri.jp/topics/anime-eupho3_ishiharatatsuya_02/> cv35969171
 
-    - [ ] 十周年访谈
-
   - BD
     - 第一卷 AE24y4fJGbA BV1p1421m7Z3
       - [x] 番外剧集
@@ -201,6 +199,12 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
         - [x] 社交媒体 o2rl01E0l2E BV1KdUTYbEYj
         - [x] 蓝光 BV1GKz6YzEop
       - [x] 未使用画面集6 BV1KozLYtEBz
+
+  - 10周年
+    - [ ] 久一年
+    - [ ] 久二年
+    - [ ] 久三年
+    - [ ] 黑泽-石原访谈
 
 - 演讲/报告
   - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
