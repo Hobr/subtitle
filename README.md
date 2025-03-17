@@ -19,7 +19,7 @@ yt-dlp --cookies-from-browser firefox -o video -f "bv*+ba/b" --format-sort "vbr,
 mkvmerge -i video.m2ts video.mkv
 
 # 切割
-ffmpeg -i video.mkv -ss 00:xx:xx -to 00:xx:xx -c copy new.mkv
+ffmpeg -i video.mp4 -ss 00:xx:xx -to 00:xx:xx -c copy video.mkv
 
 # 分离音轨
 ffmpeg -map 0:a:1 -c copy CV.wav -i ep.mkv
