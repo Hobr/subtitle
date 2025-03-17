@@ -199,10 +199,5 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
         - [x] 蓝光 BV1GKz6YzEop
       - [x] 未使用画面集6 BV1KozLYtEBz
 
-  - 10周年
-    - [ ] 久一年 BV1iiQUYPEMe
-    - [ ] 久二年 BV1bGQtYFENt
-    - [ ] 久三年 BV1E6QaY4E4S
-
 - 演讲/报告
   - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
