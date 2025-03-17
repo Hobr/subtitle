@@ -118,6 +118,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
       - [x] 川島緑輝 豊田萌絵 zGJza3ymgWk BV1ix421U7dX
       - [x] 加藤葉月 朝井彩加 1Br_L72YgSg BV1Aj421R7Wx
       - [x] 黄前久美子 黒沢ともよ(朋世) k-7B0-M2D8o BV1hA4m1w7zg
+
     - 放送中
       - [x] 第一集 黄前久美子 黒沢朋世(ともよ) NfbnEl2WmK0 BV1Gm41167x4
       - [x] 第二集 釜屋燕 大橋彩香 N350Yl24zJs BV1Xt42177ym
@@ -159,6 +160,8 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - 石原立也
       - [x] 前 <https://febri.jp/topics/anime-eupho3_ishiharatatsuya_01/> cv35948758
       - [x] 下 <https://febri.jp/topics/anime-eupho3_ishiharatatsuya_02/> cv35969171
+
+    - [ ] 十周年访谈
 
   - BD
     - 第一卷 AE24y4fJGbA BV1p1421m7Z3
