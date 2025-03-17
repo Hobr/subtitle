@@ -26,7 +26,7 @@ ffmpeg -map 0:a:1 -c copy CV.wav -i ep.mkv
 ffmpeg -map 0:a:2 -c copy STAFF.wav -i ep.mkv
 
 # Whisper 识别字幕
-whisper-ctranslate2 --device cuda --language ja --hallucination_silence_threshold 5 --beam_size 5 --vad_filter true --vad_threshold 0.5 --vad_min_silence_duration_ms 0 --vad_min_speech_duration_ms 100 --vad_max_speech_duration_s 10 --no_speech_threshold 0.3 --word_timestamps true --max_line_width 35 --max_line_count 1 --compute_type float16 --print_colors True --verbose True --output_format srt --model large-v3 --model_directory ~/.cache/huggingface video.mkv
+whisper-ctranslate2 --device cuda --language ja --word_timestamps true --max_line_width 20 --max_line_count 1 --compute_type float16 --print_colors True --verbose True --output_format srt --model large-v3 --model_directory ~/.cache/huggingface video.mkv
 
 # 嵌入ass
 ffmpeg -i video.mkv -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.mkv
