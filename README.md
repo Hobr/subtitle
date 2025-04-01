@@ -49,9 +49,14 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - [x] OP1 REuUOArc0W4 BV1UEQXYwEJ2
     - [ ] ED1
 
+  - 漫画
+    - [ ] [静久＆ナガラさん編](https://comic-walker.com/detail/KC_006385_S/episodes/KC_0063850000200011_E)
+    - [ ] [カモメさん編](https://comic-walker.com/detail/KC_006385_S/episodes/KC_0063850000300011_E)
+
 - CITY THE ANIMATION
   - PV
     - [x] 预告PV 4uOl1vpOjAg BV1eBtreKEUt
+    - [ ] PV1 ldLdilBkwVg
 
   - OP/ED
   - 预告
