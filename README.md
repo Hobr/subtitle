@@ -99,6 +99,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
       - [x] 公开PV wiOTWEKzy08 BV1kptrejEkf
       - [x] 声优寄语 8WrKwM90UqE BV1gMtCevEd6
       - [x] 特报 lnFSbMkOP44 BV1AbQXYxEbr
+      - [ ] PV1 BW6bx31UqAM
 
 - 吹响吧！上低音号 第三季
   - PV Youtube Watch
