@@ -26,7 +26,7 @@ ffmpeg -map 0:a:1 -c copy CV.wav -i ep.mkv
 ffmpeg -map 0:a:2 -c copy STAFF.wav -i ep.mkv
 
 # Whisper 识别字幕
-whisper-ctranslate2 --device cuda --language ja --word_timestamps true --max_line_width 20 --max_line_count 1 --compute_type float16 --print_colors True --verbose True --output_format srt --model large-v3 --model_directory ~/.cache/huggingface video.mkv
+whisper-ctranslate2 --device cuda --language ja --vad_filter True --word_timestamps true --max_line_width 35 --max_line_count 1 --compute_type float16 --print_colors True --verbose True --output_format srt --model large-v3 --model_directory ~/.cache/huggingface video.mkv
 
 # 嵌入ass
 ffmpeg -i video.mkv -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.mkv
@@ -51,6 +51,9 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 
   - [官方广播](https://www.onsen.ag/program/summerpockets-anime)
     - [ ] 第一回(4.7)
+
+  - [鸣濑家的餐桌](https://www.onsen.ag/program/summerpockets-game)
+    - [ ] 第一回(4.14)
 
   - 漫画
     - [ ] [静久＆ナガラさん編](https://comic-walker.com/detail/KC_006385_S/episodes/KC_0063850000200011_E)
@@ -208,8 +211,8 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - [ ] 久一年
     - [ ] 久二年
     - [ ] 久三年
-    - [ ] 黑泽-石原访谈
-    - [ ] 第一季十周年声优寄语 ctgLe1oohpU
+    - [x] 黑泽-石原访谈 cv41264830
+    - [x] 第一季十周年声优寄语 ctgLe1oohpU BV1fNd7YZEUe
 
 - 演讲/报告
   - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
