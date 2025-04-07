@@ -49,6 +49,9 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - [x] OP1 REuUOArc0W4 BV1UEQXYwEJ2
     - [ ] ED1
 
+  - [官方广播](https://www.onsen.ag/program/summerpockets-anime)
+    - [ ] 第一回(4.7)
+
   - 漫画
     - [ ] [静久＆ナガラさん編](https://comic-walker.com/detail/KC_006385_S/episodes/KC_0063850000200011_E)
     - [ ] [カモメさん編](https://comic-walker.com/detail/KC_006385_S/episodes/KC_0063850000300011_E)
