@@ -65,11 +65,6 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
   - PV
     - [x] 制作决定 BN1fu_E2xKk BV16s42137r6
 
-- 蓝箱
-  - OP/ED
-    - [ ] OP1 d0jg9hNHqn8
-    - [ ] ED2 pAjs2GWEZvI
-
 - 技术
   - Rust
     - Bevy
