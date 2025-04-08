@@ -14,6 +14,8 @@
 ```bash
 # 下载
 yt-dlp --cookies-from-browser firefox -o video -f "bv*+ba/b" --format-sort "vbr,abr" XXX
+## onsen.ag
+yt-dlp 'https://onsen-ma3phlsvod.sslcs.cdngc.net/xxx.mp4/playlist.m3u8' --referer 'https://www.onsen.ag/program/summerpockets-anime'
 
 # m2ts转mkv
 mkvmerge -i video.m2ts video.mkv
@@ -56,8 +58,12 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - [ ] 第一回(4.14)
 
   - 漫画
-    - [ ] [静久＆ナガラさん編](https://comic-walker.com/detail/KC_006385_S/episodes/KC_0063850000200011_E)
-    - [ ] [カモメさん編](https://comic-walker.com/detail/KC_006385_S/episodes/KC_0063850000300011_E)
+    - [Summer Pocketsーなつのたからものー](https://tonarinoyj.jp/episode/2550912965528956586)
+      - []
+
+    - [Summer Pockets むぎゅでいず〜紬の島さんぽ〜](https://comic-walker.com/detail/KC_006385_S/)
+      - [ ] 静久＆ナガラさん編
+      - [ ] カモメさん編
 
 - CITY THE ANIMATION
   - PV
