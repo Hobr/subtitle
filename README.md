@@ -43,13 +43,9 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 ## 目录
 
 - Summer Pockets
-  - PV
-    - [x] PV1 x3_Pcru8SS8 BV1oL4meHEEs
-    - [x] PV2 2u-RIQst_N4 BV1UEQXYwEwP
-
-  - OP/ED
-    - [x] OP1 REuUOArc0W4 BV1UEQXYwEJ2
-    - [ ] ED1
+  - 剧集
+    - [ ] 第一集
+    - [ ] 第二集
 
   - [官方广播](https://www.onsen.ag/program/summerpockets-anime)
     - [ ] 第一回(4.7) TD5zP1kYHRQ
@@ -64,6 +60,14 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - [Summer Pockets むぎゅでいず〜紬の島さんぽ〜](https://comic-walker.com/detail/KC_006385_S/)
       - [ ] 静久＆ナガラさん編
       - [ ] カモメさん編
+
+  - PV
+    - [x] PV1 x3_Pcru8SS8 BV1oL4meHEEs
+    - [x] PV2 2u-RIQst_N4 BV1UEQXYwEwP
+
+  - OP/ED
+    - [x] OP1 REuUOArc0W4 BV1UEQXYwEJ2
+    - [ ] ED1
 
 - CITY THE ANIMATION
   - PV
