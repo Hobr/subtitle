@@ -67,7 +67,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 
   - OP/ED
     - [x] OP1 REuUOArc0W4 BV1UEQXYwEJ2
-    - [ ] ED1
+    - [x] ED1 BV1a9oJYoEjy
 
 - CITY THE ANIMATION
   - PV
