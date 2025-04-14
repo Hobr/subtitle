@@ -52,10 +52,10 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - [ ] ED1
 
   - [官方广播](https://www.onsen.ag/program/summerpockets-anime)
-    - [ ] 第一回(4.7)
+    - [ ] 第一回(4.7) TD5zP1kYHRQ
 
   - [鸣濑家的餐桌](https://www.onsen.ag/program/summerpockets-game)
-    - [ ] 第一回(4.14)
+    - [ ] 第一回(4.14) lOkLGa8JIeg
 
   - 漫画
     - [Summer Pocketsーなつのたからものー](https://tonarinoyj.jp/episode/2550912965528956586)
