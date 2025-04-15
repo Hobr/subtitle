@@ -81,27 +81,6 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
   - PV
     - [x] 制作决定 BN1fu_E2xKk BV16s42137r6
 
-- 技术
-  - Rust
-    - Bevy
-      - [ ] Bevy: A quick introduction HGhQuebcHL4
-
-      - [Tutorial for triple A game in bevy](https://www.youtube.com/playlist?list=PLFot1XOQhtHsSIcALnQKrZtfqeWrAa-zh)
-        - [ ] 1 - How to make a triple A game in Rust Bevy?
-        - [ ] 2 - Network infrastructure LINKS BELOW USE IT ABUSE THEM
-        - [ ] 2.1 - Folder division and shared config
-        - [ ] 2.2 - Server and Client config
-        - [ ] 2.3 - Spawning multiple clients
-        - [ ] 3 - Understand egui, abuse it
-        - [ ] 3.1 - Egui independent from game mechanics AND panels
-        - [ ] 4 - Efficient way of loading assets in bevy, bevy_asset_loader
-        - [ ] 5 - Orbit camera with input maps with leafwing #GLORY TO ALICE
-        - [ ] 6 - How to save in networked games?
-        - [ ] 7 - How to replicate entities in lightyear/ create our player?
-        - [ ] 8 - How to make a multiplayer validated character customizer?
-        - [ ] 8.1 - MMO character customizer, egui + customizer + transfer anim
-        - [ ] 8.2 - MMO character customizer, make it happen for other clients
-
 - 京都动画
   - [x] 2024.9.21新作发布会 oTCPgSP6SUQ BV19ztrevEzc
 
