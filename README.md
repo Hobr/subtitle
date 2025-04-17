@@ -53,6 +53,9 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
   - [鸣濑家的餐桌](https://www.onsen.ag/program/summerpockets-game)
     - [ ] 第一回(4.14) lOkLGa8JIeg
 
+  - 文本
+    - [ ] [宣传册](https://drive.google.com/file/d/1DceFZjJ1-VPJZ-fQDHXhVdVjhoEzczFn/view)
+
   - 漫画
     - [Summer Pocketsーなつのたからものー](https://tonarinoyj.jp/episode/2550912965528956586)
       - []
@@ -64,7 +67,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
   - PV
     - [x] PV1 x3_Pcru8SS8 BV1oL4meHEEs
     - [x] PV2 2u-RIQst_N4 BV1UEQXYwEwP
-    - [ ] PV3 rAb0zmpiJeE
+    - [x] PV3 rAb0zmpiJeE BV1Nk5izhEgW
 
   - OP/ED
     - [x] OP1 REuUOArc0W4 BV1UEQXYwEJ2
