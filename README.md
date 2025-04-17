@@ -64,6 +64,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
   - PV
     - [x] PV1 x3_Pcru8SS8 BV1oL4meHEEs
     - [x] PV2 2u-RIQst_N4 BV1UEQXYwEwP
+    - [ ] PV3 rAb0zmpiJeE
 
   - OP/ED
     - [x] OP1 REuUOArc0W4 BV1UEQXYwEJ2
