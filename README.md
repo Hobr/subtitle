@@ -56,14 +56,6 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
   - 文本
     - [ ] [宣传册](https://drive.google.com/file/d/1DceFZjJ1-VPJZ-fQDHXhVdVjhoEzczFn/view)
 
-  - 漫画
-    - [Summer Pocketsーなつのたからものー](https://tonarinoyj.jp/episode/2550912965528956586)
-      - []
-
-    - [Summer Pockets むぎゅでいず〜紬の島さんぽ〜](https://comic-walker.com/detail/KC_006385_S/)
-      - [ ] 静久＆ナガラさん編
-      - [ ] カモメさん編
-
   - PV
     - [x] PV1 x3_Pcru8SS8 BV1oL4meHEEs
     - [x] PV2 2u-RIQst_N4 BV1UEQXYwEwP
@@ -76,8 +68,6 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 - CITY THE ANIMATION
   - PV
     - [x] 预告PV 4uOl1vpOjAg BV1eBtreKEUt
-    - [ ] PV1 ldLdilBkwVg
-    - [ ] 小松未可子-豊崎愛生-石川由依贺词 WBL7eHw0TrA
   - OP/ED
   - 预告
 
@@ -93,9 +83,6 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
       - [x] 公开PV wiOTWEKzy08 BV1kptrejEkf
       - [x] 声优寄语 8WrKwM90UqE BV1gMtCevEd6
       - [x] 特报 lnFSbMkOP44 BV1AbQXYxEbr
-      - [ ] PV1 BW6bx31UqAM
-      - [ ] 小林幸子贺词 WBL7eHw0TrA
-      - [ ] [30秒预告](https://x.com/i/status/1912056807989891583)
 
 - 吹响吧！上低音号 第三季
   - PV Youtube Watch
