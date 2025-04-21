@@ -125,7 +125,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 
   - OP/ED
     - [x] OP1 1ns78jyf0fw BV1cC411V7yQ BV1dD421579R
-    - [x] ED1 VBNklQKX_IU BV1kp421Q7yJ BV1if421o7V8
+    - [x] ED1 dD8acaodHRk BV1kp421Q7yJ BV1if421o7V8
 
   - 预告
     - [x] 第二集 - 三角切分音(さんかくシンコペーション) _rgXNQHih_o BV16i421f7fE
