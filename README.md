@@ -43,16 +43,6 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 ## 目录
 
 - Summer Pockets
-  - [官方广播](https://www.onsen.ag/program/summerpockets-anime)
-    - [ ] 第一回(4.7) TD5zP1kYHRQ
-    - [ ] 第二回(4.21) f20aqZ4tuAY
-
-  - [鸣濑家的餐桌](https://www.onsen.ag/program/summerpockets-game)
-    - [ ] 第一回(4.14) lOkLGa8JIeg
-
-  - 文本
-    - [ ] [宣传册](https://drive.google.com/file/d/1DceFZjJ1-VPJZ-fQDHXhVdVjhoEzczFn/view)
-
   - PV
     - [x] PV1 x3_Pcru8SS8 BV1oL4meHEEs
     - [x] PV2 2u-RIQst_N4 BV1UEQXYwEwP
@@ -187,9 +177,6 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
       - [x] 未使用画面集6 BV1KozLYtEBz
 
   - 10周年
-    - [ ] 久一年
-    - [ ] 久二年
-    - [ ] 久三年
     - [x] 黑泽-石原访谈 cv41264830
     - [x] 第一季十周年声优寄语 ctgLe1oohpU BV1fNd7YZEUe
 
