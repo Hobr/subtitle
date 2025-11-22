@@ -180,5 +180,10 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - [x] 黑泽-石原访谈 cv41264830
     - [x] 第一季十周年声优寄语 ctgLe1oohpU BV1fNd7YZEUe
 
+  - 十周年纪念
+    - 试听
+      - [ ] 旧・幹部役職会議 M2A0ybfCQiI
+      - [ ] ドライブ upnZahDP1eQ
+
 - 演讲/报告
   - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
