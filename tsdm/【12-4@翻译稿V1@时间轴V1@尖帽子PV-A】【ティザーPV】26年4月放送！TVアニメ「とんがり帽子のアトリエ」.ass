@@ -15,7 +15,6 @@ Video File: 【ティザーPV】26年4月放送！TVアニメ「とんがり帽�
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Video Position: 13
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -25,7 +24,7 @@ Style: 对白 中文,Source Han Sans SC Medium,70,&H00FFFFFF,&H000000FF,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:04.12,Credit,,0,0,0,,本字幕由　{\b1\c&H00FFFF&}TSDM字幕组{\b0\c&HFFFFFF&}　制作　　仅供学习与交流使用　　禁止任何形式的商业用途\N听译：　校对：　时间轴：　二校：　压制：　监制：
+Dialogue: 0,0:00:00.00,0:00:04.12,Credit,,0,0,0,,本字幕由　{\b1\c&H00FFFF&}TSDM字幕组{\b0\c&HFFFFFF&}　制作　　仅供学习与交流使用　　禁止任何形式的商业用途\N听译：阿没歪诶　校对：miho　时间轴：Hobr　二校：　压制：　监制：Lomenot
 Dialogue: 0,0:00:00.52,0:00:04.46,Default,,0,0,0,,今后你将会成为魔法使\N君はこれから 魔法使いになるんだ
 Dialogue: 0,0:00:08.03,0:00:12.97,Default,,0,0,0,,魔法遍布世间 是不可或缺的 便利的奇迹\N魔法は世界にあふれていて なくてはならない便利な奇跡
 Dialogue: 0,0:00:14.22,0:00:17.39,Default,,0,0,0,,能够施展魔法的 唯有魔法使\N魔法をかけられるのは 魔法使いだけ

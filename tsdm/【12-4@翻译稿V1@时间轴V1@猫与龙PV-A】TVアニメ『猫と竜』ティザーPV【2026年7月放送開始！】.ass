@@ -25,7 +25,7 @@ Style: 对白 中文,Source Han Sans SC Medium,70,&H00FFFFFF,&H000000FF,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:04.12,Credit,,0,0,0,,本字幕由　{\b1\c&H00FFFF&}TSDM字幕组{\b0\c&HFFFFFF&}　制作　　仅供学习与交流使用　　禁止任何形式的商业用途\N听译：　校对：　时间轴：　二校：　压制：　监制：
+Dialogue: 0,0:00:00.00,0:00:04.12,Credit,,0,0,0,,本字幕由　{\b1\c&H00FFFF&}TSDM字幕组{\b0\c&HFFFFFF&}　制作　　仅供学习与交流使用　　禁止任何形式的商业用途\N听译：R.　校对：　时间轴：Hobr　二校：　压制：　监制：Lomenot
 Dialogue: 0,0:00:02.20,0:00:04.12,对白 日语,,0,0,0,,遠い昔
 Dialogue: 1,0:00:02.20,0:00:04.12,对白 中文,,0,0,0,,很久以前
 Dialogue: 0,0:00:04.92,0:00:07.12,对白 日语,,0,0,0,,魔獣や精霊が行きかい
