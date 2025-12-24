@@ -179,13 +179,17 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
   - 10周年
     - [x] 黑泽-石原访谈 cv41264830
     - [x] 第一季十周年声优寄语 ctgLe1oohpU BV1fNd7YZEUe
+    - [ ] TRUE生放送 BV1ok2XB4Exo
 
   - 十周年纪念《～每个人的故事～》
-    - 试听
-      - [ ] 15秒预告 EMJ_0A1czCQ
-      - [ ] ドライブ upnZahDP1eQ
-      - [ ] 旧・幹部役職会議 M2A0ybfCQiI
-    - [ ] TRUE生放送 BV1ok2XB4Exo
+    - [ ] 1.〇の中身はなんだろな
+    - [ ] 2.気がある気がする
+    - [ ] 3.ランチタイムにて
+    - [ ] 4.四人は幼馴染み
+    - [ ] 5.ドライブ
+    - [ ] 6.大人の肴
+    - [ ] 7.新・幹部役職会議
+    - [ ] 8.旧・幹部役職会議
 
 - 演讲/报告
   - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
