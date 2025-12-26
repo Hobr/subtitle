@@ -27,8 +27,12 @@ ffmpeg -i video.mp4 -ss 00:xx:xx -to 00:xx:xx -c copy video.mkv
 ffmpeg -map 0:a:1 -c copy CV.wav -i ep.mkv
 ffmpeg -map 0:a:2 -c copy STAFF.wav -i ep.mkv
 
-# Whisper 识别字幕
+# Whisper CTranslate2
 whisper-ctranslate2 --device cuda --language ja --vad_filter True --word_timestamps true --compute_type float16 --print_colors True --verbose True --output_format srt --model large-v3-turbo video.mp4
+
+# WhisperX
+export TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD=true
+whisperx --model RoachLin/kotoba-whisper-v2.2-faster --device cuda --compute_type float16 --vad_method pyannote --segment_resolution sentence --language ja --output_format srt --print_progress True 京吹3/10周年/纪念/1.〇の中身はなんだろな/1.mp3
 
 # 嵌入ass
 ffmpeg -i video.mkv -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.mkv
