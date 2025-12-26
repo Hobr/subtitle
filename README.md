@@ -32,7 +32,7 @@ whisper-ctranslate2 --device cuda --language ja --vad_filter True --word_timesta
 
 # WhisperX
 export TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD=true
-whisperx --model RoachLin/kotoba-whisper-v2.2-faster --device cuda --compute_type float16 --vad_method pyannote --segment_resolution sentence --chunk_size 5 --language ja --output_format srt --print_progress True video.mp3
+whisperx --model RoachLin/kotoba-whisper-v2.2-faster --align_model jonatasgrosman/wav2vec2-large-xlsr-53-japanese --device cuda --compute_type float16 --vad_method pyannote --segment_resolution sentence --chunk_size 5 --condition_on_previous_text True --language ja --output_format srt --print_progress True video.mp3
 ffmpeg -i video.srt sub.ass
 
 # 嵌入ass
