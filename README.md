@@ -32,7 +32,21 @@ whisper-ctranslate2 --device cuda --language ja --vad_filter True --word_timesta
 
 # WhisperX
 export TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD=true
-whisperx --model RoachLin/kotoba-whisper-v2.2-faster --align_model jonatasgrosman/wav2vec2-large-xlsr-53-japanese --device cuda --compute_type float16 --vad_method pyannote --segment_resolution sentence --chunk_size 5 --condition_on_previous_text True --language ja --output_format srt --print_progress True video.mp3
+
+whisperx \
+  --model RoachLin/kotoba-whisper-v2.2-faster \
+  --align_model jonatasgrosman/wav2vec2-large-xlsr-53-japanese \
+  --device cuda \
+  --compute_type float16 \
+  --vad_method pyannote \
+  --segment_resolution sentence \
+  --chunk_size 5 \
+  --condition_on_previous_text True \
+  --language ja \
+  --output_format srt \
+  --print_progress True \
+  video.mp3
+
 ffmpeg -i video.srt sub.ass
 
 # 嵌入ass
@@ -187,14 +201,14 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - [ ] TRUE生放送 BV1ok2XB4Exo
 
   - 十周年纪念《～每个人的故事～》
-    - [ ] 1.〇の中身はなんだろな
-    - [ ] 2.気がある気がする
-    - [ ] 3.ランチタイムにて
-    - [ ] 4.四人は幼馴染み
-    - [ ] 5.ドライブ
-    - [ ] 6.大人の肴
-    - [ ] 7.新・幹部役職会議
-    - [ ] 8.旧・幹部役職会議
+    - [ ] 1.〇の中身はなんだろな　美玲の家で低音パートメンバーでたこ焼きパーティーを開催。自由すぎる面々に、提案したことを少し後悔する美玲だったが……。
+    - [ ] 2.気がある気がする　「……黒江さんってさ」　ちかおの一言から始まった恋バナに呆れる秀一だったが、話題は久美子との関係に。そこに求も加わって……。
+    - [ ] 3.ランチタイムにて　麗奈と真由のサラサラな髪をうらやましがる緑輝がカバンから取り出したのはリボンとフリルのカチューシャ。その数は、２本。ということは…？
+    - [ ] 4.四人は幼馴染み　四人で入った部活のことを話しながら、沙里はみんなが吹奏楽部に入ったことを後悔しているのではないかと心配だった。
+    - [ ] 5.ドライブ　大学生になった夏紀と優子。海に行きたいとみぞれと希美も誘い、四人で旅行へいくことに。
+    - [ ] 6.大人の肴　とある居酒屋で、生徒たちを支え導いてきた大人たちが全国大会金賞の喜びと感動を味わっていた。
+    - [ ] 7.新・幹部役職会議　旧幹部の三人に呼び出された奏と梨々花、美玲。久美子から「次の部長は」と告げられたのは――。
+    - [ ] 8.旧・幹部役職会議　後輩へとバトンをつないでいくため、旧幹部の三人は意見を出し合っていた。これから減っていくであろう三人の時間をかみしめながら。
 
 - 演讲/报告
   - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
