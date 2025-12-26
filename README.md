@@ -32,7 +32,8 @@ whisper-ctranslate2 --device cuda --language ja --vad_filter True --word_timesta
 
 # WhisperX
 export TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD=true
-whisperx --model RoachLin/kotoba-whisper-v2.2-faster --device cuda --compute_type float16 --vad_method pyannote --segment_resolution sentence --language ja --output_format srt --print_progress True 京吹3/10周年/纪念/1.〇の中身はなんだろな/1.mp3
+whisperx --model RoachLin/kotoba-whisper-v2.2-faster --device cuda --compute_type float16 --vad_method pyannote --segment_resolution sentence --chunk_size 5 --language ja --output_format srt --print_progress True video.mp3
+ffmpeg -i video.srt sub.ass
 
 # 嵌入ass
 ffmpeg -i video.mkv -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.mkv
