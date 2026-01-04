@@ -208,7 +208,7 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
     - [x] 5.ドライブ 兜风 BV17SvXBYEmQ
     - [x] 6.大人の肴 大人们的下酒菜 BV1xXvQBrEAN
     - [x] 7.新・幹部役職会議 新班子会议 BV1Cki7B5EUC
-    - [ ] 8.旧・幹部役職会議　後輩へとバトンをつないでいくため、旧幹部の三人は意見を出し合っていた。これから減っていくであろう三人の時間をかみしめながら。
+    - [ ] 8.旧・幹部役職会議 旧班子会议
 
 - 演讲/报告
   - [x] 对开源的思考 - Kelsey Hightower - Linux基金会北美开源峰会 NIvSgk0oV7Y BV1Fs421T726
