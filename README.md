@@ -84,6 +84,11 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
 - 京都动画
   - [x] 2024.9.21新作发布会 oTCPgSP6SUQ BV19ztrevEzc
 
+  - 二十世纪电气目录
+    - PV
+      - [ ] 监督寄语 视频 xU5jzXRndDc
+      - [ ] 监督寄语 文字 <https://about.netflix.com/ja/news/2026-4-title-announcement>
+
   - 小林家的龙女仆剧场版
     - PV
       - [x] 公开PV wiOTWEKzy08 BV1kptrejEkf
