@@ -34,12 +34,13 @@ Style: EDJP,A-OTF Jun Pro 201,42,&H001C045A,&H00A1326F,&H1EFFFFFF,&H00000000,-1,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:04.00,声明,,0,0,0,,本字幕由　{\b1\c&H00FFFF&}TSDM字幕组{\b0\c&HFFFFFF&}　制作　　仅供学习与交流使用　　禁止任何形式的商业用途\N听译：饺子、澄沨、Queenyi　时轴：aoch1zaq、半价薯片、Hobr　校对：AuroraAkie
+Dialogue: 0,0:00:00.00,0:00:04.00,声明,,0,0,0,,本字幕由　{\b1\c&H00FFFF&}TSDM字幕组{\b0\c&HFFFFFF&}　制作　　仅供学习与交流使用　　禁止任何形式的商业用途\N听译：剧团狗咖喱、乡巴佬、饺子　时轴：tsa、半价薯片、Hobr　校对：雍
 Dialogue: 0,0:00:04.00,0:00:07.50,声明,,0,0,0,,二校：AuroraAkie、Lomenot　压制：一问三不知　监制：AuroraAkie
 Dialogue: 0,0:01:28.07,0:01:31.27,场面文本,轴：不知道本组的标准是什么，就简单做了个渐变,0,0,0,,{\move(1590,875,1605,875)\fad(500,0)\fsp5\fs50\bord0\shad2\3c&H908478&\4c&H000000&}露琪雅·欧布莱恩
 Dialogue: 0,0:06:05.10,0:06:08.87,场面文本,轴：不知道本组的标准是什么，就简单做了个渐变,0,0,0,,{\move(375,875,355,875)\fad(500,500)\fsp5\fs50\bord0\shad2\3c&H908478&\4c&H000000&}艾德法斯·卡斯提奥
 Dialogue: 0,0:10:04.85,0:10:12.33,场面文本,Scarlett,0,0,0,,{\pos(562,246)\bord0\shad0\c&H5A8EBD&\fs96\frz29.72}Vado：巴德
 Dialogue: 0,0:10:04.85,0:10:12.33,场面文本,Scarlett,0,0,0,,{\pos(740.667,643.334)\bord0\shad0\c&H5A8EBD&\fs96\frz22.39}Salvador：萨尔瓦多
+Dialogue: 0,0:11:35.82,0:11:38.30,场面文本,,0,0,0,,{\move(385,875,370,875)\fad(500,0)\fsp5\fs50\bord0\shad2\3c&H908478&\4c&H000000&}圣马可斯广场
 Dialogue: 0,0:14:08.20,0:14:12.21,场面文本,需要轴,0,0,0,,{\move(1600,875,1625,875)\fad(500,500)\fsp5\fs50\bord0\shad2\3c&H908478&\4c&H000000&}艾夏·赫胥黎
 Dialogue: 1,0:00:01.13,0:00:05.88,对白 中文,Scarlett,0,0,0,,总觉得最近 你越来越不在乎本小姐的复仇了
 Dialogue: 0,0:00:01.13,0:00:05.88,对白 日语,Scarlett,0,0,0,,何だか最近　私の復讐がないがしろにされてる気がしてよ
