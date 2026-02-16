@@ -198,7 +198,6 @@ yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/w
   - 10周年
     - [x] 黑泽-石原访谈 cv41264830
     - [x] 第一季十周年声优寄语 ctgLe1oohpU BV1fNd7YZEUe
-    - [ ] TRUE生放送 BV1ok2XB4Exo
 
   - 十周年纪念《～每个人的故事～》
     - [x] 1.〇の中身はなんだろな 章鱼烧里藏了什么呢 BV1ByiwBoEz2
