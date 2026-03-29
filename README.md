@@ -54,7 +54,7 @@ ffmpeg -i video.mkv -vf "subtitles=sub.ass" -c:v libx264 -crf 15 -c:a copy dist.
 
 # 直播
 yt-dlp --cookies-from-browser firefox -g 'https://www.youtube.com/watch?v=XXX'
-ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persistent 0 -o "record.mkv"
+ffmpeg -i "m3u8地址" -vcodec copy -acodec aac -f flv "rtmp://xxx" -http_persistent 0
 # 实时录制
 yt-dlp --cookies-from-browser firefox -o "record.mkv" 'https://www.youtube.com/watch?v=XXX' --live-from-start
 ```
